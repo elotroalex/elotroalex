@@ -1,0 +1,66 @@
+---
+title: What do we teach when we teach writing?
+author: elotroalex
+layout: post
+permalink: /what-do-we-teach-when-we-teach-writing/
+btcnew_comment_summary:
+  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:7:"twitter";s:3:"cnt";s:2:"17";s:7:"enabled";s:1:"1";}}'
+btcnew_comment_counts:
+  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:7:"twitter";s:3:"cnt";s:2:"17";s:7:"enabled";s:1:"1";}}'
+btcnew_post:
+  - 'a:6:{s:2:"ID";s:3:"616";s:13:"post_date_gmt";s:19:"2011-04-09 02:29:16";s:23:"initial_import_date_gmt";s:19:"2011-04-09 02:32:13";s:20:"last_import_date_gmt";s:19:"2011-04-29 02:26:01";s:4:"hits";s:2:"17";s:6:"misses";s:3:"197";}'
+btcnew_retweet:
+  - 269
+  - 270
+  - 272
+  - 277
+  - 279
+  - 281
+  - 282
+  - 283
+btcnew_twitter:
+  - 269
+  - 270
+  - 271
+  - 272
+  - 273
+  - 274
+  - 275
+  - 276
+  - 277
+  - 278
+  - 279
+  - 280
+  - 281
+  - 282
+  - 283
+  - 284
+  - 285
+categories:
+  - Teaching
+---
+As part of the administrations&#8217;s cosmetic budget cuts, president Obama signed a bill on March 2 to eliminate all direct federal funding for the [National Writing Project][1] (NWP). I heard about this unfortunate decision through [Chad Sansing][2] ([@chadsansing][3]) who has been an active part of [a national campaign][4] to attract bloggers to the issue (#blog4nwp). As many bloggers have already pointed out, and many studies show, the NWP program is one of those rare programs that [actually works][5]. [The Project][6] runs &#8220;a network of sites anchored at colleges and universities&#8221; [across the nation][7], which in turn &#8220;provide professional development, develop resources, generate research, and act on knowledge to improve the teaching of writing and learning in schools and communities early childhood to the university.&#8221; There are two things that stand out about the NWP for me: a) Their advocacy of writing as a necessary constituent of the democracies, our democracy of the future, and b) Their awareness of the paradigm shift brought about by new media technologies. 
+
+I should perhaps disclose that I am not affiliated with the [Central Virginia Writing Project][8], our local chapter of the NWP, based here in Charlottesville. What I AM though is a parent and a teacher. Even more to the point, I have taught the first-year writing requirement for students at the University of Virginia, on and off but mostly on, for the past 7 years. Since I cannot share any &#8216;personal&#8217; experiences on NWP, I would like to blog instead on a more general vein about what it is that we teach when we teach writing (in the digital age). 
+
+Actually, let&#8217;s start by those things I don&#8217;t teach when I teach writing: 1) I don&#8217;t teach handwriting or typing. I couldn&#8217;t care less about your score on Typing of the Dead. When we say we teach writing, we are talking about another kind of writing; 2) I don&#8217;t teach expression. I think folks do that just fine by themselves without my help. Putting down just any old words on paper or Blogger, recording your voice, etc., that&#8217;s not it at all either. So what is this thing? The honest answer can fill volumes so I will just offer the blog version as an abstract of what those volumes would consist of if I wrote them.
+
+In brief, we teach *the ethos of argument* and *the rhetorics of media*. 
+
+**The ethos of argument:** Argument, when formulated well and supported rigorously can serve as one of the best defenses against the most destructive tendencies of the political animal. Argument has never been the sole guarantee of cultural sanity, nor the all-in-one solution on the quest for the golden balance between freedom and social justice. In fact, one could argue that argument and democracy share the distinction of remaining the best two unfulfilled promises of history. And yet those of us who teach continue to hope, because we know that the good argument, the one that supports its claims with tight-knit reasons, solid evidence, well-linked warrants, and a healthy dose of humility in the face of dissension, THAT argument makes myth, ideology, propaganda, slogans, and the whole lot of the rhetorical vices quake at the core. As a teacher of argument, one of the most radical things that I can do in class is leave overt discussion of my political ideas out of the equation and focus on the principles of good argumentation (many of my students still wonder where I fall on the spectrum). No wonder the enemies of argument are legion.
+
+**The rhetorics of media:** Still a new idea to some, and bears repeating: Words do not exist outside of some embodiment. That body can be a piece of paper, a book, a series of 1&#8217;s and 0&#8217;s that processed the right way convert into meaningful glyphs on our blogs. Voices roll from our tongues, our record players, to the beat of a tune, or not. You get the point. Interestingly enough, each of these media change words, or text as we like to say around here. That difference can be reverse-engineered. We can know what each medium adds and detracts from the other, what specific effects we can create here and there, and much more. The writing teacher teaches transparency, and in her whistle-blowing mission, she reveals the cogs and sprockets behind texts. The writing teacher campaigns against the blind act of faith that trusts words to x or y medium pell-mell without reflection. He knows that those who are aware of the *techne *can refine their arguments, add layers of meaning, throw a dash of beauty into the mix for good measure, in short, take ownership of their discourse. This engagement with the mechanics of our media seems to me more of a responsibility than a right when I see first-hand how it deters the alibis of ignorance and guards us against those who continue to use this knowledge to deceive.
+
+So there it is in industrial strength concentration: I do not teach writing because it can lead to prosperity (although argument tells you that blessed is the society that can live in shared prosperity), nor because it makes you more creative (a great side-effect which has been observed in some of our clients!). No, I teach writing because I believe it is the closest we get to a medium for hope. 
+
+I join my voice to the NWP. Their networked model and their engagement with the network are a blueprint for the kind of writing that I would like my sons to learn. Their success and practice speak the volumes that this small abstract clumsily aspires to. Please support them by sending [an open letter][9] to posterous, or do as I did, and #blog4nwp. Government is on off tonight. Let&#8217;s do this before their switch turns back on and we find the room to be emptier.
+
+ [1]: http://www.nwp.org/cs/public/print/resource/3507
+ [2]: http://classroots.org/
+ [3]: https://twitter.com/#!/chadsansing
+ [4]: http://coopcatalyst.wordpress.com/2011/03/15/the-blog4nwp-archive/
+ [5]: http://speedchange.blogspot.com/2011/03/funding-what-works-national-writing.html
+ [6]: http://www.nwp.org/cs/public/print/doc/about.csp
+ [7]: http://www.nwp.org/cs/public/print/doc/findasite/home.csp
+ [8]: http://curry.virginia.edu/community-programs/professional-development/cvwp
+ [9]: mailto:post@blog4nwp.posterous.com

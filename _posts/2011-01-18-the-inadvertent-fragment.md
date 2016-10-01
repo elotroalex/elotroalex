@@ -1,0 +1,111 @@
+---
+title: 'The Inadvertent Poem: Césaire, Caillois and Lettres Françaises'
+author: elotroalex
+layout: post
+permalink: /the-inadvertent-fragment/
+btc_comment_counts:
+  - 'a:0:{}'
+btcnew_post:
+  - 'a:6:{s:2:"ID";s:3:"223";s:13:"post_date_gmt";s:19:"2011-01-18 03:24:58";s:23:"initial_import_date_gmt";s:19:"2011-02-22 00:31:54";s:20:"last_import_date_gmt";s:19:"2011-02-22 00:31:54";s:4:"hits";s:1:"0";s:6:"misses";s:1:"1";}'
+btcnew_comment_counts:
+  - 'a:0:{}'
+btcnew_comment_summary:
+  - 'a:0:{}'
+categories:
+  - Césaire
+tags:
+  - Aimé Césaire
+  - André Breton
+  - Lettres Françaises
+  - Literary History
+  - Négritude
+  - Roger Caillois
+  - Surrealism
+---
+<p align="justify">
+  As I&#8217;ve argued <a href="http://elotroalex.webfactional.com/essays/bridging-the-middle-passage-2/" target="_blank">elsewhere</a>, Césaire&#8217;s early career revolves around several networks of collaborators in the Americas. At the time I made that argument, thinking I was already breaking some ground, I thought that Césaire&#8217;s collaborations only extended as far as the United States and the Caribbean. Apparently I needed to dig a bit deeper. A couple of months ago I unearthed one of his short pieces, &#8220;Poème,&#8221; reprinted in 1945 in <em>Lettres françaises</em>, the literary journal published in Buenos Aires during the war period under the editorship of French thinkerer R. Caillois.<a href="#foot1">[1]</a> More recently, Pierre Laforgue and I, working together, were able to track down a reprint of another poem, &#8220;Soleil Serpent,&#8221; to <em>Leitmotiv: Boletín De Hechos & Ideas</em>, published in Santiago de Chile in 1943.<a href="#foot2">[2]</a>
+</p>
+
+<p align="justify">
+  In 1944 and 1945, two poems by Césaire with the title &#8220;Poème&#8221; appeared in the Martinique journal <em>Tropiques</em>. Both of these were presented as part of an upcoming play, &#8220;Et les chiens se taisaient.&#8221; Both of these eventually did become part of the <em>Oratorio lyrique</em> that was published under the name &#8220;Et les chiens se taisaient&#8221; in 1946 as part of the poetry collection <em>Les Armes miraculeuses</em>. The &#8220;Poème&#8221; published in Buenos Aires, on the 15th of April of 1945, issue N°16 of <em>Lettres françaises</em>, turns out to be an almost exact replica of the first of these, published almost a year earlier in May of 1944, issue N°11 of <em>Tropiques</em>. There are a few differences in line breaks, namely in the second and third line, but the substantials and accidentals remain the same. The most striking difference is the absence of the note at the end of the poem which in <em>Tropiques</em> declares it to be part of &#8220;(Et les chiens se taisaient. ACTE I.)&#8221; effectively transforming the piece from a fragment to a stand-alone poem. Despite this recasting, the substantial overlap makes it seem likely that the text was taken directly from a physical copy of the <em>Tropiques</em> issue where it first appeared and not from a manuscript.
+</p>
+
+&#8220;Poème&#8221; is a brief poem of 35 lines. In the context of the ur-text of &#8220;Et les chiens se taisaient&#8221; where we find these lines for the first time, they belong to the beginning of the play, more specifically to Toussaint Louverture&#8217;s forceful response to the ominous refrains of the &#8216;*Recitants*,&#8217; who foretell war and death : &#8220;*Hé bien, je périrai. Mais nu. Intact. Ma main dans ma main* [&#8230;]&#8221; Within the play, the lines reflect Toussaint&#8217;s dismissal of death in the face of a violent opening unto nature, a merger of sorts with the unbound. A series of images follow of the speaker standing naked, on the welcoming end of rapid-fire lacerations:
+
+<blockquote align="justify">
+  <p>
+    nu comme l&#8217;eau<br />nu comme le regard unicorne de midi<br />comme le cri et la morsure<br />[&#8230;]<br />je suis nu dans les pierres<br />Approchez donc les flammes effilées, paquets de frisson.<br />Que la senteur des feux jette son javelot autour de ma tête.
+  </p>
+</blockquote>
+
+<p align="justify">
+  Outside of its former context, the &#8220;Poème&#8221; of <em>Tropiques</em> and <em>Lettres françaises</em> ceases to respond to fate. What was once the threat of history, doubling the sense of these lines, now boils down to nature/words, the ambivalent enemy engulfing the naked man.
+</p>
+
+<p align="justify">
+  After the poem is published as a fragment, it will become part of the first published version of the work, the <em>oratorio lyrique</em>. In this new context the lines migrate to the end of the play, moments before Le Rebelle will indeed be tortured to death. Foreboding, no doubt, but not much of a prelude. In this new context then, locked in a gray cell, besieged by gray temptations, the cascade of luscious images creates a new contrast that could not belong to the previous two. Again, it is only in the &#8220;Poème&#8221; fragment where we can read the lines in such a way that man is confronted solely with nature, where the lines are blurred between the two. Despite all other important differences that a comparison of the versions reveals, it is this reading which is the most curious when we consider where the fragment was published (and by where I mean by whom).
+</p>
+
+<p align="justify">
+  It is hard to say whether the text ended in R. Caillois&#8217; hand without Césaire&#8217;s knowledge, perhaps through the intermediary hand of A. Breton, or whether Césaire was collaborating with Caillois directly. Around this time, a decade before Césaire famously crushes Caillois&#8217; racist ideology in <em>Discours sur le colonialisme</em>, Césaire was already wary of Caillois, to say the least. In the correspondence between Césaire and Breton during the war years, Césaire comes out swinging against his fellow <em>normalien</em> several times.<a href="#foot3">[3]</a> After reading Caillois&#8217; short essay &#8220;<em>Les arbres de Lapa</em>&#8221; published in New York in issue N°4 of <em>Hémisphères</em> (January 1944), Césaire complains to Breton in a letter dated January 17, 1944 about Caillois&#8217;s anti-poetic tendencies. In the following letter, dated April 4, 1944, in case Breton missed the point, Césaire comments to Breton, apropos of the same text, that Caillois is certainly intelligent, BUT —he suggests in no uncertain terms— also old, boring and stiff.<a href="#foot4">[4]</a>
+</p>
+
+<p align="justify">
+  The essay by Caillois that so ruffled Césaire&#8217;s feathers argues, rather poetically, that the artist must guard against using nature as a justification for his own chaotic impulses. Always the social theorist, he repeats here in terms of the ideal artist his early idea that sentient beings have a tendency to mimic or become absorbed by what they see in nature, what he calls elsewhere <em>psychasthénie légendaire</em>.<a href="#foot5">[5]</a> Towards the end of the essay he prescribes restraint in a manner that, at least for me, augurs some of <a href="http://elotroalex.webfactional.com/cafe/archives/326"  target="_blank">Derek Walcott</a>&#8216;s relationship to poetic form:
+</p>
+
+<blockquote align="justify">
+  <p>
+    Mais une mystérieuse discipline commande à l&#8217;inverse d&#8217;apaiser avec rigueur ces insolents remous pour qu&#8217;une grande paix leur succède et que, de leur turbulence, ne subsiste que la force d&#8217;âme qui s&#8217;est trempée en les domptant et qui, pour en avoir triomphé, sait emplir et gonfler la ligne d´un noble style [&#8230;] (64, 66)
+  </p>
+</blockquote>
+
+<p align="justify">
+  I understand why Césaire might have taken issue with this argument. In the same letter where he chastises Caillois, Césaire declares his allegiance to the surrealist movement in terms of a freedom from rules, prosodic or otherwise. This is also the same letter where he asks Breton to downgrade the manuscript version of &#8220;Et les chiens se taisaient&#8221; to the status of a canvas because its historicity was an uncomfortable rem(a)inder of the unbearable weight of what the surrealists would call the thesis or theme. At this juncture, freedom was THE master signifier for Césaire, and to him it was linked directly to poetry and surrealism.
+</p>
+
+<p align="justify">
+  It is curious then that one of Césaire&#8217;s poems appears the next year in issue N° 16 of Caillois&#8217; journal, <em>Lettres françaises</em>. Did something change during the span of a year? So far, I can&#8217;t tell with certainty whether Césaire was in direct communication with Caillois, but it is certainly possible. For all I know they knew each other from the haunts around <em>Rue d&#8217;Ulm</em> or the <em>Rue Saint Jacques</em> in the 30s. They were both the same age and they were both in <em>hypokhâgne</em> class at Louis-le-Grand (1931-1932), then in <em>khâgne</em> (1932-1933). Caillois was admitted to the ENS first, and it is possible that the seeds of resentment were planted around that time. We do know with certainty that Césaire is aware of the existence of the Buenos Aires journal. He complains in a very brief letter to Breton posted from Haiti on October 28, 1944 that Caillois has taken him to task in <em>Lettres françaises</em> following an article by Breton. <a href="#foot6">[6]</a> Although it shows that Césaire is indeed aware of LF, it remains a rather mysterious comment to me. As far as I could see while I had the LF volumes in my hands there were only a few mentions of Césaire before his own poem was published there, but nothing that fits what he describes.
+</p>
+
+<p align="justify">
+  On issue N°3, January 1, 1942, LF publishes Breton&#8217;s and Masson&#8217;s &#8220;Le Dialogue Créole,&#8221; which would later become part of <em>Martinique, charmeuse de serpents,</em> but no direct mention of Césaire occurs in this early piece. By the time he is mentioned in LF later that year, it is true that he is taken to task&#8230; sort of. In issue N°6, November 1st, 1942, in a review of the different articles of the 1st issue of <em>VVV</em> (June 1942), we find a review of &#8220;Conquête de l&#8217;Aube&#8221; right after a review of Breton&#8217;s &#8220;Prolègomènes to a Third Manifest of Surrealism or Else&#8221; (which does not mention Césaire). The review of &#8220;Conquête de l&#8217;Aube&#8221; was short and to the point, so much so that we feel we can quote it here whole:
+</p>
+
+<blockquote align="justify">
+  <p>
+    Aimé Césaire: <em>Conquête de l&#8217;Aube</em>. Poème d&#8217;une notable puissance lyrique malheureusement affaiblie par l&#8217;emploi de nombreaux adjectifs trop automatiquement poétiques, du genre: extatique, merveilleux, somnambule, convulsif, incendiaire, etc. (56)
+  </p>
+</blockquote>
+
+<p align="justify">
+  In issue N° 15 of LF, Césaire&#8217;s name appears again next to Breton&#8217;s, this time in a review of issue N° 35 of <em>Fontaine</em>. In that issue of <em>Fontaine</em>, Césaire&#8217;s &#8220;Batouque&#8221; appears right after Breton&#8217;s &#8220;Un grand poète noir.&#8221; A series of confusing notes in LF send us from Césaire &#8220;<em>(voir note précedent)</em>&#8221; to Breton &#8220;<em>(voir la note à propos de la conférence de Bernanos)</em>&#8221; to a note on G. Bernanos&#8217; &#8220;Sur le cas de conscience français&#8221; where it becomes clear that Caillois is not happy with a notice on the verso of the cover of that issue of <em>Fontaine</em> which claims that &#8220;<em>La revue ne publie que de l&#8217;inédit</em>.&#8221; All three of the texts to which the interconnected notes belonged were reprints. &#8220;<em>C&#8217;est trop abuser le lecteur</em>,&#8221; gripes Caillois. None of the notes give us any commentary on the texts themselves.
+</p>
+
+<p align="justify">
+  Besides the poem itself, this is the extent of Césaire&#8217;s presence in LF as far as I was able to see. If indeed I didn&#8217;t miss a thing, it means that Césaire just heard about his name being mentioned from a third party, that somehow it was linked to Breton and that he never saw an issue directly. The wording of the comment to Breton in the Haiti letter also suggests to me that what he heard about LF did not come from Breton, although I&#8217;m open for alternative readings.
+</p>
+
+<p align="justify">
+  We also know that Caillois at some point had Césaire&#8217;s address. In a letter dated April 2, 1945 Césaire informs Breton that he was surprised to receive a copy of <em>Les impostures de la poèsie</em> from Caillois (although Césaire doesn&#8217;t refer to him by his proper name). This arrival by post comes days before the publication of &#8220;Poème&#8221; in LF. It is indeed possible that the two had established a correspondence, but why the surprise on Césaire&#8217;s part to receive the text? Why also continue the vituperations if they are collaborating? I think we may only answer these questions if a correspondence between the two comes to light. In the meantime, we do have evidence that Breton is collaborating with Caillois in LF early, that Caillois reads &#8220;Un grand poète noir&#8221; before he decides to publish a poem by the young poet from Martinique and that it was not the first time that Breton shared a text of Césaire with those in a position to publish them without informing him —after all, the reason why the early typescript of &#8220;Et les chiens se taisaient&#8221; ended up in Saint-Dié des Vosges was because Breton passed the loose sheets to Yvan Goll with God knows what purpose.
+</p>
+
+<p align="justify">
+  I can&#8217;t say either way. Thus far, I&#8217;m tempted to agree with my colleague and friend Kora Veron Leblé when she quips that &#8220;<em>Césaire ne met jamais tous ses oeufs dans le même panier.</em>&#8221; (Alas, some idiomatic phrases translate just fine). This begs the question of course, are they the same eggs in different baskets? I will try to answer this question and more in the near future.
+</p>
+
+
+
+* * *
+
+###### <a name="foot1">[1]</a> *Lettres françaises* was published under the imprint of *Sur* with the help of Victoria Ocampo, &#8220;*la mujer mas Argentina*,&#8221; as Borges would call her. Borges himself appears in the journal on a few occasions. Besides Césaire and Borges, many other important writers of the time left their imprint on its pages, making it one of the most important French language journals of the war period.
+
+###### <a name="foot2">[2]</a> This will be the subject of an upcoming post on Césaire and the culture of reprint that fueled the internationalization of surrealism. Stay tuned.
+
+###### <a name="foot3">[3]</a> My gratitude to René Henane for allowing me to consult his transcriptions of the correspondence housed at the *Bibliothèque littéraire Jacques Doucet* in Paris and for his friendship. Because of their unfortunate policies regarding citations, during the course of this post I am forced to use paraphrase when I refer to the correspondence. Let those few bless&#8217;d souls who have graced the hollowed grounds of Doucet judge whether I do justice to the texts or not.
+
+###### <a name="foot4">[4]</a> Bibliothèque littéraire Jacques Doucet, fonds André Breton (BRT.C.448 and BRT.C.449).
+
+###### <a name="foot5">[5]</a> See &#8220;Mimétisme et psychasthénie légendaire,&#8221; *Minotaure*, 7, 1935. On an interesting note, Lacan will borrow this concept from Caillois as one of the building blocks of his theory of the mirror stage.
+
+###### <a name="foot6">[6]</a> Bibliothèque littéraire Jacques Doucet, fonds André Breton (BRT.C.455). [Enveloppe. Cachet postal : 30 octobre 1944. Monsieur André Breton / 45 W 56th St / New York / N.Y. / États-Unis. Exp. : A. Césaire. c/o Légation de France. Port-au-Prince / Haïti.]

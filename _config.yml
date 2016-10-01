@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "@elotroalex"
+email: colibri.alex@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  @elotroalex reads "the other Alex" in Spanish. Although the handler carries hints of Borges, Marti and the big Other, I get it mostly from my grandmother. Every time I misbehaved she used to say: "Yo se que no fuiste tu, mijo. Fue el otro Alex." Let's say I keep it as a reminder of the playful mischief of grace.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
