@@ -3,12 +3,6 @@ title: Owning up the Praxis Program
 author: elotroalex
 layout: post
 permalink: /owning-up-the-praxis-program/
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-btcnew_post:
-  - 'a:6:{s:2:"ID";s:3:"701";s:13:"post_date_gmt";s:19:"2011-08-30 01:54:19";s:23:"initial_import_date_gmt";s:19:"2011-08-30 01:57:36";s:20:"last_import_date_gmt";s:19:"2011-09-19 01:21:00";s:4:"hits";s:1:"0";s:6:"misses";s:3:"222";}'
 categories:
   - Announcements
   - Digital Humanities

@@ -45,10 +45,10 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
-    display: block; 
-    float: none;
-    border: 0px;
-    margin: 2rem auto 2rem auto;
+}
+
+img#home-image {
+    margin: -30px auto;
 }
 
 
@@ -58,10 +58,17 @@ img {
  */
 figure > img {
     display: block;
+    float: none;
+    border: 0px;
+    margin: auto;
+    width: 80%;
 }
 
 figcaption {
     font-size: $small-font-size;
+    text-align: center;
+    margin-top: -2rem;
+    margin-bottom: 2rem;
 }
 
 
@@ -117,11 +124,11 @@ blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: $base-font-size;
+    font-size: .9rem;
     letter-spacing: .5px;
     font-style: italic;
     font-weight: 200;
-    font-family: Tahoma, Geneva, sans-serif;
+    font-family: Verdana, Geneva, sans-serif;
     margin-top: 2rem;
     margin-bottom: 2rem;
 
@@ -206,7 +213,11 @@ blockquote {
     color: gray;
 }
 
-
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: gray;
+}
 
 
 /**

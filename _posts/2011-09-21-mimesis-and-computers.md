@@ -3,18 +3,8 @@ title: Mimesis and Computers
 author: elotroalex
 layout: post
 permalink: /mimesis-and-computers/
-btcnew_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_post:
-  - 'a:6:{s:2:"ID";s:3:"720";s:13:"post_date_gmt";s:19:"2011-09-21 00:59:59";s:23:"initial_import_date_gmt";s:19:"2011-09-21 01:01:12";s:20:"last_import_date_gmt";s:19:"2011-10-10 22:06:35";s:4:"hits";s:1:"0";s:6:"misses";s:3:"190";}'
 categories:
   - Digital Humanities
-tags:
-  - artificial intelligence
-  - computers
-  - human
 ---
 [Reposted from the [Scholars&#8217; Lab blog][1]]
 
@@ -24,13 +14,10 @@ After Wagner called for a <a href="http://en.wikipedia.org/wiki/Gesamtkunstwerk"
 
 I hear echoes of those debates and cultural shifts in our moment, when computers are starting to resemble us more and more. Computers don&#8217;t replace us always in the way that machines replaced farmers or smiths, although there are still parallels between ours and the anxieties of the industrial and agricultural revolution. And just like machines then generated monstrous forms of mechanized human labor, computers do the same (If you don&#8217;t believe me, ask any of my students for [Project Tango][2]). However, there is another anxiety I see which is not necessarily that of the repetitive tasks of machines replacing familiar mechanical tasks with unforeseen ones. I&#8217;m talking about our fear of marionettes. Even more specific, the fear that we will confuse the marionettes for human beings.
 
-<div id="attachment_2449" style="width: 250px" class="wp-caption alignleft">
-  <a href="http://i0.wp.com/www.scholarslab.org/wp-content/uploads/2011/09/quixote.jpg"><img class="size-medium wp-image-2449    " style="margin-right: 10px; border-width: 2px; border-color: gray; border-style: solid;" title="Quixote fights the puppets" src="http://i1.wp.com/www.scholarslab.org/wp-content/uploads/2011/09/quixote-300x225.jpg?resize=240%2C180" alt="Quixote fights the puppets" data-recalc-dims="1" /></a>
-  
-  <p class="wp-caption-text">
-    Quixote fights the puppets
-  </p>
-</div>
+<figure>
+<img title="Quixote fights the puppets" src="{{site.baseurl}}/images/quixote-puppets.jpg" alt="Quixote fights the puppets"/>
+<figcaption>Quixote fights the puppets</figcaption>
+</figure>
 
 The true marionette is **always **controlled by a human, so are computers&#8230; ultimately. We ventriloquise through them, and they only talk back to us according to our ridiculously precise instructions. I&#8217;m not talking about [Bina48][3]. She&#8217;s kind of creepy. I&#8217;m talking about the ways in which a google search acts like an operator at the end of a 411 call; or the way that netflix suggests what we might like. There are two approaches to figuring out what counts as a title in a large repository: we can tag it, or we can write an algorithm that does it for us. Don&#8217;t worry, we&#8217;re not there yet completely. At some point that meta-data might pass the <a href="http://en.wikipedia.org/wiki/Turing_test" target="_blank">Turing test</a>. When it does, by definition, users will think a human did the work&#8230; but wait a second.
 

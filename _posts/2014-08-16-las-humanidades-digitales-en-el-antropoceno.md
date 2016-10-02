@@ -12,9 +12,8 @@ categories:
 
 ## Las humanidades digitales en el Antropoceno
 
-#### Texto original de [Bethany Nowviskie][3]
-
-#### Traducción al español por Alex Gil
+Texto original de [Bethany Nowviskie][3]  
+Traducción al español por Alex Gil
 
 &nbsp;
 
@@ -105,7 +104,7 @@ Tenemos muchos mensajeros listos para las imperativas que les he planteado esta 
 Terminé de escribir esta charla, pero no sabía como parar—así que me fui a nadar. *Bajo* y *profundo,* recitan los azulejos de ceramica, en los puntos finales de la linea que siempre elijo. A lo mejor a ti te gusta chapotear también. Yo empiezo con una de las palabras, y extiendo mis manos hacia la otra, de atras hacia alante, una y otra vez, mientras dura mi piscina.
 
  [1]: http://nowviskie.org/2014/anthropocene/ "Digital Humanities in the Anthropocene"
- [2]: {{site.baseurl}}/docs/antrhopocene.pdf
+ [2]: {{site.baseurl}}/docs/nowviskie-antropoceno.pdf
  [3]: http://nowviskie.org/
  [4]: https://www.google.com/search?q=shenandoah+valley+beauty&source=lnms&tbm=isch
  [5]: http://www.nature.com/nature/journal/v371/n6492/abs/371065a0.html

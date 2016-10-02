@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
+permalink: /bio/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Alex Gil is Digital Scholarship Coordinator for the Humanities and History and affiliate Faculty of the Department of English at Comparative Literature at Columbia University. He serves as a collaborator with faculty, students and the library leveraging non-trivial technologies in humanities research, pedagogy and scholarly communications. Current projects include Ed, a digital platform for minimal editions of literary texts; the Open Syllabus Project; the Translation Toolkit; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century. He is founder and former chair of the Global Outlook::Digital Humanities initiative, and the co-founder and co-director of the Group for Experimental Methods in the Humanities and the Studio@Butler at Columbia University.

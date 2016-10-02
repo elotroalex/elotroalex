@@ -3,12 +3,6 @@ title: '&#8230;and then the Herokulypse'
 author: elotroalex
 layout: post
 permalink: /and-then-the-herokulypse/
-btcnew_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_post:
-  - 'a:6:{s:2:"ID";s:3:"931";s:13:"post_date_gmt";s:19:"2012-04-23 20:42:43";s:23:"initial_import_date_gmt";s:19:"2012-04-23 20:47:42";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}'
 categories:
   - Digital Humanities
   - Praxis Program
@@ -21,7 +15,7 @@ For the past couple of weeks, I have been working instead on the small stuff tha
 
 Once in a while a bug comes, so uncanny, so daunting, that it makes you want to become a novelist. That was the Herokulypse. I obsessed about it for three days at the expense of my dissertation and everything else, with no results. The great obi-wayne-kenobot finally found the problem. To my relief I was on the right track trying to solve it. I just didn&#8217;t figure out the part about [disabling page caching on the pages controller][2]. Live and learn, and learn I did: Plumbing is real.
 
-I found the lesson timely at a moment when we are debating the <a href="http://miriamposner.com/blog/?p=1141" target="_blank">obstacles</a> [and][3] <a href="http://librarian.newjackalmanac.ca/2012/03/gender-coding-libraries-digital.html" target="_blank">affordances</a> <a href="http://philomousos.blogspot.com/2012/03/spot-of-mansplaining.html" target="_blank">of</a> [coding][4] for digital humanities. The experience with the Herokulypse really brought home for me the idea that code is labor, and that the digital humanities really puts pressure on our notions of leisure, labor and power. I am still working out these issues &#8211;issues which all my predecessors seem to have encountered in one way or another&#8211; and will be sure to report back to the public when I have more insights. 
+I found the lesson timely at a moment when we are debating the <a href="http://miriamposner.com/blog/?p=1141" target="_blank">obstacles</a> [and][3] <a href="http://librarian.newjackalmanac.ca/2012/03/gender-coding-libraries-digital.html" target="_blank">affordances</a> <a href="http://philomousos.blogspot.com/2012/03/spot-of-mansplaining.html" target="_blank">of</a> [coding][4] for digital humanities. The experience with the Herokulypse really brought home for me the idea that code is labor, and that the digital humanities really puts pressure on our notions of leisure, labor and power. I am still working out these issues—issues which all my predecessors seem to have encountered in one way or another—and will be sure to report back to the public when I have more insights. 
 
 In the meantime, I won&#8217;t ask you to be careful of what you wish for. On the contrary, I will encourage you to scurry down the rabbit hole of code, that you may never think yourself superior to anyone who leans on the side of hack over yack.
 

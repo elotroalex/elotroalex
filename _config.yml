@@ -7,13 +7,24 @@
 
 # Site settings
 title: "@elotroalex"
+author: "Alex Gil"
 email: colibri.alex@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   @elotroalex reads "the other Alex" in Spanish. Although the handler carries hints of Borges, Marti and the big Other, I get it mostly from my grandmother. Every time I misbehaved she used to say: "Yo se que no fuiste tu, mijo. Fue el otro Alex." Let's say I keep it as a reminder of the playful mischief of grace.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: elotroalex
+github_username:  elotroalex
 
 # Build settings
 markdown: kramdown
+
+# Markdown specs
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false

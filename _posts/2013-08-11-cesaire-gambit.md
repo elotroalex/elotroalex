@@ -26,35 +26,15 @@ But the choice was not only about convenience, these machines were also colonial
 
 While all of this was happening Césaire began writing his first play, *Et les chiens se taisaient* (And the Dogs Were Silent). The manuscript of this play was lost to us until recently, when I found it, first in a footnote on the biography of Yvan Goll, one of Césaire&#8217;s early New York editors, and then in a small municipal library close to the border between France and Germany, where said editor went to die.
 
-Césaire started writing this work as a historical drama based on the Haitian Revolution. After 20 pages of composition or so, he started making the character of Toussaint Louverture central to the action. [Slide]
-
-<div id="attachment_1267" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://i2.wp.com/elotroalex.webfactional.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-11-at-2.02.56-AM.png"><img class="size-medium wp-image-1267" alt="Typescript page" src="http://i1.wp.com/elotroalex.webfactional.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-11-at-2.02.56-AM-300x161.png?fit=300%2C161" srcset="http://i1.wp.com/elotroalex.webfactional.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-11-at-2.02.56-AM-300x161.png?fit=300%2C161 300w, {{site.baseurl}}/wp-content/uploads/2013/08/Screen-Shot-2013-08-11-at-2.02.56-AM.png 900w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
-  
-  <p class="wp-caption-text">
-    Top portion of page 25 of the typescript. Originally the 5th page. We can see the erasure of Dessalines as a character.
-  </p>
-</div>
+Césaire started writing this work as a historical drama based on the Haitian Revolution. After 20 pages of composition or so, he started making the character of Toussaint Louverture central to the action. 
 
 Césaire sent the finished manuscript to his friend André Breton, the famous surrealist writer, to get it outside of the island. Soon after, Césaire wanted the manuscript destroyed. It was too late, Breton had lent it to Goll, who never gave it back.
 
-In 1946, after the war and censorship, Césaire&#8217;s first book of poetry, *Les Armes miraculeuses* (The Miraculous weapons), was published in Paris by Gallimard. The book contains a different version of *Et les chiens* *se taisaint *than the one in the manuscript. Although the new text contains about 80% of the text of the original manuscript, the text has been transformed enormously. All explicit references to the Haitian revolutions have been removed, Toussaint Louverture has become *Le Rebelle *(The Rebel), and about 70 or so blocks of text have been shifted in relative position to one another. [Slide]
-
-<div id="attachment_1269" style="width: 135px" class="wp-caption aligncenter">
-  <a href="http://i1.wp.com/elotroalex.webfactional.com/wp-content/uploads/2013/08/Moves_Ur-46.jpg"><img class="size-medium wp-image-1269" alt="Et les chiens se taisaient: From typescript to 1946" src="http://i1.wp.com/elotroalex.webfactional.com/wp-content/uploads/2013/08/Moves_Ur-46-125x300.jpg?fit=125%2C300" data-recalc-dims="1" /></a>
-  
-  <p class="wp-caption-text">
-    Et les chiens se taisaient: From typescript to 1946
-  </p>
-</div>
+In 1946, after the war and censorship, Césaire&#8217;s first book of poetry, *Les Armes miraculeuses* (The Miraculous weapons), was published in Paris by Gallimard. The book contains a different version of *Et les chiens* *se taisaint *than the one in the manuscript. Although the new text contains about 80% of the text of the original manuscript, the text has been transformed enormously. All explicit references to the Haitian revolutions have been removed, Toussaint Louverture has become *Le Rebelle *(The Rebel), and about 70 or so blocks of text have been shifted in relative position to one another.
 
 Texts have bodies. We who value the spoken know that texts are embodied. Texts migrate. They get sent by post, carried by trucks, now over wires. Texts change. Author&#8217;s revise them. Reader&#8217;s misread them. Texts fragment. You can copy and paste. No one is stopping you.
 
-*Et les chiens se taisaient* started as a historical drama meant for a Martinique audience, it became a long poem published in Paris. In the 1950&#8217;s it became a play again, it became a radio-play. In the 1970&#8217;s it became a film. This was not rare for Césaire. All his major texts went through major changes, major migrations. The *Cahier d&#8217;un retour au pays natal* went through at least 4 major versions. [Slide]
-
-<p style="text-align: center;">
-  <a href="http://i2.wp.com/elotroalex.webfactional.com/wp-content/uploads/2010/08/cahier_switch.jpg"><img class="aligncenter" alt="The Switch" src="http://i2.wp.com/elotroalex.webfactional.com/wp-content/uploads/2010/08/cahier_switch.jpg?resize=244%2C300" data-recalc-dims="1" /></a>
-</p>
+*Et les chiens se taisaient* started as a historical drama meant for a Martinique audience, it became a long poem published in Paris. In the 1950&#8217;s it became a play again, it became a radio-play. In the 1970&#8217;s it became a film. This was not rare for Césaire. All his major texts went through major changes, major migrations. The *Cahier d&#8217;un retour au pays natal* went through at least 4 major versions. 
 
 The first version could be called spiritual, the second and third surrealist, while the last one, with spirit and sex removed, political. When you speak of the *Cahier d&#8217;un retour au pays natal* which one are you talking about?
 

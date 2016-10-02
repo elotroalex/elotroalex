@@ -8,7 +8,7 @@ categories:
 ---
 [This talk was delivered as the closing keynote before the Digital Humanities Summer Institute in Victoria, B.C. on June 6, 2014. It was a bittersweet delivery because I had to miss the first day of our [Open Syllabus Project conference][1] at Columbia U., but the commitment to deliver went beyond my gratitude to the organizers of DHSI. I dedicate these attempts to say something useful to my guides, Bethany and Jerry.] 
 
-<a href="{{site.baseurl}}/wp-content/uploads/2014/06/DHSI-SLIDES.pdf" target="_blank">SLIDES</a>
+<a href="{{site.baseurl}}/docs/babel-slides.pdf" target="_blank">SLIDES</a>
 
 # exeunt to the world {#exeunt-to-the-world}
 

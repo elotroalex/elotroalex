@@ -84,6 +84,6 @@ categories:
   </blockquote>
   
   <p>
-    [This is a preprint of an article whose final and definitive form has been published in <em>Review Literature and Arts of the Americas</em>, © 2010 Alex Gil; <em>Review Literature and Arts of the Americas</em> is available online at: <a href="http://www.informaworld.com/smpp/" target="_blank">http://www.informaworld.com/smpp</a>]
+    [This is a preprint of an article whose final and definitive form has been published in <em>Review Literature and Arts of the Americas</em>.]
   </p>
 </div>

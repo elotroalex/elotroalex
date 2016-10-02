@@ -33,19 +33,19 @@ A few weeks ago, I also started thinking about the possibility of automating my 
 
 The two main problems are handling &#8216;noise&#8217; and defining what counts as a coherent textual block. The latter is too difficult a problem to cover in a blogpost, but it is important enough that I dedicate a chapter of my dissertation, endearingly called &#8220;Legology,&#8221; to solving it. I take *Noise* to be those little isolated fragments, usually single words, that are part of the longest common subsequence, but which cannot be said to belong to a textual block. Here is where the humanist parts way with the computer scientist or the mathematician. For these two, even a value of zero can be counted as a sequence! Although there can be isolated tokens that could interest a scholar comparing two texts (rare words or proper names, for example), we are more often than not going to worry about two or more concatenated words, and we would certainly not call anything less a sequence. At least, I wouldn&#8217;t.
 
-
-  <a href="http://i1.wp.com/elotroalex.webfactional.com/wp-content/uploads/2012/02/Screen-Shot-2012-02-22-at-11.26.05-PM.png"><img class="size-medium wp-image-880 aligncenter" style="margin-top: 10px; margin-bottom: 10px;" title="Juxta_noise" src="http://i2.wp.com/elotroalex.webfactional.com/wp-content/uploads/2012/02/Screen-Shot-2012-02-22-at-11.26.05-PM-300x211.png?fit=300%2C211" alt="Juxta and noise" srcset="http://i2.wp.com/elotroalex.webfactional.com/wp-content/uploads/2012/02/Screen-Shot-2012-02-22-at-11.26.05-PM-300x211.png?fit=300%2C211 300w, {{site.baseurl}}/wp-content/uploads/2012/02/Screen-Shot-2012-02-22-at-11.26.05-PM-1024x722.png 1024w, {{site.baseurl}}/wp-content/uploads/2012/02/Screen-Shot-2012-02-22-at-11.26.05-PM.png 1175w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>Noise can be of two kinds: The noise that happens outside of the blocks of interest, and the noise within blocks of interest. In Juxta these can be seen as white fragments in a sea of green, and green fragments in a sea of white. These are very different creatures and also need to be dealt separately. Noise can lead to small errors if we were to run a straight iterative diff, eliminating every longest common subsequence in each iteration. The errors come from the probability that a word caught in a sequence belongs to a smaller intersecting common subsequence.
+<p>
+  Noise can be of two kinds: The noise that happens outside of the blocks of interest, and the noise within blocks of interest. In Juxta these can be seen as white fragments in a sea of green, and green fragments in a sea of white. These are very different creatures and also need to be dealt separately. Noise can lead to small errors if we were to run a straight iterative diff, eliminating every longest common subsequence in each iteration. The errors come from the probability that a word caught in a sequence belongs to a smaller intersecting common subsequence.
 </p>
 
-
+<p>
   To understand this properly, imagine we compare the results of the first diff run to the results of a human being who only matches blocks of text that are clearly matches. The human&#8217;s results would not be exactly the longest common subsequence, but they would definitely be more useful. Since we are interested in blocks, chances are letting the computer net everything would probably lead to the accidental disintegration of smaller blocks of interest.
 </p>
 
-
+<p>
   Just as I learned some odd lessons about the role of sequence in comparison sets by studying the longest common subsequence problem, I also found some unexpected lessons about textuality from trying to solve the noise problem. If you&#8217;re interested in my solution, I invite you to read my dissertation when it comes out. In the meantime, I encourage the textual scholars who are reading this to try to solve these problems on their own, to engage with the procedures that make our machines tick, and to do it without taking off their humanities hats.
 </p>
 
-
+<p>
   If we don&#8217;t learn how to think <em>with</em> our machines, what choice will they have but to think for us?
 </p>
 

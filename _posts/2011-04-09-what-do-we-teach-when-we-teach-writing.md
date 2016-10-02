@@ -3,39 +3,6 @@ title: What do we teach when we teach writing?
 author: elotroalex
 layout: post
 permalink: /what-do-we-teach-when-we-teach-writing/
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:7:"twitter";s:3:"cnt";s:2:"17";s:7:"enabled";s:1:"1";}}'
-btcnew_comment_counts:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:7:"twitter";s:3:"cnt";s:2:"17";s:7:"enabled";s:1:"1";}}'
-btcnew_post:
-  - 'a:6:{s:2:"ID";s:3:"616";s:13:"post_date_gmt";s:19:"2011-04-09 02:29:16";s:23:"initial_import_date_gmt";s:19:"2011-04-09 02:32:13";s:20:"last_import_date_gmt";s:19:"2011-04-29 02:26:01";s:4:"hits";s:2:"17";s:6:"misses";s:3:"197";}'
-btcnew_retweet:
-  - 269
-  - 270
-  - 272
-  - 277
-  - 279
-  - 281
-  - 282
-  - 283
-btcnew_twitter:
-  - 269
-  - 270
-  - 271
-  - 272
-  - 273
-  - 274
-  - 275
-  - 276
-  - 277
-  - 278
-  - 279
-  - 280
-  - 281
-  - 282
-  - 283
-  - 284
-  - 285
 categories:
   - Teaching
 ---
@@ -49,7 +16,7 @@ In brief, we teach *the ethos of argument* and *the rhetorics of media*.
 
 **The ethos of argument:** Argument, when formulated well and supported rigorously can serve as one of the best defenses against the most destructive tendencies of the political animal. Argument has never been the sole guarantee of cultural sanity, nor the all-in-one solution on the quest for the golden balance between freedom and social justice. In fact, one could argue that argument and democracy share the distinction of remaining the best two unfulfilled promises of history. And yet those of us who teach continue to hope, because we know that the good argument, the one that supports its claims with tight-knit reasons, solid evidence, well-linked warrants, and a healthy dose of humility in the face of dissension, THAT argument makes myth, ideology, propaganda, slogans, and the whole lot of the rhetorical vices quake at the core. As a teacher of argument, one of the most radical things that I can do in class is leave overt discussion of my political ideas out of the equation and focus on the principles of good argumentation (many of my students still wonder where I fall on the spectrum). No wonder the enemies of argument are legion.
 
-**The rhetorics of media:** Still a new idea to some, and bears repeating: Words do not exist outside of some embodiment. That body can be a piece of paper, a book, a series of 1&#8217;s and 0&#8217;s that processed the right way convert into meaningful glyphs on our blogs. Voices roll from our tongues, our record players, to the beat of a tune, or not. You get the point. Interestingly enough, each of these media change words, or text as we like to say around here. That difference can be reverse-engineered. We can know what each medium adds and detracts from the other, what specific effects we can create here and there, and much more. The writing teacher teaches transparency, and in her whistle-blowing mission, she reveals the cogs and sprockets behind texts. The writing teacher campaigns against the blind act of faith that trusts words to x or y medium pell-mell without reflection. He knows that those who are aware of the *techne *can refine their arguments, add layers of meaning, throw a dash of beauty into the mix for good measure, in short, take ownership of their discourse. This engagement with the mechanics of our media seems to me more of a responsibility than a right when I see first-hand how it deters the alibis of ignorance and guards us against those who continue to use this knowledge to deceive.
+**The rhetorics of media:** Still a new idea to some, and bears repeating: Words do not exist outside of some embodiment. That body can be a piece of paper, a book, a series of 1&#8217;s and 0&#8217;s that processed the right way convert into meaningful glyphs on our blogs. Voices roll from our tongues, our record players, to the beat of a tune, or not. You get the point. Interestingly enough, each of these media change words, or text as we like to say around here. That difference can be reverse-engineered. We can know what each medium adds and detracts from the other, what specific effects we can create here and there, and much more. The writing teacher teaches transparency, and in her whistle-blowing mission, she reveals the cogs and sprockets behind texts. The writing teacher campaigns against the blind act of faith that trusts words to x or y medium pell-mell without reflection. He knows that those who are aware of the *techne* can refine their arguments, add layers of meaning, throw a dash of beauty into the mix for good measure, in short, take ownership of their discourse. This engagement with the mechanics of our media seems to me more of a responsibility than a right when I see first-hand how it deters the alibis of ignorance and guards us against those who continue to use this knowledge to deceive.
 
 So there it is in industrial strength concentration: I do not teach writing because it can lead to prosperity (although argument tells you that blessed is the society that can live in shared prosperity), nor because it makes you more creative (a great side-effect which has been observed in some of our clients!). No, I teach writing because I believe it is the closest we get to a medium for hope. 
 
