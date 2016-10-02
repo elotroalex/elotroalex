@@ -6,6 +6,7 @@ permalink: /conversations-with-mcgann/
 categories:
   - Literary Scholarship
 ---
+
 Always a question grad students have to answer to their non-academic kin, what are you doing with your life? In the end, an academic answer won’t do, of course, but it will do to rehearse one amongst us, in the silence of our shops. Against the idea of the eternal, there is the idea that questions have as much of a history as their answers (or is it replies?):
 
   * 1978: Mira, mami, I learning English con la enciclopedia britanica.
@@ -90,5 +91,5 @@ Again, to pause here, at the Lacanian moment of the *point de capiton:* Why do i
 
 And to this the answer must be always non-academic: Leave me alone!… you’re interrupting my writing.
 
- [1]: http://elotroalex.webfactional.com/white-egrets-a-review/ "White Egrets: A Review"
+ [1]: {{site.baseurl}}/white-egrets-a-review/ "White Egrets: A Review"
  [2]: http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=980496&clef=ARC-TRK-NC_01

@@ -27,7 +27,7 @@ Another example of this type of work is the public study of existing shadow an
 If you are out there, working on ways to build shadow libraries, sneakernets, mesh networks, mounting your own form of digital archive activism, send me a line. We are always looking for allies. If you have ideas you are most welcome to share them with others below.
 
  [1]: http://dhpoco.org/summerschool/classdiscussions/#/discussion/33/week-2-guerilladh-or-where-is-activism-in-dhpoco
- [2]: http://elotroalex.webfactional.com/digital-library-babel/
+ [2]: {{site.baseurl}}/digital-library-babel/
  [3]: http://journal.code4lib.org/articles/10425
  [4]: http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/
  [5]: http://discontents.com.au/unremembering-the-forgotten

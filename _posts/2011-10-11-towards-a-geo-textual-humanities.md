@@ -29,5 +29,5 @@ Let us move towards a geo-textual humanities conscious there are swimmers in the
  [1]: http://www.scholarslab.org/praxis-program/towards-a-geo-textual-humanities/ "Mimesis and Computers"
  [2]: http://www.youtube.com/watch?v=rAUJgjxNGd8
  [3]: http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-4 "Marking Texts in Many Dimensions"
- [4]: http://elotroalex.webfactional.com/workbench/dr_sample.html
+ [4]: {{site.baseurl}}/workbench/dr_sample.html
  [5]: http://en.wikipedia.org/wiki/Aztl%C3%A1n

@@ -23,7 +23,7 @@ tags:
   - Surrealism
 ---
 <p align="justify">
-  As I&#8217;ve argued <a href="http://elotroalex.webfactional.com/essays/bridging-the-middle-passage-2/" target="_blank">elsewhere</a>, Césaire&#8217;s early career revolves around several networks of collaborators in the Americas. At the time I made that argument, thinking I was already breaking some ground, I thought that Césaire&#8217;s collaborations only extended as far as the United States and the Caribbean. Apparently I needed to dig a bit deeper. A couple of months ago I unearthed one of his short pieces, &#8220;Poème,&#8221; reprinted in 1945 in <em>Lettres françaises</em>, the literary journal published in Buenos Aires during the war period under the editorship of French thinkerer R. Caillois.<a href="#foot1">[1]</a> More recently, Pierre Laforgue and I, working together, were able to track down a reprint of another poem, &#8220;Soleil Serpent,&#8221; to <em>Leitmotiv: Boletín De Hechos & Ideas</em>, published in Santiago de Chile in 1943.<a href="#foot2">[2]</a>
+  As I&#8217;ve argued <a href="{{site.baseurl}}/essays/bridging-the-middle-passage-2/" target="_blank">elsewhere</a>, Césaire&#8217;s early career revolves around several networks of collaborators in the Americas. At the time I made that argument, thinking I was already breaking some ground, I thought that Césaire&#8217;s collaborations only extended as far as the United States and the Caribbean. Apparently I needed to dig a bit deeper. A couple of months ago I unearthed one of his short pieces, &#8220;Poème,&#8221; reprinted in 1945 in <em>Lettres françaises</em>, the literary journal published in Buenos Aires during the war period under the editorship of French thinkerer R. Caillois.<a href="#foot1">[1]</a> More recently, Pierre Laforgue and I, working together, were able to track down a reprint of another poem, &#8220;Soleil Serpent,&#8221; to <em>Leitmotiv: Boletín De Hechos & Ideas</em>, published in Santiago de Chile in 1943.<a href="#foot2">[2]</a>
 </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ tags:
 </p>
 
 <p align="justify">
-  The essay by Caillois that so ruffled Césaire&#8217;s feathers argues, rather poetically, that the artist must guard against using nature as a justification for his own chaotic impulses. Always the social theorist, he repeats here in terms of the ideal artist his early idea that sentient beings have a tendency to mimic or become absorbed by what they see in nature, what he calls elsewhere <em>psychasthénie légendaire</em>.<a href="#foot5">[5]</a> Towards the end of the essay he prescribes restraint in a manner that, at least for me, augurs some of <a href="http://elotroalex.webfactional.com/cafe/archives/326"  target="_blank">Derek Walcott</a>&#8216;s relationship to poetic form:
+  The essay by Caillois that so ruffled Césaire&#8217;s feathers argues, rather poetically, that the artist must guard against using nature as a justification for his own chaotic impulses. Always the social theorist, he repeats here in terms of the ideal artist his early idea that sentient beings have a tendency to mimic or become absorbed by what they see in nature, what he calls elsewhere <em>psychasthénie légendaire</em>.<a href="#foot5">[5]</a> Towards the end of the essay he prescribes restraint in a manner that, at least for me, augurs some of <a href="{{site.baseurl}}/cafe/archives/326"  target="_blank">Derek Walcott</a>&#8216;s relationship to poetic form:
 </p>
 
 <blockquote align="justify">
