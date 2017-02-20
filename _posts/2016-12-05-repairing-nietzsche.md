@@ -7,6 +7,10 @@ category: Digital Humanities
 author: Alex Gil
 ---
 
+[Cross-posted from Nietzsche 13/13 [Seminar 6 on Aimé Césaire](http://blogs.law.columbia.edu/nietzsche1313/6-13/), with a debt of gratitude to Bernard Harcourt and Jesús R. Velasco for inviting me to participate in the series.]
+
+<br>
+
 <p style="margin-left: 10%;"><em>La sphère de la poésie n'est pas en dehors du monde, rêve impossible d'un cerveau de poète ; elle veut être justement le contraire, l'expression sans fard de la vérité.</em></p>
 <p style="text-align: right;">Nietzsche quoted by René Ménil, <em>Tropiques</em> No. 1, April 1941.</p>
 
