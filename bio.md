@@ -69,6 +69,7 @@ Writings for the presses...
 -   "Global Digital Humanities." Schreibman, Susan, Raymond George Siemens, and John Unsworth, eds. A New Companion to Digital Humanities. Chichester, West Sussex, UK: John Wiley & Sons Inc, 2016. (Co-written with Daniel O'Donnell, et al.)
 -   “El gran agujero negro: a la caza del fantasma en Cahier d’un retour au pays natal" (Traducción al español de “The Great Black Hole: Reading for the Ghost in Césaire’s Cahier d’un retour au pays natal"), en Dossier “Asedios al archivo caribeño de la negritud: Aimé Césaire en el centenario de su nacimiento”, coordinado por Florencia Bonfiglio, Estudios. Revista de Investigaciones Literarias y Culturales, Universidad Simón Bolívar, Caracas (Venezuela), 21:41, enero-junio, 2013.
 -   *Review*. The Great Camouflage: Writings of Dissent (1941–1945). Suzanne Césaire (Daniel Maximin \[ed.\]) Middletown ct: Wesleyan University Press, 2012. 2014
+- "Focus génétique sur Les Armes miraculeuses d’Aimé Césaire." *Manuscrits francophones du sud : un état des lieux*. 1:1. 2014.
 -   "The Migrant Text: Aime Cesaire's Hemispheric Push and the Editorial Blind-Spot" *Perspectives on the ‘Migrant Cosmopolitans’: Narratives of Contemporary Postcoloniality.* Edited by Nirmala Menon and Marika Preziuso. New York: Peter Lang, 2014.
 -   "Et les chiens se taisaient (L'Ur texte de 1943): Présentation." *Aimé Césaire: Poésie, théâtre, essais et discours.* Paris: Planète Libre, 2013.
 -   *Aimé Césaire: Poésie, théâtre, essais et discours.* Co-Editor. Paris: Planète Libre, 2013.
