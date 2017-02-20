@@ -70,7 +70,7 @@ Of interest to our Nietzschean investigations is the fate of the chorus and the 
 
 From Claudel...
 <blockquote>CHRISTOPHE COLOMB II, <em>de même</em>: Quitte ta mère! Abandonne-la! Quitte ta famille! Quitte, quitte ta mère! La Volonté de Dieu est ta patrie! Tout cela qui t'empêche de partir, tout cela est ton ennemi.
-
+<br><br>
 CHRISTOPHE COLOMB I: Quitterai-je mon père et ma mère? Quitterai-je ma patrie?
 
 <em>Tout cela apparaît mélangé sur l'écran.</em></blockquote>
@@ -95,13 +95,13 @@ Pirated scans of his print works can also be found easily online. I personally w
 
 Meanwhile, several important works have surfaced in the past few years from the presses worthy of your attention. Below is an incomplete list to complement the one Bernard provided.
 <h2>Further Reading</h2>
-<div class="csl-bib-body" style="line-height: 2; padding-left: 2em; text-indent: -2em; font-size: 1.3em;">
+<div class="csl-bib-body" style="line-height: 2; padding-left: 2em; text-indent: -2em; font-size: 1em;">
 <div class="csl-entry">Arnold, A. James. <i>Modernism and Negritude: The Poetry and Poetics of Aimé Césaire</i>. Cambridge, MA: Harvard University Press, 1981. Print.</div>
 <div class="csl-entry">Césaire, Aimé. <i>Poésie, théâtre, essais et discours</i>. Ed. Albert-James Arnold. Paris: CNRS, 2014. Print. Planète libre.</div>
 <div class="csl-entry">Fonkoua, Romuald-Blaise. <i>Aimé Césaire</i>. Paris: Perrin, 2010. Print.</div>
 <div class="csl-entry">Noland, Carrie. <i>Voices of Negritude in Modernist Print: Aesthetic Subjectivity, Diaspora, and the Lyric Regime</i>. New York: Columbia University Press, 2015. Print.</div>
 <div class="csl-entry">Ruhe, Ernstpeter. <i>Une oeuvre mobile: Aimé Césaire dans le pays germanophones</i>. Würzburg: Königshausen &amp; Neumann, 2015. Print.</div>
-<div class="csl-entry">Véron, Kora and Thomas A. Hale<i>Les Écrits d’Aimé Césaire. Bibliographie commentée (1913-2008)</i>. 1st ed. Vol. 1. Paris: Honoré Champion, 2013. Print. 2 vols.</div>
+<div class="csl-entry">Véron, Kora and Thomas A. Hale<i>. Les Écrits d’Aimé Césaire. Bibliographie commentée (1913-2008)</i>. 1st ed. Vol. 1. Paris: Honoré Champion, 2013. Print. 2 vols.</div>
 <div class="csl-entry">Wilder, Gary. <i>Freedom Time: Negritude, Decolonization, and the Future of the World</i>. Duke University Press, 2014. Print.</div>
 </div>
 
