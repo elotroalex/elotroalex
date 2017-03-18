@@ -64,7 +64,7 @@ Honors
 Writings for the presses...
 ---------------------
 
-- "Placing Césaire: Some Considerations on Cartography and Enumerative Bibliographies." Caribbean Quarterly. (Forthcoming)
+- "Placing Césaire: Some Considerations on Cartography and Enumerative Bibliographies." Caribbean Quarterly. Volume 62, Nos. 3 & 4 (September-December 2016).
 -  "Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing."" Doing Digital Humanities. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016. (Co-Written with Élika Ortega)
 -   "Global Digital Humanities." Schreibman, Susan, Raymond George Siemens, and John Unsworth, eds. A New Companion to Digital Humanities. Chichester, West Sussex, UK: John Wiley & Sons Inc, 2016. (Co-written with Daniel O'Donnell, et al.)
 -   “El gran agujero negro: a la caza del fantasma en Cahier d’un retour au pays natal" (Traducción al español de “The Great Black Hole: Reading for the Ghost in Césaire’s Cahier d’un retour au pays natal"), en Dossier “Asedios al archivo caribeño de la negritud: Aimé Césaire en el centenario de su nacimiento”, coordinado por Florencia Bonfiglio, Estudios. Revista de Investigaciones Literarias y Culturales, Universidad Simón Bolívar, Caracas (Venezuela), 21:41, enero-junio, 2013.
