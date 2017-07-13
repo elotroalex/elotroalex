@@ -86,6 +86,7 @@ Writings for the presses...
 ...& born digital (selected)
 ----------------------------
 
+-   Work in Progress. [Aimé Césaire and the Broken Record](http://record.elotroalex.com)
 -   [The Digital Library of Babel](http://theoutsideessay.com/the-digital-library-of-babel/). The Outside Essay. 2, 2015.
 -   [The Great Black Hole](http://hdl.handle.net/10022/AC:P:14791):
     Reading for the Ghost in Césaire’s “Cahier d’un retour au pays
@@ -102,7 +103,7 @@ The Dissertation
 Collaborations (selected)
 -------------------------
 
-- In the Same Boats (Forthcoming)
+- [In the Same Boats](http://sameboats.org)
 - [Association for Computers in the Humanities](http://ach.org/). Steering committee.
 - [The Caribbean Digital](http://caribbeandigitalnyc.net/)
 - [Minimal Computing - Global Outlook::Digital Humanities](http://go-dh.github.io/mincomp/)
