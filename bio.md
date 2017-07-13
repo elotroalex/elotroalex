@@ -103,6 +103,7 @@ The Dissertation
 Collaborations (selected)
 -------------------------
 
+- [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/)
 - [In the Same Boats](http://sameboats.org)
 - [Association for Computers in the Humanities](http://ach.org/). Steering committee.
 - [The Caribbean Digital](http://caribbeandigitalnyc.net/)
