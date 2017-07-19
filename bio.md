@@ -474,46 +474,34 @@ Memberships present...
     ([ADE](http://www.documentaryediting.org/ "ADE"))
 -   Caribbean Philosophical Association
     ([CPA](http://www.caribbeanphilosophicalassociation.org/ "CPA"))
--   Association for the Study of African American Life and History
-    ([ASALH](http://www.asalh.org/ "ASALH"))
+-   Association for the Study of African American Life and History ([ASALH](http://www.asalh.org/ "ASALH"))
 
 Languages and Specialist Skills
 -------------------------------
 
-**Human:** Mastery of Spanish, French and Italian. Reading knowledge of
-German, Portuguese and Kreyol.
-**Code:** Ruby, Python, HTML, CSS/SASS, XSLT, XML/TEI, PHP, SQL,
-JavaScript/JQuery, bash, Liquid, Markdown... you know what, just throw
-it at me, I'll figure it out.
+**Human:** Mastery of Spanish, French and Italian. Functional knowledge of German, Portuguese and Kreyol. 
+**Code:** Ruby, Python, HTML, CSS/SASS, XSLT, XML/TEI, PHP, SQL, JavaScript/JQuery, bash, Liquid, Markdown... you know what, just throw it at me, I'll figure it out.
 
 
 References
 ----------
 
--   Dennis Tenen, Assistant Professor of English and Comparative
-    Literature, Columbia University
--   Kaiama Glover, Associate Professor of French, Barnard College
--   Barbara Rockenbach, Director of Humanities And History Libraries,
-    Columbia University
--   Dan O'Donnell, Professor of English, University of Lethbridge
--   Jerome J. McGann, University Prof & John Stewart Bryan Prof Of
-    English, University of Virginia
--   Bethany Nowviskie, Director of Digital Research & Scholarship,
-    University of Virginia Library
--   Jahan Ramazani, Edgar F. Shannon, Jr. Professor of English,
-    University of Virginia
--   Anna Brickhouse, Associate Professor of English, University of
-    Virginia
--   A. James Arnold, Professor Emeritus of French, University of
-    Virginia
--   Michael Levenson, Professor of English, University of Virginia
--   Mrinalini Chakravorty, Assistant Professor of English, University of
-    Virginia
--   Andrew Stauffer, Associate Professor of English, University of
-    Virginia
--   Siva Vaidhyanathan, Chair, Media Studies Department, University of
-    Virginia
--   Rafael Alvarado, Associated Director, SHANTI, University of Virginia
+- **Bethany Nowviskie, Director, Digital Library Federation.**
+- **Barbara Rockenbach, Associate University Librarian, Columbia University Libraries**
+- **Kaiama Glover, Associate Professor of French, Barnard College**
+- **Jesús R. Velasco, Professor, Latin American and Iberian Studies, Columbia University**
+- Dennis Tenen, Assistant Professor of English and Comparative Literature, Columbia University
+- Manan Ahmed, Assistant Professor, Department of History, Columbia University
+- Meredith Levin, Western European Humanities Librarian, Columbia University
+- Jerome J. McGann, University Prof & John Stewart Bryan Prof Of English, University of Virginia
+- Dan O'Donnell, Professor of English, University of Lethbridge
+- Jahan Ramazani, Edgar F. Shannon, Jr. Professor of English, University of Virginia
+- Anna Brickhouse, Associate Professor of English, University of Virginia
+- A. James Arnold, Professor Emeritus of French, University of Virginia
+- Mrinalini Chakravorty, Assistant Professor of English, University of Virginia
+- Andrew Stauffer, Associate Professor of English, University of Virginia
+- Siva Vaidhyanathan, Chair, Media Studies Department, University of Virginia
+- Rafael Alvarado, Associated Director, SHANTI, University of Virginia
 
 ---
 
