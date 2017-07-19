@@ -4,7 +4,7 @@ title: Profile
 permalink: /profile/
 ---
 
-**Alex Gil** is Digital Scholarship Coordinator for the Humanities and History at Columbia University and affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He serves as a collaborator with faculty, students and the library leveraging non-trivial technologies in humanities research, pedagogy and scholarly communications. Current projects include Ed, a digital platform for minimal editions of literary texts; the Translation Toolkit; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century. He is founder and former chair of the Global Outlook::Digital Humanities initiative, co-founder and co-director of the Group for Experimental Methods in the Humanities and the Studio@Butler at Columbia University, and founder and co-editor of SX Archipelagos.
+**Alex Gil** is Digital Scholarship Coordinator for the Humanities and History at Columbia University and affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He serves as a collaborator with faculty, students and the library leveraging non-trivial technologies in humanities research, pedagogy and scholarly communications. Current projects include Ed, a digital platform for minimal editions of literary texts; Aimé Césaire and The Broken Record, an experiment in long-form digital scholarship; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century. He is founder and current chair of the Global Outlook::Digital Humanities initiative, co-founder and co-director of the Group for Experimental Methods in the Humanities and the Studio@Butler at Columbia University, and founder and co-editor of the journal *sx archipelagos*.
 
 
 ---
@@ -23,82 +23,21 @@ Honors
 
 -   President’s Global Innovation Fund Award. Architectures of Knowledge, Mumbai 2016.
 -   Columbia Junior Librarian Travel Award, CSA Haiti 2016, 2016.
--   NEH Digital Humanities Startup Grant. SX:Archipelagos
-    Project, 2015-2016.
--   Digital Library of the Caribbean Award of Excellence in Digital
-    Humanities, 2014
+-   NEH Digital Humanities Startup Grant. SX:Archipelagos Project, 2015-2016.
+-   Digital Library of the Caribbean Award of Excellence in Digital Humanities, 2014
 -   Columbia Junior Librarian Travel Award, THATCampCaribe, 2013
 -   Sloan Research Grant, Open Syllabus Project, 2013-2014
 -   [HASTAC](http://hastac.org/) fellow, 2011-2012
--   Scholars' Lab [Praxis
-    Program](http://praxis.scholarslab.org/ "Praxis Program") Cohort,
-    2011-2012
--   University of Virginia Library [Scholars'
-    Lab](http://www2.lib.virginia.edu/scholarslab/about/fellows.html "Scholars Lab Fellow")
-    Fellow, 2010-2012
--   [NINES](http://www.nines.org/) (Networked Infrastructure for
-    Nineteenth-Century Electronic Scholarship) Fellow, summer-fall 2010;
-    fall 2011-spring 2012
--   [SHANTI](http://shanti.virginia.edu/) (Sciences, Humanities & Arts
-    Network of Technological Initiatives) Cohorts Fellowship Program to
-    provide programming assistance for the *Et les chiens se taisaient*
-    digital archive, 2009-2010.
--   University of Virginia ENS Fellowship to cover a year of study at
-    the *Ecole Normale Supérieure* in Paris. 2006-2007.
--   Graduate Research Assistant Fellowship to cover one year of work as
-    Project Manager for the Caribbean Literature Archive project with a
-    leave of absence from the English Department, awarded by the Dean of
-    Arts & Science. 2005.
--   Rockefeller Foundation /Bellagio Study Center Conference Grant.
-    Awarded for a one-week stay at The Bellagio Study Center in Italy
-    (Caribbean Literature Archive team, planning conference). June
-    21-28, 2004.
--   Robert J. Huskey Travel Fellowship awarded by the Graduate School of
-    Arts and Science, University of Virginia. May 2004.
--   T.A. of the Year. The Declaration (Student-run newspaper at the
-    University of Virginia). Dec 5, 2002.
--   Dean of Arts and Science Travel Grant. Used for travel to Cuba to
-    aid in Callaloo's “Cuban Issue” and to carry out preliminary
-    research for the Caribbean Literature Archive, December, 2001.
-
-Writings for the presses...
----------------------
-
-- "Placing Césaire: Some Considerations on Cartography and Enumerative Bibliographies." Caribbean Quarterly. Volume 62, Nos. 3 & 4 (September-December 2016).
--  "Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing."" Doing Digital Humanities. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016. (Co-Written with Élika Ortega)
--   "Global Digital Humanities." Schreibman, Susan, Raymond George Siemens, and John Unsworth, eds. A New Companion to Digital Humanities. Chichester, West Sussex, UK: John Wiley & Sons Inc, 2016. (Co-written with Daniel O'Donnell, et al.)
--   “El gran agujero negro: a la caza del fantasma en Cahier d’un retour au pays natal" (Traducción al español de “The Great Black Hole: Reading for the Ghost in Césaire’s Cahier d’un retour au pays natal"), en Dossier “Asedios al archivo caribeño de la negritud: Aimé Césaire en el centenario de su nacimiento”, coordinado por Florencia Bonfiglio, Estudios. Revista de Investigaciones Literarias y Culturales, Universidad Simón Bolívar, Caracas (Venezuela), 21:41, enero-junio, 2013.
--   *Review*. The Great Camouflage: Writings of Dissent (1941–1945). Suzanne Césaire (Daniel Maximin \[ed.\]) Middletown ct: Wesleyan University Press, 2012. 2014
-- "[Focus génétique sur Les Armes miraculeuses d’Aimé Césaire](https://coma.revues.org/254)." *Manuscrits francophones du sud : un état des lieux*. 1:1. 2014.
--   "The Migrant Text: Aime Cesaire's Hemispheric Push and the Editorial Blind-Spot" *Perspectives on the ‘Migrant Cosmopolitans’: Narratives of Contemporary Postcoloniality.* Edited by Nirmala Menon and Marika Preziuso. New York: Peter Lang, 2014.
--   "Et les chiens se taisaient (L'Ur texte de 1943): Présentation." *Aimé Césaire: Poésie, théâtre, essais et discours.* Paris: Planète Libre, 2013.
--   *Aimé Césaire: Poésie, théâtre, essais et discours.* Co-Editor. Paris: Planète Libre, 2013.
--   "[La Représentation en profondeur d’Et les chiens se taisaient d’Aimé Césaire : Pour une édition génétique en ligne](http://hdl.handle.net/10022/AC:P:14789)." *Genesis* 33. Paris (2011)
--   "[Bridging the Middle Passage: The textual (r)evolution of Césaire's *Cahier d'un retour au pays natal*.](http://hdl.handle.net/10022/AC:P:14787)" Canadian Review of Comparative Literature. 38.1 (March 2011): 40-56
--   "[La découverte d'un tapuscrit d'*Et les chiens se taisaient*.](http://hdl.handle.net/10022/AC:P:14792)" *Aimé Césaire à l'œuvre: Actes du colloque international*, sous la direction de Marc Cheymol et Philippe Ollé-Laprune. Paris: Editions des archives contemporaines, 2010.
--   "[White Egrets: A Review](http://www.elotroalex.com/white-egrets-a-review/)." Review Literature and Arts of the Americas (November 2010)
--   "Review of Alfred Lopez's *Posts and Pasts: A Theory of
-    Postcolonialism*." The Comparatist, Vol. XXVIII (May 2004): 158-159.
--   "Man, Woman, Hunger: A Translation of Daina Chaviano's *El Hombre,
-    la Hembra y el Hambre." The Yalobusha Review*. University of
-    Mississippi Press (May 2003): 63-67.
-
-...& born digital (selected)
-----------------------------
-
--   Work in Progress. [Aimé Césaire and the Broken Record](http://record.elotroalex.com)
--   [The Digital Library of Babel](http://theoutsideessay.com/the-digital-library-of-babel/). The Outside Essay. 2, 2015.
--   [The Great Black Hole](http://hdl.handle.net/10022/AC:P:14791):
-    Reading for the Ghost in Césaire’s “Cahier d’un retour au pays
-    natal,” 1929 (2011)
--   Professional blog. [www.elotroalex.com](http://elotroalex.webfactional.com)
--   [Scholars' Lab blog.](https://www.scholarslab.org/ "Scholars' Lab")
--   [NINES blog.](http://www.nines.org/news/ "NINES")
-
-The Dissertation
-----------------
-
-- *[Migrant Textuality: On the fields of Aimé Césaire's Et les chiens se taisaient](http://hdl.handle.net/10022/AC:P:20342)*. A dissertation presented to the Graduate Faculty of the University of Virginia in Candidacy for the Degree of Doctor of philosophy, Department of English. December, 2012 Ph.D., University of Virginia. 
+-   Scholars' Lab [Praxis Program](http://praxis.scholarslab.org/ "Praxis Program") Cohort, 2011-2012
+-   University of Virginia Library [Scholars' Lab Fellow](http://www2.lib.virginia.edu/scholarslab/about/fellows.html "Scholars Lab Fellow"), 2010-2012
+-   [NINES](http://www.nines.org/) (Networked Infrastructure for Nineteenth-Century Electronic Scholarship) Fellow, summer-fall 2010; fall 2011-spring 2012
+-   [SHANTI](http://shanti.virginia.edu/) (Sciences, Humanities & Arts Network of Technological Initiatives) Cohorts Fellowship Program to provide programming assistance for the *Et les chiens se taisaient* digital archive, 2009-2010.
+-   University of Virginia ENS Fellowship to cover a year of study at the *Ecole Normale Supérieure* in Paris. 2006-2007.
+-   Graduate Research Assistant Fellowship to cover one year of work as Project Manager for the Caribbean Literature Archive project with a leave of absence from the English Department, awarded by the Dean of Arts & Science. 2005.
+-   Rockefeller Foundation /Bellagio Study Center Conference Grant. Awarded for a one-week stay at The Bellagio Study Center in Italy (Caribbean Literature Archive team, planning conference). June 21-28, 2004.
+-   Robert J. Huskey Travel Fellowship awarded by the Graduate School of Arts and Science, University of Virginia. May 2004.
+-   T.A. of the Year. The Declaration (Student-run newspaper at the University of Virginia). Dec 5, 2002.
+-   Dean of Arts and Science Travel Grant. Used for travel to Cuba to aid in Callaloo's “Cuban Issue” and to carry out preliminary research for the Caribbean Literature Archive, December, 2001.
 
 Collaborations (selected)
 -------------------------
@@ -115,29 +54,76 @@ Collaborations (selected)
 -   [RikersBot](https://twitter.com/rikersbot)
 -   [Foucault 13/13](http://blogs.law.columbia.edu/foucault1313/), Lessons on the Will to Know.
 -   [Small Axe Archipelagos](http://smallaxe.net/sxarchipelagos/)
--   [Group for Experimental Methods in the
-    Humanities](http://xpmeth.plaintext.io/). Columbia University.
--   [Morningside Heights Digital
-    History](https://mhdh.library.columbia.edu/)
--   [The Library
-    Project](http://spatialinformationdesignlab.org/library/)
+-   [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/). Columbia University.
+-   [Morningside Heights Digital History](https://mhdh.library.columbia.edu/)
+-   [The Library Project](http://spatialinformationdesignlab.org/library/)
 -   [Around DH in 80 Days](http://www.arounddh.org)
 -   [Legacies of Césaire](http://cesairelegacies.cdrs.columbia.edu/)
--   [Studio@Butler](https://studio.cul.columbia.edu/): Researchathons,
-    u-pick workshops, hackathons, ephemeral labs, talkshops,
-    clinics, etc.
+-   [Studio@Butler](https://studio.cul.columbia.edu/): Researchathons, u-pick workshops, hackathons, ephemeral labs, talkshops, clinics, etc.
 -   [Developing Librarian Project](http://www.developinglibrarian.org/)
 -   [Global Outlook::Digital Humanities](http://globaloutlookdh.org)
 -   [The Open Syllabus Project](http://opensyllabusproject.org/)
 -   [Piracy Lab](http://piracylab.org/ "Piracy Lab")
 -   [THATCampCaribe Series](http://caribbean2013.thatcamp.org/)
--   [Prism](http://praxis.scholarslab.org/ "Prism"). Development
-    team, 2011-2012.
+-   [Prism](http://praxis.scholarslab.org/ "Prism"). Development team, 2011-2012.
 -   Aimé Césaire. *Poésie, théâtre, essais et discours*. Ed. Albert-James Arnold. Paris: CNRS, 2014.
+
+
+Writings for the presses...
+---------------------
+
+- "A Playbook for the Library of Babel: Modalities of community for digital scholarship." *Debates in Digital Humanities*. (Forthcoming volume on infrastructure).
+- "The Desire of the Humanist: On the Interpretation of Digital Caribbean Dreams." *Debates in Digital Humanities*. (Forthcoming volume on Afro-Diasporic Digital Humanities).
+- "The Studio@Butler: Library Innovation at the Seams." (Forthcoming) 
+- "Placing Césaire: Some Considerations on Cartography and Enumerative Bibliographies." Caribbean Quarterly. Volume 62, Nos. 3 & 4 (September-December 2016).
+-  "Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing." *Doing Digital Humanities*. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016. (Co-Written with Élika Ortega)
+-   "Global Digital Humanities." Schreibman, Susan, Raymond George Siemens, and John Unsworth, eds. *A New Companion to Digital Humanities*. Chichester, West Sussex, UK: John Wiley & Sons Inc, 2016. (Co-written with Daniel O'Donnell, et al.)
+-   “El gran agujero negro: a la caza del fantasma en Cahier d’un retour au pays natal" (Traducción al español de “The Great Black Hole: Reading for the Ghost in Césaire’s Cahier d’un retour au pays natal"), en Dossier “Asedios al archivo caribeño de la negritud: Aimé Césaire en el centenario de su nacimiento”, coordinado por Florencia Bonfiglio, Estudios. Revista de Investigaciones Literarias y Culturales, Universidad Simón Bolívar, Caracas (Venezuela), 21:41, enero-junio, 2013.
+-   *Review*. The Great Camouflage: Writings of Dissent (1941–1945). Suzanne Césaire (Daniel Maximin \[ed.\]) Middletown ct: Wesleyan University Press, 2012. 2014
+- "[Focus génétique sur Les Armes miraculeuses d’Aimé Césaire](https://coma.revues.org/254)." *Manuscrits francophones du sud : un état des lieux*. 1:1. 2014.
+-   "The Migrant Text: Aime Cesaire's Hemispheric Push and the Editorial Blind-Spot" *Perspectives on the ‘Migrant Cosmopolitans’: Narratives of Contemporary Postcoloniality.* Edited by Nirmala Menon and Marika Preziuso. New York: Peter Lang, 2014.
+-   "Et les chiens se taisaient (L'Ur texte de 1943): Présentation." *Aimé Césaire: Poésie, théâtre, essais et discours.* Paris: Planète Libre, 2013.
+-   *Aimé Césaire: Poésie, théâtre, essais et discours.* Co-Editor. Paris: Planète Libre, 2013.
+-   "[La Représentation en profondeur d’Et les chiens se taisaient d’Aimé Césaire : Pour une édition génétique en ligne](http://hdl.handle.net/10022/AC:P:14789)." *Genesis* 33. Paris (2011)
+-   "[Bridging the Middle Passage: The textual (r)evolution of Césaire's *Cahier d'un retour au pays natal*.](http://hdl.handle.net/10022/AC:P:14787)" Canadian Review of Comparative Literature. 38.1 (March 2011): 40-56
+-   "[La découverte d'un tapuscrit d'*Et les chiens se taisaient*.](http://hdl.handle.net/10022/AC:P:14792)" *Aimé Césaire à l'œuvre: Actes du colloque international*, sous la direction de Marc Cheymol et Philippe Ollé-Laprune. Paris: Editions des archives contemporaines, 2010.
+-   "[White Egrets: A Review](http://www.elotroalex.com/white-egrets-a-review/)." Review Literature and Arts of the Americas (November 2010)
+-   "Review of Alfred Lopez's *Posts and Pasts: A Theory of
+    Postcolonialism*." The Comparatist, Vol. XXVIII (May 2004): 158-159.
+-   "Man, Woman, Hunger: A Translation of Daina Chaviano's *El Hombre,
+    la Hembra y el Hambre." The Yalobusha Review*. University of
+    Mississippi Press (May 2003): 63-67.
+
+...& direct to readers (selected)
+----------------------------
+
+-   Work in Progress. [Aimé Césaire and the Broken Record](http://record.elotroalex.com)
+-   [The Digital Library of Babel](http://theoutsideessay.com/the-digital-library-of-babel/). The Outside Essay. 2, 2015.
+-   [The Great Black Hole](http://hdl.handle.net/10022/AC:P:14791):
+    Reading for the Ghost in Césaire’s “Cahier d’un retour au pays
+    natal,” 1929 (2011)
+-   Professional blog. [www.elotroalex.com](http://elotroalex.webfactional.com)
+-   [Scholars' Lab blog.](https://www.scholarslab.org/ "Scholars' Lab")
+-   [NINES blog.](http://www.nines.org/news/ "NINES")
+
+The Dissertation
+----------------
+
+- *[Migrant Textuality: On the fields of Aimé Césaire's Et les chiens se taisaient](http://hdl.handle.net/10022/AC:P:20342)*. A dissertation presented to the Graduate Faculty of the University of Virginia in Candidacy for the Degree of Doctor of philosophy, Department of English. December, 2012 Ph.D., University of Virginia. 
 
 Participation
 -------------
 
+- "Introduction to Digital Scholarship." ARL Digital Scholarship Summer Institute, June 2017 and CLIR Postdoc Seminar, July 2017.
+- "Minimal Computing: The Stakes for Textual Scholarship." Society for Textual Scholarship Annual Convention. University of Maryland, June 2017.
+- "Minimal Editions: Come With a Text, Leave with an Accessible Digital Edition." Society for Textual Scholarship Annual Convention. University of Maryland, June 2017.
+- "Off the Broken Record: The Future Past of our Product Line." Humanities Futures Colloquium. Duke University, March 2017.
+- "The Globe is Not a Circle: The New Life of Words and the Broken Scholarly Record." Washington & Lee, March 2017.
+- Inaugural Seminar and Keynote on the occassion of the first Masters Program in Digital Humanities in Latin America. Universidad de los Andes, Bogota, Colombia, February 2017.
+- Musiconis International Seminar. A collaboration between the Sorbonne & Columbia University. Paris, France, January 2017.
+- "In The Same Boats: Towards an Intellectual Cartography of the Black Atlantic." History Design Workshop. Harvard University, March 2017.
+- "@rikersbot: Local­-Based, Social­-Justice­-Driven Praxis in Digital Humanities," Alexander Gil, Columbia Univ.; Dennis Tenen, Columbia Univ. MLA Convention, January 2017.
+- "Minimal Digital Humanities: Choice or Necessity?" MLA Convention, January 2017.
 - "In The Same Boats: Next Steps". The Caribbean Digital. Columbia University. December 2016. 
 - Fedora Camp. Columbia University. November 2016.
 - "A digital humanities for the Caribbean Sea." Slavic Digital Humanities Symposium. Yale. November 2016.
