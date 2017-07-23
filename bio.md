@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Profile
+author: Alex Gil
 permalink: /profile/
 ---
 
-**Alex Gil** is Digital Scholarship Coordinator for the Humanities and History at Columbia University and affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He serves as a collaborator with faculty, students and the library leveraging non-trivial technologies in humanities research, pedagogy and scholarly communications. Current projects include Ed, a digital platform for minimal editions of literary texts; Aimé Césaire and The Broken Record, an experiment in long-form digital scholarship; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century. He is founder and current chair of the Global Outlook::Digital Humanities initiative, co-founder and co-director of the Group for Experimental Methods in the Humanities and the Studio@Butler at Columbia University, and founder and co-editor of the journal *sx archipelagos*.
+**Alex Gil** is Digital Scholarship Coordinator at Columbia University Libraries and Affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and scholarly communications. He is founder of several ongoing, influential initiatives: current chair of the Global Outlook::Digital Humanities, an interest group connecting practitioners across the world; faculty moderator of the Group for Experimental Methods in the Humanities, a vibrant research cluster focused on experimental humanities; the Studio@Butler at Columbia University, a library innovation space bridging the gaps between faculty, students and librarians; and senior editor of the journal *sx archipelagos*, a journal of Caribbean Digital Studies. Current projects include Ed, a digital platform for minimal editions of literary texts; Aimé Césaire and The Broken Record, an experiment in long-form digital scholarship; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
 
 
 ---
@@ -39,38 +40,56 @@ Honors
 -   T.A. of the Year. The Declaration (Student-run newspaper at the University of Virginia). Dec 5, 2002.
 -   Dean of Arts and Science Travel Grant. Used for travel to Cuba to aid in Callaloo's “Cuban Issue” and to carry out preliminary research for the Caribbean Literature Archive, December, 2001.
 
-Collaborations (selected)
--------------------------
+Collaborations and Projects (selected)
+--------------------------------------
 
-- [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/)
-- [In the Same Boats](http://sameboats.org)
-- [Association for Computers in the Humanities](http://ach.org/). Steering committee.
-- [The Caribbean Digital](http://caribbeandigitalnyc.net/)
-- [Minimal Computing - Global Outlook::Digital Humanities](http://go-dh.github.io/mincomp/)
-- [The Making and Knowing Project](http://www.makingandknowing.org/)
--   [Ed](http://elotroalex.github.io/ed/), a Jekyll theme for minimal
-    editions
-- [NYC Digital Humanities](http://nycdh.org/). Steering committee.
--   [RikersBot](https://twitter.com/rikersbot)
--   [Foucault 13/13](http://blogs.law.columbia.edu/foucault1313/), Lessons on the Will to Know.
--   [Small Axe Archipelagos](http://smallaxe.net/sxarchipelagos/)
--   [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/). Columbia University.
--   [Morningside Heights Digital History](https://mhdh.library.columbia.edu/)
--   [The Library Project](http://spatialinformationdesignlab.org/library/)
--   [Around DH in 80 Days](http://www.arounddh.org)
--   [Legacies of Césaire](http://cesairelegacies.cdrs.columbia.edu/)
--   [Studio@Butler](https://studio.cul.columbia.edu/): Researchathons, u-pick workshops, hackathons, ephemeral labs, talkshops, clinics, etc.
--   [Developing Librarian Project](http://www.developinglibrarian.org/)
--   [Global Outlook::Digital Humanities](http://globaloutlookdh.org)
--   [The Open Syllabus Project](http://opensyllabusproject.org/)
--   [Piracy Lab](http://piracylab.org/ "Piracy Lab")
--   [THATCampCaribe Series](http://caribbean2013.thatcamp.org/)
--   [Prism](http://praxis.scholarslab.org/ "Prism"). Development team, 2011-2012.
--   Aimé Césaire. *Poésie, théâtre, essais et discours*. Ed. Albert-James Arnold. Paris: CNRS, 2014.
+- [Studio@Butler](https://studio.cul.columbia.edu/), Columbia University Libraries. Founder and co-director.
+- [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/), Columbia University. Founder and faculty moderator.
+- [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/). Project design, implementation and coordination.
+- [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and Chair.
+- [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
+- [In the Same Boats](http://sameboats.org). Project lead with Kaiama Glover.
+- [Association for Computers in the Humanities](http://ach.org/). Steering committee, member and communications officer.
+- Editor of Internationalization, [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/).
+- [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. Founder and organizer.
+- [Around DH in 80 Days](http://www.arounddh.org). Editor and designer.
+- [Ed](http://elotroalex.github.io/ed/), a Jekyll theme for minimal editions. Project lead.
+- Council Member. Watershed Group (A Think Tank for Black Atlantic Digital Humanities) (2016-present)
+- [RikersBot](https://twitter.com/rikersbot). Instructor.
+- [Developing Librarian Project](http://www.developinglibrarian.org/). Instructor and project design.
+- [Morningside Heights Digital History](https://mhdh.library.columbia.edu/). Project coordinator.
+- [NYC Digital Humanities (NYCDH)](http://nycdh.org/). Steering committee officer.
+- NYCDH Workshop Week Inaugural Year. Creator and organizer.
+- NYCDH Graduate Student Contest. Organizer.
+- [Minimal Computing | Global Outlook::Digital Humanities](http://go-dh.github.io/mincomp/). Founder and contributor.
+- [The Translation Toolkit | Global Outlook::Digital Humanities](http://go-dh.github.io/translation-toolkit/). Founder and contributor.
+- [The Making and Knowing Project](http://www.makingandknowing.org/). Consultant.
+- [Foucault 13/13](http://blogs.law.columbia.edu/foucault1313/), Lessons on the Will to Know. Site design and implementation; participant.
+- [THATCampCaribe Series](http://caribbean2013.thatcamp.org/). Founder and organizer.
+- [The Library Project](http://spatialinformationdesignlab.org/library/). Ideation and data coordination.
+- [Legacies of Césaire](http://cesairelegacies.cdrs.columbia.edu/). Organizer and 
+- [The Open Syllabus Project](http://opensyllabusproject.org/). Co-PI.
+- [Piracy Lab](http://piracylab.org/ "Piracy Lab"). Collaborator.
+- [Prism](http://praxis.scholarslab.org/ "Prism"). Development team.
+- Aimé Césaire. *Poésie, théâtre, essais et discours*. Ed. Albert-James Arnold. Paris: CNRS, 2014. Associate Editor.
+- Libraries Without Borders. Board Member. 
+- CUBA Counterpoints. Editorial Board.
+- Chair and Co-Chair, Digital Advisory Board, Caribbean Studies Association (2010-2016)
+- Vice-Chair, Multi Lingual Multicultural Committee, ADHO (2014-2017)
+- [Critical Code Studies Working Group
+    2012](http://haccslab.com/?page_id=174). (2012)
+- UVACSE Tiger Team, Approximate String Matching across literary corpora
+- THATCamp Diversity initiative. (2011-2012)
+- Initiative to bring Digital Humanities instruction to the undergraduate curriculum at the University of Virginia, 2011.
+- [Project Tango](http://uvatango.wordpress.com). (An initiative to bridge the gap between digital humanities training and out-of-print digital archiving). Project Lead (2010-2011).
+- Editor of the e-text edition of Alexander Exquemelin's Bucaneers of America. University of Virginia e-text center (2005)
+- Translator for the Student Interpreter Service Initiative at the University of Virginia Hospital (2004).
+- Translator for *Callaloo's* “Cuban Issue.” December 2000
+- Founder and President of the Florida International University Poetry Club (1998)
 
 
-Writings for the presses...
----------------------
+Press Publications
+------------------
 
 - "A Playbook for the Library of Babel: Modalities of community for digital scholarship." *Debates in Digital Humanities*. (Forthcoming volume on infrastructure).
 - "The Desire of the Humanist: On the Interpretation of Digital Caribbean Dreams." *Debates in Digital Humanities*. (Forthcoming volume on Afro-Diasporic Digital Humanities).
@@ -88,37 +107,32 @@ Writings for the presses...
 -   "[Bridging the Middle Passage: The textual (r)evolution of Césaire's *Cahier d'un retour au pays natal*.](http://hdl.handle.net/10022/AC:P:14787)" Canadian Review of Comparative Literature. 38.1 (March 2011): 40-56
 -   "[La découverte d'un tapuscrit d'*Et les chiens se taisaient*.](http://hdl.handle.net/10022/AC:P:14792)" *Aimé Césaire à l'œuvre: Actes du colloque international*, sous la direction de Marc Cheymol et Philippe Ollé-Laprune. Paris: Editions des archives contemporaines, 2010.
 -   "[White Egrets: A Review](http://www.elotroalex.com/white-egrets-a-review/)." Review Literature and Arts of the Americas (November 2010)
--   "Review of Alfred Lopez's *Posts and Pasts: A Theory of
-    Postcolonialism*." The Comparatist, Vol. XXVIII (May 2004): 158-159.
--   "Man, Woman, Hunger: A Translation of Daina Chaviano's *El Hombre,
-    la Hembra y el Hambre." The Yalobusha Review*. University of
-    Mississippi Press (May 2003): 63-67.
+-   "Review of Alfred Lopez's *Posts and Pasts: A Theory of Postcolonialism*." The Comparatist, Vol. XXVIII (May 2004): 158-159.
+-   "Man, Woman, Hunger: A Translation of Daina Chaviano's *El Hombre, la Hembra y el Hambre." The Yalobusha Review*. University of Mississippi Press (May 2003): 63-67.
 
-...& direct to readers (selected)
-----------------------------
+Online Publications
+-------------------
 
 -   Work in Progress. [Aimé Césaire and the Broken Record](http://record.elotroalex.com)
 -   [The Digital Library of Babel](http://theoutsideessay.com/the-digital-library-of-babel/). The Outside Essay. 2, 2015.
--   [The Great Black Hole](http://hdl.handle.net/10022/AC:P:14791):
-    Reading for the Ghost in Césaire’s “Cahier d’un retour au pays
-    natal,” 1929 (2011)
+-   [The Great Black Hole](http://hdl.handle.net/10022/AC:P:14791): Reading for the Ghost in Césaire’s “Cahier d’un retour au pays natal,” 1929 (2011)
 -   Professional blog. [www.elotroalex.com](http://elotroalex.webfactional.com)
 -   [Scholars' Lab blog.](https://www.scholarslab.org/ "Scholars' Lab")
 -   [NINES blog.](http://www.nines.org/news/ "NINES")
 
-The Dissertation
-----------------
+Dissertation
+------------
 
 - *[Migrant Textuality: On the fields of Aimé Césaire's Et les chiens se taisaient](http://hdl.handle.net/10022/AC:P:20342)*. A dissertation presented to the Graduate Faculty of the University of Virginia in Candidacy for the Degree of Doctor of philosophy, Department of English. December, 2012 Ph.D., University of Virginia. 
 
-Participation
--------------
+Talks and Workshops
+-------------------
 
 - "Introduction to Digital Scholarship." ARL Digital Scholarship Summer Institute, June 2017 and CLIR Postdoc Seminar, July 2017.
 - "Minimal Computing: The Stakes for Textual Scholarship." Society for Textual Scholarship Annual Convention. University of Maryland, June 2017.
 - "Minimal Editions: Come With a Text, Leave with an Accessible Digital Edition." Society for Textual Scholarship Annual Convention. University of Maryland, June 2017.
-- "Off the Broken Record: The Future Past of our Product Line." Humanities Futures Colloquium. Duke University, March 2017.
-- "The Globe is Not a Circle: The New Life of Words and the Broken Scholarly Record." Washington & Lee, March 2017.
+- "Off the Broken Record: The Future Past of our Product Line." Plenary. Humanities Futures Colloquium. Duke University, March 2017.
+- "The Globe is Not a Circle: The New Life of Words and the Broken Scholarly Record." Guest Lecture. Washington & Lee, March 2017.
 - Inaugural Seminar and Keynote on the occassion of the first Masters Program in Digital Humanities in Latin America. Universidad de los Andes, Bogota, Colombia, February 2017.
 - Musiconis International Seminar. A collaboration between the Sorbonne & Columbia University. Paris, France, January 2017.
 - "In The Same Boats: Towards an Intellectual Cartography of the Black Atlantic." History Design Workshop. Harvard University, March 2017.
@@ -144,183 +158,86 @@ Participation
 - "Minimal Computing and the Borders of the New Republic of Letters." Michigan State University. April 2016
 - Minimal Computing Workshop. Michigan State University. April 2016
 -   "Where Is the Nation in Digital Humanities?" MLA Special Session. January 2016
--   "Packing Light, Crossing Borders: Minimal Computing and the DH
-    Transnational." MLA. January 2016
--   "University Worth Fighting For - Career Paths and Hiring Practices."
-    CUNY, November 2015.
--   Mind Bytes. "Careers in Digital Humanites and Social Sciences."
-    University of Chigago, October 2015.
+-   "Packing Light, Crossing Borders: Minimal Computing and the DH Transnational." MLA. January 2016
+-   "A University Worth Fighting For: Career Paths and Hiring Practices." CUNY, November 2015.
+-   Mind Bytes. "Careers in Digital Humanites and Social Sciences." University of Chigago, October 2015.
 -   Mellon Leadership Alliance. July 2015.
--   "Psst! An informal approach to expanding the linguistic range of the
-    Digital Humanities." With Élika Ortega and Dan O'Donnell. DH 2015.
-    Sydney, Australia, 2015.
--   "Building Playgrounds in the Digital Humanities." Keynote. Duke
-    University, 2014.
--   "Developing Librarians for 21st Century Scholarship." Guest Lecture.
-    Duke University. November 2014.
--   "Technological Dissobedience and Minimal Computing." Keynote. Beirut
-    Digital Humanities Institute. AUB. March 2015.
--   THATCamp Beirut. AUB. March 2015. (co-organizer)
--   "Building Playgrounds in the Digital Humanities." AMICAL Webinar.
-    February 2015.
--   "Scholars on the margin of the law." Postcolonial Digital
-    Humanities: Praxis. MLA 2015.
--   "Two provocations on Spivak, Jameson, and almost Žižek." MLA.
-    January 2015.
--   "Ephemeral Tents: Up and Running with Digital Humanities before the
-    Infrastructure.” Guest Lecture. University of Pittsburgh.
-    October 2014.
--   "Neither flat, nor round: On asymmetry and the global-ish digital
-    humanities." (un)Keynote. THATCamp Vanderbilt. October 2014.
--   “Praxis and Sustainability: building social structures in digital
-    humanities.” Advanced Research Consortium, Fall Meeting. Texas A&M.
-    October 2014.
--   "Can Césaire Survive the 21st Century?" Diaspora and the digital.
-    Yale. October 2014.
--   "The Developing Librarian Project at Columbia University
-    Libraries." Dartmouth. October 2014.
--   “Do-it Yourself Oral History: Digital Platforms for the Work of
-    Remediating Memory.” African Diaspora 2.0. Toronto. September 2014
--   "The Developing Librarian Project: An Overview" Invitation to speak
-    before the University of Minnesota Libraries.
--   "Overview of current Caribbean Digital Scholarship."
-    Executive lunch. DH2014. Lausanne, Switzerland. July 2014.
--   "Methods for Empowering Library Staﬀ Through Digital Humanities
-    Skills." Workshop. DH2014. Lausanne, Switzerland. July 2014.
--   "Kickstarting the Minimal Computing Group." Workshop. DH2014.
-    Lausanne, Switzerland. July 2014.
--   "AroundDH in 80 Days: A new map of the digital humanities." DH2014.
-    Lausanne, Switzerland. July 2014.
--   [The (Digital) Library of
-    Babel](http://elotroalex.webfactional.com/digital-library-babel/).
-    Closing Keynote. Digital Humanities Summer Institute. Victoria, B.C.
-    June 2014
--   "Transforming TEI: XSLT and JavaScript." Workshop. Segundo Encuentro
-    de las Humanidades Digitales. RedHD and Global Outlook
-    Digital Humanities. Mexico City. May 2014. (Organizer)
--   Segundo Encuentro de las Humanidades Digitales. RedHD and Global
-    Outlook Digital Humanities. Mexico City. May 2014. (Organizer)
--   "The Developing Librarian Program." Public Service Big Heads.
-    American Library Association. Philadelphia. January 2014
--   "The Global Turn in Digital Humanities." Post-colonial
-    Digital Humanities. Modern Language Association. Chicago. January
-    2014
--   Candidate Success Stories. Modern Language Association. Chicago.
-    January 2014
--   "Flat all the way down: Digital Humanities and Surface Reading."
-    Modern Language Association. Chicago. January 2014
--   "Migrant Textuality: Césaire's Hemispheric Gambit." CASAR. American
-    University of Beirut. Beirut, Lebanon. January 2014
--   [The Work of Man Has Only Just Begun: Legacies of Aimé
-    Césaire](http://cesairelegacies.cdrs.columbia.edu/ "Legacies of Aimé Césaire").
-    Columbia University. New York. 2013. (Organizer)
--   "What alternatives do we have?: Credential creep, unpaid
-    internships, adjunct nation and other full-time woes." American
-    Studies Association Annual Meeting. Washington, D.C. 2013.
--   THATCampCaribe 2: Cuba. Casa de las Americas. Havana, Cuba.
-    November 2013. (Organizer)
--   NYC-DH Inaugural Event. September 2013. (Organizer)
--   Sauver les manuscripts francophones. ITEM. Treilles, France.
-    September 2013.
--   Digital Humanities Forum. Kansas University. Lawrence, Kansas 2013.
--   "The Césaire gambit: Marking and remaking the present." Dominica
-    Literary Festival. Roseau, Dominica. August 2013.
--   ADHO Annual General Meeting. Digital Humanities 2013. University
-    of Nebraska. July 2013.
--   "Crowdsourcing Marginalia." Social, Digital, Scholarly Editing.
-    University of Saskatchewan. July 2013.
--   THATCamp Performing Arts. CUNY Graduate Center. New York, NY.
-    June 2013.
--   "Pour Aimé Césaire." Abbai de Fontevraud, France. June 2013.
--   "Introduction to Omeka." Fordham University. New York, NY. February
-    2013; NYU. New York, NY. May 2013.
--   "Who is afraid of the digital humanities?" Hampshire College, April
-    2013
--   "Extra-legal Bibliography" Society for Textual Scholarship 2013.
-    Chicago, IL. March 2013.
--   "Legology: Of Blocks and Paths." The Textual Studies and Digital
-    Humanities Center. Loyola University. Chicago, IL. February 2013.
--   "Notes on a Global Digital Humanities." MLA 2013. Boston, MA.
-    January, 2013.
--   "The Underground Library as Marginal Archive: Circulation and
-    Preservation in the Shadows." MLA 2013. Boston, MA. January, 2013.
--   "Two Steps and a Leap: Textual Scholarship, Digital Humanities and
-    building the Caribbean digital archive." INKE Havana Gathering 2012:
-    Research Foundations for Understanding Books and Reading in the
-    Digital Age: E/Merging Reading, Writing, and Research Practices.
-    Havana, Cuba. 2012. (also served as organizer and translator)
--   MITH Topic Modeling Workshop 2012. University of Maryland, 2012
--   HathiTrust Research Center UnCamp. Indiana University, 2012.
--   "What can American Studies offer Digital Humanities, and vice
-    versa." American Studies Association, 2012, Puerto Rico.
--   "Towards a Transnational Multilingual Caribbean Digital Humanities
-    Lab." ADHO's Digital Humanities 2012, Hamburg, Germany.
--   "Négritude's Legos: Transposition, iteration and the migrant text."
-    Society for Textual Scholarship 2012, The University of Texas
-    at Austin.
--   “Introducing Césaire's 1st Haitian Drama” Caribbean Studies
-    Association 2012, Le Gosier, Guadeloupe.
--   "New Currents in Caribbean Digital Humanities." Panel chair.
-    Caribbean Studies Association 2012, Le Gosier, Guadeloupe.
--   "Migrant Textuality: Mapping Textual Difference in the Hemispheric
-    Caribbean." Caribbean Studies Association 2012, Le
-    Gosier, Guadeloupe.
--   [THATCamp
-    Caribbean 2012.](http://caribbean2012.thatcamp.org/ "THATCamp Caribbean")
-    Mayagüez, Puerto Rico. (main organizer)
--   "Collecting Archipelagos: The use of the peer-reviewed aggregation
-    model for Caribbean preservation and scholarly communications." 54
-    International Congress of Americanists 2012, Vienna, Austria.
--   "Legology: The (Pseudo-)Science of Textual Difference." MLA 2012,
-    Seattle, WA
--   "The Derrida Code: The Algorithmic Nature of Criticism." MLA 2012,
-    Seattle, WA (co-written with Michael Fox)
--   "Los poetas de la negritud: Aimé Césaire y Léopold Senghor en
-    contexto." Instituto de Enseñanza Superior en Lenguas Vivas, Buenos
-    Aires, Argentina, 2011.
--   "Livisibilité and Deep Representation: Design in Scholarly Editions
-    Online." Association for Documentary Editing 2011 Conference, Salt
-    Lake City, Utah
--   "The Text in Diaspora: The Many Places of Aimé Césaire's poetry."
-    96th Annual ASALH Conference, Richmond, VA, 2011.
--   "On the Fringes of the Digital Archive: The Role of the Modern
-    Library in the future of Africana and Caribbean Studies." Caribbean
-    Philosophical Association 2011 Conference, Rutgers University,
-    New Jersey.
--   [THATCamp CHNM
-    2011](http://chnm2011.thatcamp.org/ "THATCamp CHNM 2011"). Center
-    for History and New Media, George Mason University, Fairfax,
-    VA, 2011.
--   "Towards a Caribbean Aggregator: Past, Present and Future of the
-    Caribbean Digital Archive." Caribbean Studies Association Annual
-    Conference, Curaçao, 2011
--   "The Mirror and the Rocket: Why Data is not Text... at least not
-    yet." Scholars' Lab Digital Therapy Series, Charlottesville, VA,
-    2011
--   "From Analysis to Representation: What Do We Want from the Editorial
-    Machine?" Society for Textual Scholarship, 16th Biennial
-    International Interdisciplinary Conference, Penn State University,
-    University Park, PA, 2011.
--   "Vers une édition génétique de *Cahier d'un retour au pays natal* et
-    *Et les chiens se taisaient* d’Aimé Césaire: des premiers manuscrits
-    à l'édition de 1956." (co-prepared with James Arnold) La génétique
-    des textes et des formes: l'œuvre comme processus, Cerisy, FRANCE,
-    2010
--   [THATCamp Virginia
-    2010](http://virginia2010.thatcamp.org/ "THATCamp Virginia"),
-    Charlottesville, VA, 2010
--   “*Cahier d’un retour au pays natal* : de la genèse à nos jours”
-    (co-presented with James Arnold) Séminaire Manuscrit francophone
-    2009 - 2010, ITEM, Paris, FRANCE, 2010
--   “Textualité et le jeu génétique chez Aimé Césaire : le cas d'*Et les
-    chiens se taisaient*” Collectif de chercheurs francophones sur les
-    littératures au Sud, Paris, FRANCE, 2009
--   “How to spot a Ghost Ship in the *Cahier d'un retour au pays natal*:
-    A reading of the 1939 text.” New World Studies Colloquium at the
-    University of Virginia, Charlottesville, 2009.
--   “Screwing Cuba: Henry James and the Spanish-American War.” Talk
-    presented to the English Department at the University of Virginia,
-    Charlottesville, 2005.
+-   "Psst! An informal approach to expanding the linguistic range of the Digital Humanities." With Élika Ortega and Dan O'Donnell. DH 2015. Sydney, Australia, 2015. 
+-   "Building Playgrounds in the Digital Humanities." Keynote. Duke University, 2014. 
+-   "Developing Librarians for 21st Century Scholarship." Guest Lecture. Duke University. November 2014. 
+-   "Technological Dissobedience and Minimal Computing." Keynote. Beirut Digital Humanities Institute. AUB. March 2015. 
+-   THATCamp Beirut. AUB. March 2015. (co-organizer) 
+-   "Building Playgrounds in the Digital Humanities." AMICAL Webinar. February 2015. 
+-   "Scholars on the margin of the law." Postcolonial Digital Humanities: Praxis. MLA 2015. 
+-   "Two provocations on Spivak, Jameson, and almost Žižek." MLA. January 2015. 
+-   "Ephemeral Tents: Up and Running with Digital Humanities before the Infrastructure.” Guest Lecture. University of Pittsburgh. October 2014. 
+-   "Neither flat, nor round: On asymmetry and the global-ish digital humanities." (un)Keynote. THATCamp Vanderbilt. October 2014. 
+-   “Praxis and Sustainability: building social structures in digital humanities.” Advanced Research Consortium, Fall Meeting. Texas A&M. October 2014. 
+-   "Can Césaire Survive the 21st Century?" Diaspora and the digital. Yale. October 2014. 
+-   "The Developing Librarian Project at Columbia University Libraries." Dartmouth. October 2014. 
+-   “Do-it Yourself Oral History: Digital Platforms for the Work of Remediating Memory.” African Diaspora 2.0. Toronto. September 2014 
+-   "The Developing Librarian Project: An Overview" Invitation to speak before the University of Minnesota Libraries. 
+-   "Overview of current Caribbean Digital Scholarship."Executive lunch. DH2014. Lausanne, Switzerland. July 2014. 
+-   "Methods for Empowering Library Staﬀ Through Digital Humanities Skills." Workshop. DH2014. Lausanne, Switzerland. July 2014. 
+-   "Kickstarting the Minimal Computing Group." Workshop. DH2014. Lausanne, Switzerland. July 2014. 
+-   "AroundDH in 80 Days: A new map of the digital humanities." DH2014. Lausanne, Switzerland. July 2014. 
+-   [The (Digital) Library of Babel](http://elotroalex.webfactional.com/digital-library-babel/). Closing Keynote. Digital Humanities Summer Institute. Victoria, B.C. June 2014 
+-   "Transforming TEI: XSLT and JavaScript." Workshop. Segundo Encuentro de las Humanidades Digitales. RedHD and Global Outlook Digital Humanities. Mexico City. May 2014. (Organizer) 
+-   Segundo Encuentro de las Humanidades Digitales. RedHD and Global Outlook Digital Humanities. Mexico City. May 2014. (Organizer) 
+-   "The Developing Librarian Program." Public Service Big Heads. American Library Association. Philadelphia. January 2014 
+-   "The Global Turn in Digital Humanities." Post-colonial Digital Humanities. Modern Language Association. Chicago. January 2014 
+-   Candidate Success Stories. Modern Language Association. Chicago. January 2014 
+-   "Flat all the way down: Digital Humanities and Surface Reading."Modern Language Association. Chicago. January 2014 
+-   "Migrant Textuality: Césaire's Hemispheric Gambit." CASAR. American University of Beirut. Beirut, Lebanon. January 2014 
+-   [The Work of Man Has Only Just Begun: Legacies of Aimé Césaire](http://cesairelegacies.cdrs.columbia.edu/ "Legacies of Aimé Césaire"). Columbia University. New York. 2013. (Organizer) 
+-   "What alternatives do we have?: Credential creep, unpaid internships, adjunct nation and other full-time woes." American Studies Association Annual Meeting. Washington, D.C. 2013. 
+-   THATCampCaribe 2: Cuba. Casa de las Americas. Havana, Cuba. November 2013. (Organizer) 
+-   NYC-DH Inaugural Event. September 2013. (Organizer) 
+-   Sauver les manuscripts francophones. ITEM. Treilles, France. September 2013.  
+- Guest Lecture, University of Connecticut, September 2013.
+-   Digital Humanities Forum. Kansas University. Lawrence, Kansas, August 2013.
+-   "The Césaire gambit: Marking and remaking the present." Dominica Literary Festival. Roseau, Dominica, August 2013. 
+-   ADHO Annual General Meeting. Digital Humanities 2013. University of Nebraska. July 2013. 
+-   "Crowdsourcing Marginalia." Social, Digital, Scholarly Editing. University of Saskatchewan. July 2013. 
+-   THATCamp Performing Arts. CUNY Graduate Center. New York, NY. June 2013. 
+-   "Pour Aimé Césaire." Abbai de Fontevraud, France. June 2013. 
+-   "Introduction to Omeka." Fordham University. New York, NY. February 2013; NYU. New York, NY. May 2013. 
+-   "Who is afraid of the digital humanities?" Hampshire College, April 2013 
+-   "Extra-legal Bibliography" Society for Textual Scholarship 2013. Chicago, IL. March 2013. 
+-   "Legology: Of Blocks and Paths." The Textual Studies and Digital Humanities Center. Loyola University. Chicago, IL. February 2013. 
+-   "Notes on a Global Digital Humanities." MLA 2013. Boston, MA. January, 2013. 
+-   "The Underground Library as Marginal Archive: Circulation and Preservation in the Shadows." MLA 2013. Boston, MA. January, 2013. 
+-   "Two Steps and a Leap: Textual Scholarship, Digital Humanities and building the Caribbean digital archive." INKE Havana Gathering 2012: Research Foundations for Understanding Books and Reading in the Digital Age: E/Merging Reading, Writing, and Research Practices. Havana, Cuba. 2012. (also served as organizer and translator) 
+- MITH Topic Modeling Workshop 2012. University of Maryland, 2012 
+- HathiTrust Research Center UnCamp. Indiana University, 2012.
+- Guest Lecture, Florida International University, November 2012.
+- Guest Lecture, Occidental College, August 2012. 
+-   "What can American Studies offer Digital Humanities, and vice versa." American Studies Association, 2012, Puerto Rico. 
+-   "Towards a Transnational Multilingual Caribbean Digital Humanities Lab." ADHO's Digital Humanities 2012, Hamburg, Germany. 
+-   "Négritude's Legos: Transposition, iteration and the migrant text."Society for Textual Scholarship 2012, The University of Texas at Austin. 
+-   “Introducing Césaire's 1st Haitian Drama” Caribbean Studies Association 2012, Le Gosier, Guadeloupe. 
+-   "New Currents in Caribbean Digital Humanities." Panel chair. Caribbean Studies Association 2012, Le Gosier, Guadeloupe. 
+-   "Migrant Textuality: Mapping Textual Difference in the Hemispheric Caribbean." Caribbean Studies Association 2012, Le Gosier, Guadeloupe. 
+-   [THATCamp Caribbean 2012.](http://caribbean2012.thatcamp.org/ "THATCamp Caribbean") Mayagüez, Puerto Rico. (main organizer) 
+-   "Collecting Archipelagos: The use of the peer-reviewed aggregation model for Caribbean preservation and scholarly communications." 54 International Congress of Americanists 2012, Vienna, Austria. 
+-   "Legology: The (Pseudo-)Science of Textual Difference." MLA 2012, Seattle, WA 
+-   "The Derrida Code: The Algorithmic Nature of Criticism." MLA 2012, Seattle, WA (co-written with Michael Fox) 
+-   "Los poetas de la negritud: Aimé Césaire y Léopold Senghor en contexto." Instituto de Enseñanza Superior en Lenguas Vivas, Buenos Aires, Argentina, 2011. 
+-   "Livisibilité and Deep Representation: Design in Scholarly Editions Online." Association for Documentary Editing 2011 Conference, Salt Lake City, Utah 
+-   "The Text in Diaspora: The Many Places of Aimé Césaire's poetry."96th Annual ASALH Conference, Richmond, VA, 2011. 
+-   "On the Fringes of the Digital Archive: The Role of the Modern Library in the future of Africana and Caribbean Studies." Caribbean Philosophical Association 2011 Conference, Rutgers University, New Jersey. 
+-   [THATCamp CHNM 2011](http://chnm2011.thatcamp.org/ "THATCamp CHNM 2011"). Center for History and New Media, George Mason University, Fairfax, VA, 2011. 
+-   "Towards a Caribbean Aggregator: Past, Present and Future of the Caribbean Digital Archive." Caribbean Studies Association Annual Conference, Curaçao, 2011 
+-   "The Mirror and the Rocket: Why Data is not Text... at least not yet." Scholars' Lab Digital Therapy Series, Charlottesville, VA, 2011 
+-   "From Analysis to Representation: What Do We Want from the Editorial Machine?" Society for Textual Scholarship, 16th Biennial International Interdisciplinary Conference, Penn State University, University Park, PA, 2011. 
+-   "Vers une édition génétique de *Cahier d'un retour au pays natal* et *Et les chiens se taisaient* d’Aimé Césaire: des premiers manuscrits à l'édition de 1956." (co-prepared with James Arnold) La génétique des textes et des formes: l'œuvre comme processus, Cerisy, FRANCE, 2010 
+-   [THATCamp Virginia 2010](http://virginia2010.thatcamp.org/ "THATCamp Virginia"), Charlottesville, VA, 2010 
+-   “*Cahier d’un retour au pays natal* : de la genèse à nos jours” (co-presented with James Arnold) Séminaire Manuscrit francophone 2009 
+- 2010, ITEM, Paris, FRANCE, 2010 
+-   “Textualité et le jeu génétique chez Aimé Césaire : le cas d'*Et les chiens se taisaient*” Collectif de chercheurs francophones sur les littératures au Sud, Paris, FRANCE, 2009 
+-   “How to spot a Ghost Ship in the *Cahier d'un retour au pays natal*: A reading of the 1939 text.” New World Studies Colloquium at the University of Virginia, Charlottesville, 2009. 
+-   “Screwing Cuba: Henry James and the Spanish-American War.” Talk presented to the English Department at the University of Virginia, Charlottesville, 2005.
+
 
 Teaching
 --------
@@ -388,111 +305,63 @@ Teaching
 -   Intermediate Spanish II, Spring 2004
 -   Intermediate Spanish I, Fall 2003
 
-Misc
-----
-
-- Reviewer for ADHO's Annual DH Conference (2012-present)
--   Watershed Group (A Think Tank for Black Atlantic
-    Digital Humanities) (2016-present)
--   NYCDH Workshop Week Inaugural Year. Co-creator and organizer
-    (February 2016)
--   NYCDH Graduate Student Contest. Co-creator and
-    organizer (2014-present)
--   Vice-Chair (Former Chair), Executive Council, Global
-    Outlook::Digital Humanities, ADHO (2014-present)
--   Council Representative and Communications Officer, Association for
-    Computers and the Humanities (2015-present)
--   Administrator, Steering Committee, New York City Digital Humanities
-    Group (NYCDH)
--   Co-Chair, Digital Advisory Board, Caribbean Studies
-    Association (2014-present)
--   Editor of Internationalization, Digital Humanities
-    Quarterly (2014-present)
--   Associate Editor, Small Axe: Archipelagos (2014-present)
--   Vice-Chair, Multi Lingual Multicultural Committee,
-    ADHO (2014-present)
--   Vice-Chair, Executive Council, Global Outlook::Digital Humanities,
-    ADHO (2013-2014)
--   Chair, Digital Advisory Board, Caribbean Studies
-    Association (2012-2013)
--   Consulting Visit, University of Connecticut, September 2013.
--   Consulting Visit, Florida International University, November 2012.
--   Guest Speaker, Occidental College, August 2012.
--   [Critical Code Studies Working Group
-    2012](http://haccslab.com/?page_id=174).
--   Reviewer for *Research in African Literatures*, 2011.
--   UVACSE Tiger Team, Approximate String Matching across literary
-    corpora
--   THATCamp Diversity initiative, 2011-2012
--   -D Initiative to bring Digital Humanities instruction to the
-    undergraduate curriculum at the University of Virginia, 2011.
--   Project Lead, [Project Tango](http://uvatango.wordpress.com). (An
-    initiative to bridge the gap between digital humanities training and
-    out-of-print digital archiving). 2010-2011.
--   Co-Editor of the *Edition critique/génétique de l'Œuvre complète
-    d'Aimé Césaire* (Critical/genetic edition of the complete works of
-    Aimé Césaire). Paris: Planète Libre. 2009-present
--   Editor of the e-text edition of Alexander Exquemelin's Bucaneers
-    of America. UVa e-text center. 2005
--   Translator for the Student Interpreter Service Initiative at the UVa
-    Hospital, Fall 2004.
--   Translator for *Callaloo's* “Cuban Issue.” December 2000
--   Founder and President of the Florida International University Poetry
-    Club, 1998
 
 Memberships present...
 ----------------------
 
--   Digital Library Federation([DLF](https://www.diglib.org/ "DLF"))
--   Modern Language Association ([MLA](http://www.mla.org/ "MLA"))
--   Caribbean Studies Association
+- Digital Library Federation ([DLF](https://www.diglib.org/ "DLF"))
+- Modern Language Association ([MLA](http://www.mla.org/ "MLA"))
+- Caribbean Studies Association
     ([CSA](http://www.caribbeanstudiesassociation.org/en/index.html "CSA"))
--   [Humanistica](http://www.humanisti.ca/)
--   Alliance of Digital Humanities Organizations
+- [Humanistica](http://www.humanisti.ca/)
+- Alliance of Digital Humanities Organizations
     ([ADHO](http://digitalhumanities.org/ "ADHO"))
--   Association for Literary and Linguistic Computing
+- Association for Literary and Linguistic Computing
     ([ALLC](http://www.allc.org/ "ALLC"))
--   Association for Computers and the Humanities
+- Association for Computers and the Humanities
     ([ACH](http://ach.org/ "ACH"))
--   Society for Digital Humanities/Société pour l'étude des médias
+- Society for Digital Humanities/Société pour l'étude des médias
     interactifs ([SDH-SEMI](http://sdh-semi.org/ "SDH-SEMI"))
--   Australian Association for Digital Humanities
+- Australian Association for Digital Humanities
     ([aaDH](http://aa-dh.org/ "aaDH"))
--   Latin American Studies Association
+- Latin American Studies Association
     ([LASA](https://lasa.international.pitt.edu/eng/))
--   Institut des textes et manuscrits modernes
+- Institut des textes et manuscrits modernes
     ([ITEM](http://www.item.ens.fr/ "ITEM"))
+- Society for Textual Scholarship ([STS](http://textualsociety.org/ "STS"))
 
 ...& past
 ---------
 
--   American Library Association (ALA)
--   Society for Textual Scholarship
-    ([STS](http://textualsociety.org/ "STS"))
--   American Studies Association ([ASA](http://www.theasa.net/ "ASA"))
--   Association for Documentary Editing
+- American Library Association (ALA)
+- American Studies Association ([ASA](http://www.theasa.net/ "ASA"))
+- Association for Documentary Editing
     ([ADE](http://www.documentaryediting.org/ "ADE"))
--   Caribbean Philosophical Association
+- Caribbean Philosophical Association
     ([CPA](http://www.caribbeanphilosophicalassociation.org/ "CPA"))
--   Association for the Study of African American Life and History ([ASALH](http://www.asalh.org/ "ASALH"))
+- Association for the Study of African American Life and History ([ASALH](http://www.asalh.org/ "ASALH"))
 
 Languages and Specialist Skills
 -------------------------------
 
-**Human:** Mastery of Spanish, French and Italian. Functional knowledge of German, Portuguese and Kreyol. 
-**Code:** Ruby, Python, HTML, CSS/SASS, XSLT, XML/TEI, PHP, SQL, JavaScript/JQuery, bash, Liquid, Markdown... you know what, just throw it at me, I'll figure it out.
+**Human:** Mastery of Spanish, English, French and Italian. Functional knowledge of German, Portuguese and Kreyol. 
+
+**Machine:** Ruby, Python, HTML, CSS/SASS, XSLT, XML/TEI, PHP, SQL, JavaScript/JQuery, Bash, Liquid, Markdown.
 
 
 References
 ----------
 
-- **Bethany Nowviskie, Director, Digital Library Federation.**
-- **Barbara Rockenbach, Associate University Librarian, Columbia University Libraries**
-- **Kaiama Glover, Associate Professor of French, Barnard College**
-- **Jesús R. Velasco, Professor, Latin American and Iberian Studies, Columbia University**
+- **Bethany Nowviskie**, Director, Digital Library Federation
+- **Barbara Rockenbach**, Associate University Librarian, Columbia University Libraries
+- **Kaiama Glover**, Associate Professor of French, Barnard College
+- **Jesús R. Velasco**, Professor, Department of Latin American and Iberian Studies, Columbia University
+- Sharon Marcus, Former Dean of the Humanities, Columbia University
 - Dennis Tenen, Assistant Professor of English and Comparative Literature, Columbia University
 - Manan Ahmed, Assistant Professor, Department of History, Columbia University
+- Susan Boynton, Professor, Department of Music, Columbia University
 - Meredith Levin, Western European Humanities Librarian, Columbia University
+- Roopika Risam, Assistant Professor of World Literature and English Education, Salem State University
 - Jerome J. McGann, University Prof & John Stewart Bryan Prof Of English, University of Virginia
 - Dan O'Donnell, Professor of English, University of Lethbridge
 - Jahan Ramazani, Edgar F. Shannon, Jr. Professor of English, University of Virginia
@@ -513,5 +382,5 @@ Columbia University
 535 West 114th Street  
 New York, NY 10027
 
-(914) 327-0883  
++1 (914) 327-0883  
 agil@columbia.edu
