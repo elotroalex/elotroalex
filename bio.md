@@ -5,7 +5,7 @@ author: Alex Gil
 permalink: /profile/
 ---
 
-**Alex Gil** is Digital Scholarship Coordinator at Columbia University Libraries and Affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and scholarly communications. He is among the founders of several ongoing, warmly received initiatives where he currently plays leadership roles: the Studio@Butler at Columbia University, a library innovation space focused on the collaboration of faculty, students and librarians; faculty moderator of the Group for Experimental Methods in the Humanities, a vibrant trans-disciplinary research cluster focused on experimental humanities; current chair of Global Outlook::Digital Humanities, an interest group connecting practitioners across the world; and senior editor of the journal *sx archipelagos*, a journal of Caribbean Digital Studies. Current projects include Ed, a digital platform for minimal editions of literary texts; Aimé Césaire and The Broken Record, an experiment in long-form digital scholarship; and, In The Same Boats, a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
+**Alex Gil** is Digital Scholarship Coordinator at Columbia University Libraries and Affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and scholarly communications. He is among the founders of several ongoing, warmly received initiatives where he currently plays leadership roles: Co-director of the [Studio@Butler](https://studio.cul.columbia.edu/) at Columbia University, a library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; current chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world; and senior editor of *[sx archipelagos](http://smallaxe.net/sxarchipelagos/)*, a journal of Caribbean Digital Studies. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; [Aimé Césaire and The Broken Record](http://record.elotroalex.com/), a minimal computing experiment in long-form digital scholarship; and, [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
 
 
 ---
@@ -54,15 +54,15 @@ Collaborations and Projects (selected)
 - [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. Founder and organizer.
 - [Around DH in 80 Days](http://www.arounddh.org). Editor and designer.
 - [Ed](http://elotroalex.github.io/ed/), a Jekyll theme for minimal editions. Project lead.
-- Council Member. Watershed Group (A Think Tank for Black Atlantic Digital Humanities) (2016-present)
+- Watershed Group—A Think Tank for Black Atlantic Digital Humanities.
 - [RikersBot](https://twitter.com/rikersbot). Instructor.
 - [Developing Librarian Project](http://www.developinglibrarian.org/). Instructor and project design.
 - [Morningside Heights Digital History](https://mhdh.library.columbia.edu/). Project coordinator.
 - [NYC Digital Humanities (NYCDH)](http://nycdh.org/). Steering committee officer.
 - NYCDH Workshop Week Inaugural Year. Creator and organizer.
 - NYCDH Graduate Student Contest. Organizer.
-- [Minimal Computing | Global Outlook::Digital Humanities](http://go-dh.github.io/mincomp/). Founder and contributor.
-- [The Translation Toolkit | Global Outlook::Digital Humanities](http://go-dh.github.io/translation-toolkit/). Founder and contributor.
+- [Minimal Computing \| Global Outlook::Digital Humanities](http://go-dh.github.io/mincomp/). Founder and contributor.
+- [The Translation Toolkit \| Global Outlook::Digital Humanities](http://go-dh.github.io/translation-toolkit/). Founder and contributor.
 - [The Making and Knowing Project](http://www.makingandknowing.org/). Consultant.
 - [Foucault 13/13](http://blogs.law.columbia.edu/foucault1313/), Lessons on the Will to Know. Site design and implementation; participant.
 - [THATCampCaribe Series](http://caribbean2013.thatcamp.org/). Founder and organizer.
@@ -76,9 +76,8 @@ Collaborations and Projects (selected)
 - CUBA Counterpoints. Editorial Board.
 - Chair and Co-Chair, Digital Advisory Board, Caribbean Studies Association (2010-2016)
 - Vice-Chair, Multi Lingual Multicultural Committee, ADHO (2014-2017)
-- [Critical Code Studies Working Group
-    2012](http://haccslab.com/?page_id=174). (2012)
-- UVACSE Tiger Team, Approximate String Matching across literary corpora
+- [Critical Code Studies Working Group](http://haccslab.com/?page_id=174). (2012)
+- UVACSE Tiger Team, work on Approximate String Matching across literary corpora.
 - THATCamp Diversity initiative. (2011-2012)
 - Initiative to bring Digital Humanities instruction to the undergraduate curriculum at the University of Virginia, 2011.
 - [Project Tango](http://uvatango.wordpress.com). (An initiative to bridge the gap between digital humanities training and out-of-print digital archiving). Project Lead (2010-2011).
@@ -88,8 +87,11 @@ Collaborations and Projects (selected)
 - Founder and President of the Florida International University Poetry Club (1998)
 
 
-Press Publications
-------------------
+
+Publications
+------------
+
+#### Press
 
 - "A Playbook for the Library of Babel: Modalities of community for digital scholarship." *Debates in Digital Humanities*. (Forthcoming volume on infrastructure).
 - "The Desire of the Humanist: On the Interpretation of Digital Caribbean Dreams." *Debates in Digital Humanities*. (Forthcoming volume on Afro-Diasporic Digital Humanities).
@@ -110,8 +112,7 @@ Press Publications
 -   "Review of Alfred Lopez's *Posts and Pasts: A Theory of Postcolonialism*." The Comparatist, Vol. XXVIII (May 2004): 158-159.
 -   "Man, Woman, Hunger: A Translation of Daina Chaviano's *El Hombre, la Hembra y el Hambre." The Yalobusha Review*. University of Mississippi Press (May 2003): 63-67.
 
-Online Publications
--------------------
+#### Online
 
 -   Work in Progress. [Aimé Césaire and the Broken Record](http://record.elotroalex.com)
 -   [The Digital Library of Babel](http://theoutsideessay.com/the-digital-library-of-babel/). The Outside Essay. 2, 2015.
@@ -306,8 +307,10 @@ Teaching
 -   Intermediate Spanish I, Fall 2003
 
 
-Memberships present...
-----------------------
+Memberships
+-----------
+
+#### Current
 
 - Digital Library Federation ([DLF](https://www.diglib.org/ "DLF"))
 - Modern Language Association ([MLA](http://www.mla.org/ "MLA"))
@@ -330,8 +333,7 @@ Memberships present...
     ([ITEM](http://www.item.ens.fr/ "ITEM"))
 - Society for Textual Scholarship ([STS](http://textualsociety.org/ "STS"))
 
-...& past
----------
+#### Past
 
 - American Library Association (ALA)
 - American Studies Association ([ASA](http://www.theasa.net/ "ASA"))
@@ -344,9 +346,8 @@ Memberships present...
 Languages and Specialist Skills
 -------------------------------
 
-**Human:** Mastery of Spanish, English, French and Italian. Functional knowledge of German, Portuguese and Kreyol. 
-
-**Machine:** Ruby, Python, HTML, CSS/SASS, XSLT, XML/TEI, PHP, SQL, JavaScript/JQuery, Bash, Liquid, Markdown.
+- Human: Mastery of Spanish, English, French and Italian. Functional knowledge of German, Portuguese and Kreyol. 
+- Machine: Ruby, Python, HTML, CSS/SASS, XSLT, XML/TEI, PHP, SQL, JavaScript/JQuery, Bash, Liquid, Markdown.
 
 
 References
@@ -366,7 +367,6 @@ References
 - Dan O'Donnell, Professor of English, University of Lethbridge
 - Jahan Ramazani, Edgar F. Shannon, Jr. Professor of English, University of Virginia
 - Anna Brickhouse, Associate Professor of English, University of Virginia
-- A. James Arnold, Professor Emeritus of French, University of Virginia
 - Mrinalini Chakravorty, Assistant Professor of English, University of Virginia
 - Andrew Stauffer, Associate Professor of English, University of Virginia
 - Siva Vaidhyanathan, Chair, Media Studies Department, University of Virginia
