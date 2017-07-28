@@ -364,6 +364,7 @@ References
 - **Barbara Rockenbach**, Associate University Librarian, Columbia University Libraries
 - **Kaiama Glover**, Associate Professor of French, Barnard College
 - **Jesús R. Velasco**, Professor, Department of Latin American and Iberian Studies, Columbia University
+
 - Dennis Tenen, Assistant Professor of English and Comparative Literature, Columbia University
 - Manan Ahmed, Assistant Professor, Department of History, Columbia University
 - Sharon Marcus, Former Dean of the Humanities, Columbia University
@@ -371,6 +372,7 @@ References
 - Susan Boynton, Professor, Department of Music, Columbia University
 - Meredith Levin, Western European Humanities Librarian, Columbia University
 - Roopika Risam, Assistant Professor of World Literature and English Education, Salem State University
+- Matt Gold, Associate Professor of English & Digital Humanities, CUNY Graduate Center.
 - Jerome J. McGann, University Prof & John Stewart Bryan Prof Of English, University of Virginia
 - Dan O'Donnell, Professor of English, University of Lethbridge
 - Anna Brickhouse, Associate Professor of English, University of Virginia
