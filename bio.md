@@ -365,6 +365,7 @@ References
 - **Kaiama Glover**, Associate Professor of French, Barnard College
 - **Jesús R. Velasco**, Professor, Department of Latin American and Iberian Studies, Columbia University
 
+- Frances Negrón-Muntaner, Professor of English and Comparative Literature 
 - Dennis Tenen, Assistant Professor of English and Comparative Literature, Columbia University
 - Manan Ahmed, Assistant Professor, Department of History, Columbia University
 - Sharon Marcus, Former Dean of the Humanities, Columbia University
