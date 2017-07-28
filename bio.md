@@ -372,9 +372,9 @@ References
 - Susan Boynton, Professor, Department of Music, Columbia University
 - Meredith Levin, Western European Humanities Librarian, Columbia University
 - Roopika Risam, Assistant Professor of World Literature and English Education, Salem State University
+- Julia Flanders, Professor of the Practice in English and Director of the Digital Scholarship Group in the Northeastern University Library
 - Matt Gold, Associate Professor of English & Digital Humanities, CUNY Graduate Center.
 - Jerome J. McGann, University Prof & John Stewart Bryan Prof Of English, University of Virginia
-- Dan O'Donnell, Professor of English, University of Lethbridge
 - Anna Brickhouse, Associate Professor of English, University of Virginia
 - Mrinalini Chakravorty, Assistant Professor of English, University of Virginia
 - Andrew Stauffer, Associate Professor of English, University of Virginia
