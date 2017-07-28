@@ -128,12 +128,12 @@ Lectures, Conferences & Workshops
 
 #### Guest lectures
 
-- "Introduction to Digital Scholarship." ARL Digital Scholarship Summer Institute, June 2017 and CLIR Postdoc Seminar, July 2017.
+- "[A Hummingbird's] Introduction to Digital Scholarship." ARL Digital Scholarship Summer Institute, June 2017 and CLIR Postdoc Seminar, July 2017.
 - "Off the Broken Record: The Future Past of our Product Line." Humanities Futures Colloquium. Duke University, March 2017.
 - "The Globe is Not a Circle: The New Life of Words and the Broken Scholarly Record." Washington & Lee, March 2017.
 - Inaugural Seminar and Keynote on the occasion of the first Masters Program in Digital Humanities in Latin America. Universidad de los Andes, Bogota, Colombia, February 2017.
 - “The Geographies of Aimé Césaire: On Place and the Hybrid Archive.” Indigeneity, Creolization, Fugitivity Symposium. Cornell University. October 2016.
-- Las tecnologías de la Información y la Comunicación en la Universidad del siglo XXI. Universidad Internacional Menéndez Pelayo. Santander, Spain. September 2016.
+- "Las tecnologías de la Información y la Comunicación en la Universidad del siglo XXI." Universidad Internacional Menéndez Pelayo. Santander, Spain. September 2016.
 - "Heritage Interfaces: Presenting Cultural Specificity in Digital Collections." Singapore University, Singapore. August 2016.
 - "Minimal Computing and the Borders of the New Republic of Letters." Michigan State University. April 2016
 - "A University Worth Fighting For: Career Paths and Hiring Practices." CUNY, November 2015.
@@ -147,6 +147,8 @@ Lectures, Conferences & Workshops
 - [The (Digital) Library of Babel](http://elotroalex.webfactional.com/digital-library-babel/). Closing Keynote. Digital Humanities Summer Institute. Victoria, B.C. June 2014.
 - "The Developing Librarian Program." Public Service Big Heads. American Library Association. Philadelphia, January 2014; and University of Connecticut, September 2013.
 - "Who is afraid of the digital humanities?" Hampshire College, April 2013
+- "Where are the Digital Humanities: The Place of DH Scholarship at Public Research Universities," Florida International University, November 2012.
+- Guest Lecture on the Praxis Program, Mellon-funded Digital Scholarship Institute, Occidental College, August 2012.
 
 
 #### Panel presentations
@@ -174,8 +176,6 @@ Lectures, Conferences & Workshops
 - "Two provocations on Spivak, Jameson, and almost Žižek." MLA. January 2015.
 - “Praxis and Sustainability: building social structures in digital humanities.” Advanced Research Consortium, Fall Meeting. Texas A&M. October 2014.
 - "Can Aimé Césaire Survive the 21st Century?" Diaspora and the digital. Yale. October 2014.
-- Guest Lecture, Florida International University, November 2012.
-- Guest Lecture, Occidental College, August 2012.
 - "Los poetas de la negritud: Aimé Césaire y Léopold Senghor en contexto." Instituto de Enseñanza Superior en Lenguas Vivas, Buenos Aires, Argentina, 2011.
 -   “Do-it Yourself Oral History: Digital Platforms for the Work of Remediating Memory.” African Diaspora 2.0. Toronto. September 2014 
 -   "Overview of current Caribbean Digital Scholarship." Executive lunch. DH2014. Lausanne, Switzerland. July 2014.
