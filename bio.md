@@ -5,7 +5,7 @@ author: Alex Gil
 permalink: /profile/
 ---
 
-**Alex Gil** is Digital Scholarship Coordinator at Columbia University Libraries and Affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and scholarly communications. He is among the founders of several ongoing, warmly received initiatives where he currently plays leadership roles: Co-director of the [Studio@Butler](https://studio.cul.columbia.edu/) at Columbia University, a library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; current chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world; and senior editor of *[sx archipelagos](http://smallaxe.net/sxarchipelagos/)*, a journal of Caribbean Digital Studies. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; [Aimé Césaire and The Broken Record](http://record.elotroalex.com/), a minimal computing experiment in long-form digital scholarship; and, [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
+**Alex Gil** is Digital Scholarship Coordinator at Columbia University Libraries and Affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and scholarly communications. He is among the founders of several ongoing, warmly received initiatives where he currently plays leadership roles: Co-director of the [Studio@Butler](https://studio.cul.columbia.edu/) at Columbia University, a library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; current chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world; senior editor of *[sx archipelagos](http://smallaxe.net/sxarchipelagos/)*, a journal of Caribbean Digital Studies, and co-wrangler of [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; [Aimé Césaire and The Broken Record](http://record.elotroalex.com/), a minimal computing experiment in long-form digital scholarship; and, [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
 
 
 ---
@@ -66,7 +66,8 @@ Collaborations and Projects
 - [Piracy Lab](http://piracylab.org/ "Piracy Lab"). Collaborator.
 - [Prism](http://praxis.scholarslab.org/ "Prism"). Development team.
 - Aimé Césaire. *Poésie, théâtre, essais et discours*. Ed. Albert-James Arnold. Paris: CNRS, 2014. Associate Editor.
-- Libraries Without Borders. Board Member. 
+- Libraries Without Borders. Board Member.
+- KSHIP. Editorial Board. 
 - CUBA Counterpoints. Editorial Board.
 - Chair and Co-Chair, Digital Advisory Board, Caribbean Studies Association (2010-2016)
 - Vice-Chair, Multi Lingual Multicultural Committee, ADHO (2014-2017)
@@ -218,6 +219,7 @@ Lectures, Conferences & Workshops
 #### Organized Conferences & Workshops
 - [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. Founder and organizer. NYC, 2014-present.
 - [THATCampCaribe](http://caribbean2013.thatcamp.org/) un-conference series. Founder and organizer. Puerto Rico, 2012; Cuba, 2013; Trinidad & Tobago, October 2017.
+- "On Method" Lecture Series. The Heyman Center. Columbia University. (2014-2015). With Grant Wythoff. 
 - Workshops on Python, Jekyll, fundamentals of computing, Markdown, Zotero, Omeka/Neatline, WordPress. Columbia University, NYC (2013-2017) 
 - "Minimal Editions: Come With a Text, Leave with an Accessible Digital Edition." Society for Textual Scholarship Annual Convention. University of Maryland, June 2017.
 - Privacy and Security for Researchers Workshop. Columbia University, NYC. February 2017.
