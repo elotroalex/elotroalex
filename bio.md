@@ -47,6 +47,7 @@ Collaborations and Projects
 - [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and Chair.
 - [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
 - [In the Same Boats](http://sameboats.org). Project lead with Kaiama Glover.
+- [Style Revolution](https://stylerevolution.github.io/). Instructor and project manager.
 - [Association for Computers in the Humanities](http://ach.org/). Steering committee, member and communications officer.
 - Editor of Internationalization, [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/).
 - [Around DH in 80 Days](http://www.arounddh.org). Editor and designer.
@@ -93,7 +94,7 @@ Publications
 - "The Studio@Butler: Library Innovation at the Seams." (Forthcoming) 
 - "Placing Césaire: Some Considerations on Cartography and Enumerative Bibliographies." Caribbean Quarterly. Volume 62, Nos. 3 & 4 (September-December 2016).
 -  "Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing." *Doing Digital Humanities*. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016. (Co-Written with Élika Ortega)
--   "Global Digital Humanities." Schreibman, Susan, Raymond George Siemens, and John Unsworth, eds. *A New Companion to Digital Humanities*. Chichester, West Sussex, UK: John Wiley & Sons Inc, 2016. (Co-written with Daniel O'Donnell, et al.)
+-   "Only Connect: The Globalization of the Digital Humanities." Schreibman, Susan, Raymond George Siemens, and John Unsworth, eds. *A New Companion to Digital Humanities*. Chichester, West Sussex, UK: John Wiley & Sons Inc, 2016. (Co-written with Daniel O'Donnell, et al.)
 -   “El gran agujero negro: a la caza del fantasma en Cahier d’un retour au pays natal" (Traducción al español de “The Great Black Hole: Reading for the Ghost in Césaire’s Cahier d’un retour au pays natal"), en Dossier “Asedios al archivo caribeño de la negritud: Aimé Césaire en el centenario de su nacimiento”, coordinado por Florencia Bonfiglio, Estudios. Revista de Investigaciones Literarias y Culturales, Universidad Simón Bolívar, Caracas (Venezuela), 21:41, enero-junio, 2013.
 - "[Focus génétique sur Les Armes miraculeuses d’Aimé Césaire](https://coma.revues.org/254)." *Manuscrits francophones du sud : un état des lieux*. 1:1. 2014.
 -   "The Migrant Text: Aime Cesaire's Hemispheric Push and the Editorial Blind-Spot" *Perspectives on the ‘Migrant Cosmopolitans’: Narratives of Contemporary Postcoloniality.* Edited by Nirmala Menon and Marika Preziuso. New York: Peter Lang, 2014.
@@ -256,8 +257,8 @@ Teaching
 
 #### Columbia University
 
--   Minimal Editions, co-taught with Prof. Susanna Alles, Spring 2016
-    (Latin American and Iberian Cultures Department)
+-	Style Revolution, co-taught with Prof. Anne Higonnet, Fall 2017 (Art History Department)
+-   Minimal Editions, co-taught with Prof. Susanna Alles, Spring 2016 (Latin American and Iberian Cultures Department)
 -   Digital Scholarship Lab. Yiddish Writers, with Prof. Jeremy Dauber,
     Spring 2016 (Department of Germanic Languages)
 -   Digital Scholarship Lab. Local History in Tibet, with Prof. Gray
@@ -364,14 +365,15 @@ References
 ----------
 
 - **Bethany Nowviskie**, Director, Digital Library Federation
-- **Barbara Rockenbach**, Associate University Librarian, Columbia University Libraries
 - **Kaiama Glover**, Associate Professor of French, Barnard College
 - **Jesús R. Velasco**, Professor, Department of Latin American and Iberian Studies, Columbia University
 
-- Frances Negrón-Muntaner, Professor of English and Comparative Literature 
-- Dennis Tenen, Assistant Professor of English and Comparative Literature, Columbia University
-- Manan Ahmed, Assistant Professor, Department of History, Columbia University
+- Chris Bourg, Director, MIT Libraries
 - Sharon Marcus, Former Dean of the Humanities, Columbia University
+- Dennis Tenen, Assistant Professor of English and Comparative Literature, Columbia University
+- Frances Negrón-Muntaner, Professor of English and Comparative Literature 
+- Barbara Rockenbach, Associate University Librarian, Columbia University Libraries
+- Manan Ahmed, Assistant Professor, Department of History, Columbia University
 - David Scott, Professor, Department of Anthropology, Columbia University
 - Susan Boynton, Professor, Department of Music, Columbia University
 - Meredith Levin, Western European Humanities Librarian, Columbia University
