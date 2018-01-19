@@ -44,15 +44,18 @@ Collaborations and Projects
 - [Studio@Butler](https://studio.cul.columbia.edu/), Columbia University Libraries. Founder and co-director.
 - [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/), Columbia University. Founder and faculty moderator.
 - [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/). Project design, implementation and coordination.
-- [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and Chair.
+- [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and former Chair and Vice-Chair.
 - [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
 - [In the Same Boats](http://sameboats.org). Project lead with Kaiama Glover.
 - [Style Revolution](https://stylerevolution.github.io/). Instructor and project manager.
 - [Association for Computers in the Humanities](http://ach.org/). Steering committee, member and communications officer.
+- [HASTAC](https://www.hastac.org/). Advisory Board.
+- [DLF "Miracle Workers" Working Group](https://www.diglib.org/groups/miracle-workers-working-group/). Founder and moderator.
 - Editor of Internationalization, [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/).
 - [Around DH in 80 Days](http://www.arounddh.org). Editor and designer.
 - [Ed](http://elotroalex.github.io/ed/), a Jekyll theme for minimal editions. Project lead.
 - Watershed Group—A Think Tank for Black Atlantic Digital Humanities.
+- [Sudan Historical Photo Archive](http://sudanphoto.uofk.edu/). Consultant.
 - [RikersBot](https://twitter.com/rikersbot). Instructor.
 - [Developing Librarian Project](http://www.developinglibrarian.org/). Instructor and project design.
 - [Morningside Heights Digital History](https://mhdh.library.columbia.edu/). Project coordinator.
@@ -66,8 +69,8 @@ Collaborations and Projects
 - [The Open Syllabus Project](http://opensyllabusproject.org/). Co-PI.
 - [Piracy Lab](http://piracylab.org/ "Piracy Lab"). Collaborator.
 - [Prism](http://praxis.scholarslab.org/ "Prism"). Development team.
+- [Libraries Without Borders](https://www.librarieswithoutborders.org/). Advisory Board.
 - Aimé Césaire. *Poésie, théâtre, essais et discours*. Ed. Albert-James Arnold. Paris: CNRS, 2014. Associate Editor.
-- Libraries Without Borders. Board Member.
 - KSHIP. Editorial Board.
 - Digital Scholarship in the Humanities. Editorial Board 
 - CUBA Counterpoints. Editorial Board.
