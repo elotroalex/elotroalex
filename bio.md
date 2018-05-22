@@ -92,9 +92,7 @@ Publications
 
 #### Peer-reviewed articles, chapters & editions
 
-- "A Playbook for the Library of Babel: Modalities of community for digital scholarship." *Debates in Digital Humanities*. (Forthcoming volume on infrastructure).
 - "The Desire of the Humanist: On the Interpretation of Digital Caribbean Dreams." *Debates in Digital Humanities*. (Forthcoming volume on Afro-Diasporic Digital Humanities).
-- "The Studio@Butler: Library Innovation at the Seams." (Forthcoming) 
 - "Placing Césaire: Some Considerations on Cartography and Enumerative Bibliographies." Caribbean Quarterly. Volume 62, Nos. 3 & 4 (September-December 2016).
 -  "Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing." *Doing Digital Humanities*. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016. (Co-Written with Élika Ortega)
 -   "Only Connect: The Globalization of the Digital Humanities." Schreibman, Susan, Raymond George Siemens, and John Unsworth, eds. *A New Companion to Digital Humanities*. Chichester, West Sussex, UK: John Wiley & Sons Inc, 2016. (Co-written with Daniel O'Donnell, et al.)
@@ -134,6 +132,13 @@ Lectures, Conferences & Workshops
 
 #### Guest lectures
 
+- "Border Archives and Shadow Archons: The Case of the Broken Digital Record." Bavarian American Academy Summer School. June 2018.
+- "These Masters's Tools Ain't Like the Others: Towards a Caribbean Digital Humanities Praxis." 3rd Annual Distinguished Lecture. Faculty of Humanities and Education. University of the West Indies Mona Campus. May 2018. 
+- Price Lab Lunchtime Talk. University of Pennsylvania. April 2018.
+- "« Et les Chiens se taisaient », édition spéculative et essai génétique." Institut des textes & manuscrits modernes. Paris, France. April 2018.
+- "A Primer on Nimble Tents: A Look at Tensile Grass Roots in the Digital Humanities." William & Mary. April 2018.
+- "Minimal Computing, Border Technologies and Other Marginal Practices in the Digital Humanities." Recovering the US Hispanic Literary Heritage. University of Houston. March 2018.
+- "Nimble Tents: Boundary Practices for Digital Scholars." University of Oregon. February 2018.
 - "[A Hummingbird's] Introduction to Digital Scholarship." ARL Digital Scholarship Summer Institute, June 2017 and CLIR Postdoc Seminar, July 2017.
 - "Off the Broken Record: The Future Past of our Product Line." Humanities Futures Colloquium. Duke University, March 2017.
 - "The Globe is Not a Circle: The New Life of Words and the Broken Scholarly Record." Washington & Lee, March 2017.
@@ -159,6 +164,10 @@ Lectures, Conferences & Workshops
 
 #### Panel presentations
 
+- "On Adding Platforms to Improve Sustainability: The Case for the Minimal Journal." Library Publishing Forum 2018. Minnesota. May 2018
+- "In the Same Boats." Migration and Mobility in a Digital Age: Paradoxes of Connectivity and Belonging. Columbia University. April 2018
+- "Style Revolution: Minimal Exhibitions for Art History." ARLIS. February 2018.
+- "Nimble Tents for the Humanities." Activism in the Humanities panel. MLA. January 2018.
 - "Minimal Computing: The Stakes for Textual Scholarship." Society for Textual Scholarship Annual Convention. University of Maryland, June 2017.
 - "In The Same Boats: Towards an Intellectual Cartography of the Black Atlantic." History Design Workshop. Harvard University, March 2017.
 - "@rikersbot: Local­-Based, Social­-Justice­-Driven Praxis in Digital Humanities," Alexander Gil, Columbia Univ.; Dennis Tenen, Columbia Univ. MLA Convention, January 2017.
