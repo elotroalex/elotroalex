@@ -5,7 +5,7 @@ author: Alex Gil
 permalink: /profile/
 ---
 
-**Alex Gil** is the Digital Scholarship Librarian at Columbia University Libraries and Affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and knowledge production. He is among the founders of several ongoing, warmly received initiatives where he currently plays leadership roles: Co-director of the [Studio@Butler](https://studio.cul.columbia.edu/) at Columbia University, a tech-light library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; current chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world; senior editor of *[sx archipelagos](http://smallaxe.net/sxarchipelagos/)*, a journal of Caribbean Digital Studies, and co-wrangler of [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; [Aimé Césaire and The Broken Record](http://record.elotroalex.com/), a minimal computing experiment in long-form digital scholarship; and, [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century.
+**Alex Gil** is the Digital Scholarship Librarian at Columbia University Libraries and Affiliate Faculty of the Department of English and Comparative Literature at Columbia University. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and knowledge production. He is among the founders of several ongoing, warmly received initiatives where he currently plays leadership roles: Co-director of the [Studio@Butler](https://studio.cul.columbia.edu/) at Columbia University, a tech-light library innovation space focused on digital scholarship and pedagogy; faculty moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; current chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/), an interest group connecting scholars around the world; senior editor of *[sx archipelagos](http://smallaxe.net/sxarchipelagos/)*, a journal of Caribbean Digital Studies, and co-wrangler of [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; [Aimé Césaire and The Broken Record](http://record.elotroalex.com/), a minimal computing experiment in long-form digital scholarship; and, [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century; and most recently, the [nimble tent](https://nimbletents.github.io/) intervention, [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/).
 
 
 ---
@@ -44,12 +44,14 @@ Collaborations and Projects
 - [Studio@Butler](https://studio.cul.columbia.edu/), Columbia University Libraries. Founder and co-director.
 - [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/), Columbia University. Founder and faculty moderator.
 - [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/). Project design, implementation and coordination.
-- [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and former Chair and Vice-Chair.
 - [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
+- [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/). Team Member & Coordinator.
+- [#prmapathon](http://xpmethod.plaintext.in/events/puerto-rico-mapathon.html). Coordinator.
 - [In the Same Boats](http://sameboats.org). Project lead with Kaiama Glover.
 - [Style Revolution](https://stylerevolution.github.io/). Instructor and project manager.
 - [Association for Computers in the Humanities](http://ach.org/). Steering committee, member and communications officer.
 - [HASTAC](https://www.hastac.org/). Advisory Board.
+- [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and former Chair and Vice-Chair.
 - [DLF "Miracle Workers" Working Group](https://www.diglib.org/groups/miracle-workers-working-group/). Founder and moderator.
 - Editor of Internationalization, [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/).
 - [Around DH in 80 Days](http://www.arounddh.org). Editor and designer.
