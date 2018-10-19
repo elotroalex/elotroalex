@@ -137,6 +137,7 @@ Lectures, Conferences & Workshops
 
 #### Guest lectures
 
+- "Revisiting the Digital Library of Babel: Minimal Computing, Mobilized Humanities and Tri-Continental Disobedience." Nigerian Digital Humanities Summer Institute. October 2018.
 - "Border Archives and Shadow Archons: The Case of the Broken Digital Record." Bavarian American Academy Summer School. June 2018.
 - "These Masters's Tools Ain't Like the Others: Towards a Caribbean Digital Humanities Praxis." 3rd Annual Distinguished Lecture. Faculty of Humanities and Education. University of the West Indies Mona Campus. May 2018. 
 - Price Lab Lunchtime Talk. University of Pennsylvania. April 2018.
@@ -169,6 +170,7 @@ Lectures, Conferences & Workshops
 
 #### Panel presentations
 
+- "Minimal Computing for Image Collections: the Case of Wax." Digital Library Federation. Las Vegas. October 2018.
 - "On Adding Platforms to Improve Sustainability: The Case for the Minimal Journal." Library Publishing Forum 2018. Minnesota. May 2018
 - "In the Same Boats." Migration and Mobility in a Digital Age: Paradoxes of Connectivity and Belonging. Columbia University. April 2018
 - "Style Revolution: Minimal Exhibitions for Art History." ARLIS. February 2018.
