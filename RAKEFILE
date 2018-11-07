@@ -8,9 +8,9 @@ task :prod do
   puts "\n"
   puts 'Now let\'s publish it, hold on a sec...'.green
 # personal server setup
-  user = 'elotroalex'
+  user = 'agil'
   server = 'elotroalex.com'
-  path = '/home/elotroalex/elotroalex.com/main' 
+  path = '/home/agil/public_html/' 
   sh "rsync -r -e \"ssh -p22\" _site/. #{user}@#{server}:#{path}"
   puts "\n"
   puts 'Bam! Your website is now published!'.green

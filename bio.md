@@ -55,6 +55,7 @@ Collaborations and Projects
 - [Association for Computers in the Humanities](http://ach.org/). Steering committee, member and communications officer.
 - [HASTAC](https://www.hastac.org/). Advisory Board.
 - [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and former Chair and Vice-Chair.
+- Chair, MLA Prize for a Bibliography, Archive, or Digital Project Selection Committee (2018)
 - [DLF "Miracle Workers" Working Group](https://www.diglib.org/groups/miracle-workers-working-group/). Founder and moderator.
 - Editor of Internationalization, [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/).
 - [Around DH in 80 Days](http://www.arounddh.org). Editor and designer.
@@ -137,6 +138,7 @@ Lectures, Conferences & Workshops
 
 #### Guest lectures
 
+- "Nimble Tents: xpMethod, #tornapart, and Other Tensile Approaches to the Fourth State." MITH Digital Dialogues. University of Maryland. November 2018.
 - "Revisiting the Digital Library of Babel: Minimal Computing, Mobilized Humanities and Tri-Continental Disobedience." Nigerian Digital Humanities Summer Institute. October 2018.
 - "Border Archives and Shadow Archons: The Case of the Broken Digital Record." Bavarian American Academy Summer School. June 2018.
 - "These Masters's Tools Ain't Like the Others: Towards a Caribbean Digital Humanities Praxis." 3rd Annual Distinguished Lecture. Faculty of Humanities and Education. University of the West Indies Mona Campus. May 2018. 
