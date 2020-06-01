@@ -22,24 +22,6 @@ Degrees
 -   M.A., English Language and Literature, University of Virginia, 2005
 -   B.A., English, Florida International University, 1999
 
-Grants and Awards
------------------
-
--   President’s Global Innovation Fund Award. Architectures of Knowledge, Mumbai 2016.
--   NEH Digital Humanities Startup Grant. SX:Archipelagos Project, 2015-2016.
--   Digital Library of the Caribbean Award of Excellence in Digital Humanities, 2014
--   Sloan Research Grant, Open Syllabus Project, 2013-2014
--   [HASTAC](http://hastac.org/) fellow, 2011-2012
--   Scholars' Lab [Praxis Program](http://praxis.scholarslab.org/ "Praxis Program") Cohort, 2011-2012
--   University of Virginia Library [Scholars' Lab Fellow](http://www2.lib.virginia.edu/scholarslab/about/fellows.html "Scholars Lab Fellow"), 2010-2012
--   [NINES](http://www.nines.org/) (Networked Infrastructure for Nineteenth-Century Electronic Scholarship) Fellow, summer-fall 2010; fall 2011-spring 2012
--   [SHANTI](http://shanti.virginia.edu/) (Sciences, Humanities & Arts Network of Technological Initiatives) Cohorts Fellowship Program to provide programming assistance for the *Et les chiens se taisaient* digital archive, 2009-2010.
--   University of Virginia ENS Fellowship to cover a year of study at the *Ecole Normale Supérieure* in Paris. 2006-2007.
--   Graduate Research Assistant Fellowship to cover one year of work as Project Manager for the Caribbean Literature Archive project with a leave of absence from the English Department, awarded by the Dean of Arts & Science. 2005.
--   Rockefeller Foundation /Bellagio Study Center Conference Grant. Awarded for a one-week stay at The Bellagio Study Center in Italy (Caribbean Literature Archive team, planning conference). June 21-28, 2004.
--   Robert J. Huskey Travel Fellowship awarded by the Graduate School of Arts and Science, University of Virginia. May 2004.
--   T.A. of the Year. The Declaration (Student-run newspaper at the University of Virginia). Dec 5, 2002.
--   Dean of Arts and Science Travel Grant. Used for travel to Cuba to aid in Callaloo's “Cuban Issue” and to carry out preliminary research for the Caribbean Literature Archive, December, 2001.
 
 Collaborations and Projects
 ---------------------------
@@ -48,6 +30,7 @@ Collaborations and Projects
 - [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/), Columbia University. Founder and faculty moderator.
 - [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/). Project design, implementation and coordination.
 - [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
+- [...... et les chiens se taisaient](http://cesaire.elotroalex.com/chiens/). Digital Edition.
 - [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/). Team Member & Coordinator.
 - [#prmapathon](http://xpmethod.plaintext.in/events/puerto-rico-mapathon.html). Coordinator.
 - [In the Same Boats](http://sameboats.org). Project lead with Kaiama Glover.
@@ -92,6 +75,26 @@ Collaborations and Projects
 - Translator for *Callaloo's* “Cuban Issue.” December 2000
 - Founder and President of the Florida International University Poetry Club (1998)
 
+Grants and Awards
+-----------------
+
+-   [Movers & Shakers 2020: Change Agent](https://www.libraryjournal.com/?detailStory=alex-gil-movers-shakers-2020%E2%80%93change-agents). Library Journal. 2020.
+-   President’s Global Innovation Fund Award. Architectures of Knowledge, Mumbai 2016.
+-   NEH Digital Humanities Startup Grant. SX:Archipelagos Project, 2015-2016.
+-   Digital Library of the Caribbean Award of Excellence in Digital Humanities, 2014
+-   Sloan Research Grant, Open Syllabus Project, 2013-2014
+-   [HASTAC](http://hastac.org/) fellow, 2011-2012
+-   Scholars' Lab [Praxis Program](http://praxis.scholarslab.org/ "Praxis Program") Cohort, 2011-2012
+-   University of Virginia Library [Scholars' Lab Fellow](http://www2.lib.virginia.edu/scholarslab/about/fellows.html "Scholars Lab Fellow"), 2010-2012
+-   [NINES](http://www.nines.org/) (Networked Infrastructure for Nineteenth-Century Electronic Scholarship) Fellow, summer-fall 2010; fall 2011-spring 2012
+-   [SHANTI](http://shanti.virginia.edu/) (Sciences, Humanities & Arts Network of Technological Initiatives) Cohorts Fellowship Program to provide programming assistance for the *Et les chiens se taisaient* digital archive, 2009-2010.
+-   University of Virginia ENS Fellowship to cover a year of study at the *Ecole Normale Supérieure* in Paris. 2006-2007.
+-   Graduate Research Assistant Fellowship to cover one year of work as Project Manager for the Caribbean Literature Archive project with a leave of absence from the English Department, awarded by the Dean of Arts & Science. 2005.
+-   Rockefeller Foundation /Bellagio Study Center Conference Grant. Awarded for a one-week stay at The Bellagio Study Center in Italy (Caribbean Literature Archive team, planning conference). June 21-28, 2004.
+-   Robert J. Huskey Travel Fellowship awarded by the Graduate School of Arts and Science, University of Virginia. May 2004.
+-   T.A. of the Year. The Declaration (Student-run newspaper at the University of Virginia). Dec 5, 2002.
+-   Dean of Arts and Science Travel Grant. Used for travel to Cuba to aid in Callaloo's “Cuban Issue” and to carry out preliminary research for the Caribbean Literature Archive, December, 2001.
+
 
 Publications
 ------------
@@ -99,6 +102,7 @@ Publications
 #### Peer-reviewed articles, chapters & editions
 
 - "The Desire of the Humanist: On the Interpretation of Digital Caribbean Dreams." *Debates in Digital Humanities*. (Forthcoming volume on Afro-Diasporic Digital Humanities).
+- "Design for Diversity: The Case of Ed." *The Design for Diversity Learning Toolkit*. Northeastern University. 2019
 - "Placing Césaire: Some Considerations on Cartography and Enumerative Bibliographies." Caribbean Quarterly. Volume 62, Nos. 3 & 4 (September-December 2016).
 -  "Global Outlooks in Digital Humanities: Multilingual Practices and Minimal Computing." *Doing Digital Humanities*. (eds) Richard Lane, Raymond Siemens, and Constance Crompton. London/NY: Routledge, 2016. (Co-Written with Élika Ortega)
 -   "Only Connect: The Globalization of the Digital Humanities." Schreibman, Susan, Raymond George Siemens, and John Unsworth, eds. *A New Companion to Digital Humanities*. Chichester, West Sussex, UK: John Wiley & Sons Inc, 2016. (Co-written with Daniel O'Donnell, et al.)
@@ -119,7 +123,7 @@ Publications
 - Review of Alfred Lopez. *Posts and Pasts: A Theory of Postcolonialism* in The Comparatist, Vol. XXVIII (May 2004): 158-159.
 
 
-#### Online Contributions
+#### Online Writing
 
 -   [Aimé Césaire and the Broken Record](http://record.elotroalex.com). Work in Progress. 
 -   [The Digital Library of Babel](http://theoutsideessay.com/the-digital-library-of-babel/). The Outside Essay. 2, 2015.
@@ -138,6 +142,15 @@ Lectures, Conferences & Workshops
 
 #### Guest lectures
 
+- "Towards a Mobilized Humanities: On Making Do and Nimble Tents." Tulane University. New Orleans. February 2020.
+- "In the Same Boats: Trajectories, Intersections and the Black Atlantic Republic of Letters." MIT. Boston. November 2019. Presented with Kaiama L. Glover.
+- "Minimal Technology in Digital Humanities." UPR Rio Piedras. Puerto Rico. November 2019.
+- "Mobilized Humanities: The Case of Torn Apart/Separados." Mapping (In)Justice. Fordham University. New York City. November 2019.
+- "Scholarly Contra-Surveillance and Technological Disobedience While the World Burns." Keynote. Digital Frontiers. Austin, Texas. September 2019.
+- “On Hardening the Rims: Minimal Computing and Technological Disobedience on the Margins of History.” Trondheim University. Trondheim, Norway. September 2019.
+- "Experimental and Mobilized Humanities." Today Arts Museum. Beijing, China. May 2019. 
+- “The Case for a Mobilized Humanities.” Scholars'Lab, University of Virginia. February 2019.
+- "Caribbean Digital Humanities."  Florida International University. February 2019.
 - "Nimble Tents: xpMethod, #tornapart, and Other Tensile Approaches to the Fourth State." MITH Digital Dialogues. University of Maryland. November 2018.
 - "Revisiting the Digital Library of Babel: Minimal Computing, Mobilized Humanities and Tri-Continental Disobedience." Nigerian Digital Humanities Summer Institute. October 2018.
 - "Border Archives and Shadow Archons: The Case of the Broken Digital Record." Bavarian American Academy Summer School. June 2018.
@@ -172,6 +185,20 @@ Lectures, Conferences & Workshops
 
 #### Panel presentations
 
+- "Formación, recursos e innovación para el desarollo humano frent a COVID-19." *Diálogos Bibliotecas en Cuarentena*. Biblioteca Juan Bosch. May, 2020.
+- "Libraries at the Nexus of Migration." ALA Midwinter. Philadelphia. January 2020.
+- "Mobilizing the Humanities: Building the Supercommons." MLA 2020. Seattle. January 2020.
+-  "Two Case Studies in Minimal Computing." Maintainers III: Policy, Practice, and Care. Washington, D.C., October 2019.
+- “Black Victory in the Speculative Archive: A Reconstruction of the Typescript of '…..et les chiens se taisaient' by Aimé Césaire.” On Archival Truths. Stony Brook University. New York. October 2019.
+- "What We Could Have Told You: Statistical Analysis of Text and the Ends of Narrative." HumLab, Umeå universitet. Umeå, Sweeden. September 2019.
+- "De bibliografía a cartografía: la producción de mapas a partir de bibliografías." Universidad Autonoma de México. CDMX, México. August 2019.
+- "Minimal Computing: On the Borders of Speculative Archives." Association for Computers in the Humanities Conference. Pittsburgh. July 2019.
+- "Difficult Discussions: Diversity in Digital Collections and Archives." American Library Association. Washington, D.C. June 2019.
+- "Minimal Computing in International Collaboration: Ed and Wax." Nanjing University. China. April 2019.
+- "Reading in French Now." Maison Française, Columbia University. April 2019.
+- "A presentation and discussion of the digital project Torn Apart/Separados." Stony Brook University. February 2019.
+- "Information, Democracy, Archives, and Absence." NYC Digital Humanities Week. Fordham University. February 2019.
+- *[Librarians as Advocates: Leading Activism on Your Campus and Beyond](http://aocarldvc.wildapricot.org/event-3076927)*. ACRL Delaware Valley Chapter 
 - "Minimal Computing for Image Collections: the Case of Wax." Digital Library Federation. Las Vegas. October 2018.
 - "On Adding Platforms to Improve Sustainability: The Case for the Minimal Journal." Library Publishing Forum 2018. Minnesota. May 2018
 - "In the Same Boats." Migration and Mobility in a Digital Age: Paradoxes of Connectivity and Belonging. Columbia University. April 2018
@@ -241,6 +268,7 @@ Lectures, Conferences & Workshops
 
 #### Organized Conferences & Workshops
 - [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. Founder and organizer. NYC, 2014-present.
+- Minimal Computing. Dream Lab. University of Pennsylvania. June 2019.
 - [THATCampCaribe](http://caribbean2013.thatcamp.org/) un-conference series. Founder and organizer. Puerto Rico, 2012; Cuba, 2013; Trinidad & Tobago, October 2017.
 - "On Method" Lecture Series. The Heyman Center. Columbia University. (2014-2015). With Grant Wythoff. 
 - Workshops on Python, Jekyll, fundamentals of computing, Markdown, Zotero, Omeka/Neatline, WordPress. Columbia University, NYC (2013-2017) 
@@ -385,28 +413,27 @@ Languages and Specialist Skills
 References
 ----------
 
-- **Bethany Nowviskie**, Director, Digital Library Federation
+- **Bethany Nowviskie**, Dean of Libraries and Professor of English at James Madison University
 - **Kaiama Glover**, Associate Professor of French, Barnard College
-- **Jesús R. Velasco**, Professor, Department of Latin American and Iberian Studies, Columbia University
+- **Jesús R. Velasco**, Professor, Columbia University/Yale University.
 
 - Chris Bourg, Director, MIT Libraries
-- Sharon Marcus, Former Dean of the Humanities, Columbia University
-- Dennis Tenen, Assistant Professor of English and Comparative Literature, Columbia University
+- Sharon Marcus, Professor, Columbia University
+- Dennis Tenen, Associate Professor of English and Comparative Literature, Columbia University
 - Frances Negrón-Muntaner, Professor of English and Comparative Literature 
 - Barbara Rockenbach, Associate University Librarian, Columbia University Libraries
-- Manan Ahmed, Assistant Professor, Department of History, Columbia University
+- Manan Ahmed, Associate Professor, Department of History, Columbia University
 - David Scott, Professor, Department of Anthropology, Columbia University
 - Susan Boynton, Professor, Department of Music, Columbia University
 - Meredith Levin, Western European Humanities Librarian, Columbia University
-- Roopika Risam, Assistant Professor of World Literature and English Education, Salem State University
+- Roopika Risam, Associate Professor of World Literature and English Education, Salem State University
 - Julia Flanders, Professor of the Practice in English and Director of the Digital Scholarship Group in the Northeastern University Library
 - Matt Gold, Associate Professor of English & Digital Humanities, CUNY Graduate Center.
 - Jerome J. McGann, University Prof & John Stewart Bryan Prof Of English, University of Virginia
 - Anna Brickhouse, Associate Professor of English, University of Virginia
-- Mrinalini Chakravorty, Assistant Professor of English, University of Virginia
-- Andrew Stauffer, Associate Professor of English, University of Virginia
-- Siva Vaidhyanathan, Chair, Media Studies Department, University of Virginia
-- Rafael Alvarado, Associated Director, SHANTI, University of Virginia
+- Mrinalini Chakravorty, Associate Professor of English, University of Virginia
+- Siva Vaidhyanathan, Professor, Media Studies Department, University of Virginia
+- Rafael Alvarado, General Faculty, School of Data Science, University of Virginia
 
 ---
 
