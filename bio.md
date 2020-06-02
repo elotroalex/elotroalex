@@ -75,9 +75,10 @@ Collaborations and Projects
 - Translator for *Callaloo's* “Cuban Issue.” December 2000
 - Founder and President of the Florida International University Poetry Club (1998)
 
-Grants and Awards
------------------
+Grants, Honors and Awards
+-------------------------
 
+-   Visiting Research Fellow, King’s Digital Lab, Faculty of Arts and Humanities at King’s College London. 2020-2021
 -   [Movers & Shakers 2020: Change Agent](https://www.libraryjournal.com/?detailStory=alex-gil-movers-shakers-2020%E2%80%93change-agents). Library Journal. 2020.
 -   President’s Global Innovation Fund Award. Architectures of Knowledge, Mumbai 2016.
 -   NEH Digital Humanities Startup Grant. SX:Archipelagos Project, 2015-2016.
