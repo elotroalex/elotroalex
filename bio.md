@@ -7,8 +7,7 @@ permalink: /profile/
 
 **Alex Gil** is the Digital Scholarship Librarian at Columbia University Libraries. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and knowledge production. He is among the founders of several ongoing, warmly received initiatives where he currently plays leadership roles: Co-director of the [Studio@Butler](https://studio.cul.columbia.edu/) at Columbia University, a tech-light library innovation space focused on digital scholarship and pedagogy; co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; senior editor of *[sx archipelagos](http://smallaxe.net/sxarchipelagos/)*, a journal of Caribbean Digital Studies, and co-wrangler of [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. He is also founder and former chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/).
 
-
-Current projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts; [Aimé Césaire and The Broken Record](http://record.elotroalex.com/), a minimal computing experiment in long-form digital scholarship; and, [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century; and most recently, the [nimble tent](https://nimbletents.github.io/) intervention, [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/).
+Active digital projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts, and [Wax](https://minicomp.github.io/wax/) for minimal exhibits of cultural artifacts; [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century; and most recently, the nimble tent interventions [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/) and [Covid Maker Response](http://covidmakerresponse.com/).
 
 
 ---
@@ -33,6 +32,7 @@ Collaborations and Projects
 - [...... et les chiens se taisaient](http://cesaire.elotroalex.com/chiens/). Digital Edition.
 - [Bearing Witness](https://bearingwitness.github.io/). Producer.
 - [Covid Maker Response](http://covidmakerresponse.com/). Founder, communications, coordinator. 
+- [Ethnic Studies Rise](https://ethnicrise.github.io/)
 - [Singing the Nation](http://singingthenation.com/). Producer.
 - [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/). Team Member & Coordinator.
 - [#prmapathon](http://xpmethod.plaintext.in/events/puerto-rico-mapathon.html). Coordinator.
