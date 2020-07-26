@@ -79,7 +79,7 @@ Grants, Honors and Awards
 -------------------------
 
 -   Visiting Research Fellow, King’s Digital Lab, Faculty of Arts and Humanities at King’s College London. 2020-2021
--   [Movers & Shakers 2020: Change Agent](https://www.libraryjournal.com/?detailStory=alex-gil-movers-shakers-2020%E2%80%93change-agents). Library Journal. 2020.
+-   [Movers & Shakers 2020: Change Agent](https://www.libraryjournal.com/?detailStory=alex-gil-movers-shakers-2020%E2%80%93change-agents). Library Journal. 2020. [Revoked at my request]
 -   President’s Global Innovation Fund Award. Architectures of Knowledge, Mumbai 2016.
 -   NEH Digital Humanities Startup Grant. SX:Archipelagos Project, 2015-2016.
 -   Digital Library of the Caribbean Award of Excellence in Digital Humanities, 2014
@@ -143,6 +143,8 @@ Lectures, Conferences & Workshops
 
 #### Guest lectures
 
+- "Librarian Nimble Tents for Social Justice and Moments of Crisis." REFORMA Northeast. Online. June 2020.
+- "Nimble Tents for a Mobilized Humanities, or, Mobilizing Humanities Scholarship and Collectives in Critical Times." 10th Annual African, African American, and Diaspora Studies. James Madison University, Harrisonburg, VA. February 2020.
 - "Towards a Mobilized Humanities: On Making Do and Nimble Tents." Tulane University. New Orleans. February 2020.
 - "In the Same Boats: Trajectories, Intersections and the Black Atlantic Republic of Letters." MIT. Boston. November 2019. Presented with Kaiama L. Glover.
 - "Minimal Technology in Digital Humanities." UPR Rio Piedras. Puerto Rico. November 2019.
@@ -187,6 +189,7 @@ Lectures, Conferences & Workshops
 #### Panel presentations
 
 - "Formación, recursos e innovación para el desarollo humano frent a COVID-19." *Diálogos Bibliotecas en Cuarentena*. Biblioteca Juan Bosch. May, 2020.
+- "Un-doubling Voice in Speculative Archives: The Double Recovery of Aimé Césaire’s '.....et les chiens se taisaient.'" 10th Annual African, African American, and Diaspora Studies. James Madison University, Harrisonburg, VA. February 2020.
 - "Libraries at the Nexus of Migration." ALA Midwinter. Philadelphia. January 2020.
 - "Mobilizing the Humanities: Building the Supercommons." MLA 2020. Seattle. January 2020.
 -  "Two Case Studies in Minimal Computing." Maintainers III: Policy, Practice, and Care. Washington, D.C., October 2019.
@@ -272,7 +275,7 @@ Lectures, Conferences & Workshops
 - Minimal Computing. Dream Lab. University of Pennsylvania. June 2019.
 - [THATCampCaribe](http://caribbean2013.thatcamp.org/) un-conference series. Founder and organizer. Puerto Rico, 2012; Cuba, 2013; Trinidad & Tobago, October 2017.
 - "On Method" Lecture Series. The Heyman Center. Columbia University. (2014-2015). With Grant Wythoff. 
-- Workshops on Python, Jekyll, fundamentals of computing, Markdown, Zotero, Omeka/Neatline, WordPress. Columbia University, NYC (2013-2017) 
+- Workshops on Python, Jekyll, fundamentals of computing, Markdown, Zotero, Omeka/Neatline, WordPress. Columbia University, NYC (2013-present) 
 - "Minimal Editions: Come With a Text, Leave with an Accessible Digital Edition." Society for Textual Scholarship Annual Convention. University of Maryland, June 2017.
 - Privacy and Security for Researchers Workshop. Columbia University, NYC. February 2017.
 - Minimal Computing Workshop. KU Leuven, Belgium. September 2016.
