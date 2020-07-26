@@ -31,6 +31,9 @@ Collaborations and Projects
 - [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/). Project design, implementation and coordination.
 - [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
 - [...... et les chiens se taisaient](http://cesaire.elotroalex.com/chiens/). Digital Edition.
+- [Bearing Witness](https://bearingwitness.github.io/). Producer.
+- [Covid Maker Response](http://covidmakerresponse.com/). Founder, communications, coordinator. 
+- [Singing the Nation](http://singingthenation.com/). Producer.
 - [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/). Team Member & Coordinator.
 - [#prmapathon](http://xpmethod.plaintext.in/events/puerto-rico-mapathon.html). Coordinator.
 - [In the Same Boats](http://sameboats.org). Project lead with Kaiama Glover.
