@@ -46,7 +46,8 @@ Collaborations and Projects
 - Editor of Internationalization, [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/).
 - [Around DH in 80 Days](http://www.arounddh.org). Editor and designer.
 - [Ed](http://elotroalex.github.io/ed/), a Jekyll theme for minimal editions. Project lead.
-- Watershed Group—A Think Tank for Black Atlantic Digital Humanities.
+- [Wax](https://minicomp.github.io/wax/), a toolkit for producing minimal exhibits of cultural artifacts. Maintainer, contributor.
+- Watershed Group---A Think Tank for Black Atlantic Digital Humanities.
 - [Sudan Historical Photo Archive](http://sudanphoto.uofk.edu/). Consultant.
 - [RikersBot](https://twitter.com/rikersbot). Instructor.
 - [Developing Librarian Project](http://www.developinglibrarian.org/). Instructor and project design.
