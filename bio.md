@@ -5,7 +5,7 @@ author: Alex Gil
 permalink: /profile/
 ---
 
-**Alex Gil** is the Digital Scholarship Librarian at Columbia University Libraries. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and knowledge production. He is among the founders of several ongoing, warmly received initiatives where he currently plays leadership roles: He coordinates the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University, a tech-light library innovation space focused on digital scholarship and pedagogy; co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; senior editor of *[sx archipelagos](http://smallaxe.net/sxarchipelagos/)*, a journal of Caribbean Digital Studies, and co-wrangler of [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. He is also founder and former chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/).
+**Alex Gil** is the Digital Scholarship Librarian at Columbia University Libraries. He collaborates with faculty, students and library professionals leveraging computational and network technologies in humanities research, pedagogy and knowledge production. He coordinates the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University, a tech-light library innovation space focused on digital scholarship and pedagogy; co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a vibrant trans-disciplinary research cluster focused on experimental humanities; senior editor of *[sx archipelagos](http://smallaxe.net/sxarchipelagos/)*, a journal of Caribbean Digital Studies, and co-wrangler of [The Caribbean Digital](http://caribbeandigitalnyc.net/) conference series. He is also founder and former chair of [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/).
 
 Active digital projects include [Ed](http://elotroalex.github.io/ed/), a digital platform for minimal editions of literary texts, and [Wax](https://minicomp.github.io/wax/) for minimal exhibits of cultural artifacts; [In The Same Boats](http://sameboats.org/), a visualization of trans-Atlantic intersections of black intellectuals in the 20th century; and most recently, the nimble tent interventions [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/) and [Covid Maker Response](http://covidmakerresponse.com/).
 
@@ -25,7 +25,7 @@ Degrees
 Collaborations and Projects
 ---------------------------
 
-- [Studio@Butler](https://studio.cul.columbia.edu/), Columbia University Libraries. Founder and co-director.
+- [The Butler Studio](https://studio.cul.columbia.edu/), Columbia University Libraries. Founder and coordinator.
 - [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/), Columbia University. Founder and faculty moderator.
 - [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/). Project design, implementation and coordination.
 - [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
