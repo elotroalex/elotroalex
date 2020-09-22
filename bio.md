@@ -25,9 +25,34 @@ Degrees
 Collaborations and Projects
 ---------------------------
 
+#### Institution-Building and Collaborations
+
 - [The Butler Studio](https://studio.cul.columbia.edu/), Columbia University Libraries. Founder and coordinator.
 - [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/), Columbia University. Founder and faculty moderator.
+- [Association for Computers in the Humanities](http://ach.org/). Steering committee, member and communications officer.
+- [HASTAC](https://www.hastac.org/). Advisory Board.
+- [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and former Chair and Vice-Chair.
+- Chair, MLA Prize for a Bibliography, Archive, or Digital Project Selection Committee (2018)
+- [DLF "Miracle Workers" Working Group](https://www.diglib.org/groups/miracle-workers-working-group/). Founder and moderator.
+- Editor of Internationalization, [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/).
+- Digital Library of the Caribbean. Scholarly Advisory Board.
+- [NYC Digital Humanities (NYCDH)](http://nycdh.org/). Steering committee officer and organizer.
 - [Columbia University Digital Humanities](https://digitalhumanities.columbia.edu/). Project design, implementation and coordination.
+- [Libraries Without Borders](https://www.librarieswithoutborders.org/). Advisory Board.
+- Founder and President of the Florida International University Poetry Club (1998)
+- KSHIP. Editorial Board.
+- Digital Scholarship in the Humanities. Editorial Board 
+- CUBA Counterpoints. Editorial Board.
+- Watershed Group---A Think Tank for Black Atlantic Digital Humanities. Member.
+- Chair and Co-Chair, Digital Advisory Board, Caribbean Studies Association (2010-2016)
+- Vice-Chair, Multi Lingual Multicultural Committee, ADHO (2014-2017)
+- [Developing Librarian Project](http://www.developinglibrarian.org/). Instructor and project design.
+- [Piracy Lab](http://piracylab.org/ "Piracy Lab"). Collaborator. (2013)
+- THATCamp Diversity initiative. (2011-2012)
+- [Project Tango](http://uvatango.wordpress.com). (An initiative to bridge the gap between digital humanities training and out-of-print digital archiving). Project Lead (2010-2011).
+
+#### Digital Scholarship Projects
+
 - [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
 - [...... et les chiens se taisaient](http://cesaire.elotroalex.com/chiens/). Digital Edition.
 - [Bearing Witness](https://bearingwitness.github.io/). Producer.
@@ -35,24 +60,15 @@ Collaborations and Projects
 - [Ethnic Studies Rise](https://ethnicrise.github.io/)
 - [Singing the Nation](http://singingthenation.com/). Producer.
 - [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/). Team Member & Coordinator.
+- [Wax](https://minicomp.github.io/wax/), a toolkit for producing minimal exhibits of cultural artifacts. Maintainer, contributor.
 - [#prmapathon](http://xpmethod.plaintext.in/events/puerto-rico-mapathon.html). Coordinator.
 - [In the Same Boats](http://sameboats.org). Project lead with Kaiama Glover.
 - [Style Revolution](https://stylerevolution.github.io/). Instructor and project manager.
-- [Association for Computers in the Humanities](http://ach.org/). Steering committee, member and communications officer.
-- [HASTAC](https://www.hastac.org/). Advisory Board.
-- [Global Outlook::Digital Humanities](http://globaloutlookdh.org). Founder and former Chair and Vice-Chair.
-- Chair, MLA Prize for a Bibliography, Archive, or Digital Project Selection Committee (2018)
-- [DLF "Miracle Workers" Working Group](https://www.diglib.org/groups/miracle-workers-working-group/). Founder and moderator.
-- Editor of Internationalization, [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/).
 - [Around DH in 80 Days](http://www.arounddh.org). Editor and designer.
 - [Ed](http://elotroalex.github.io/ed/), a Jekyll theme for minimal editions. Project lead.
-- [Wax](https://minicomp.github.io/wax/), a toolkit for producing minimal exhibits of cultural artifacts. Maintainer, contributor.
-- Watershed Group---A Think Tank for Black Atlantic Digital Humanities.
 - [Sudan Historical Photo Archive](http://sudanphoto.uofk.edu/). Consultant.
 - [RikersBot](https://twitter.com/rikersbot). Instructor.
-- [Developing Librarian Project](http://www.developinglibrarian.org/). Instructor and project design.
 - [Morningside Heights Digital History](https://mhdh.library.columbia.edu/). Project coordinator.
-- [NYC Digital Humanities (NYCDH)](http://nycdh.org/). Steering committee officer and organizer.
 - [Minimal Computing \| Global Outlook::Digital Humanities](http://go-dh.github.io/mincomp/). Founder and contributor.
 - [The Translation Toolkit \| Global Outlook::Digital Humanities](http://go-dh.github.io/translation-toolkit/). Founder and contributor.
 - [The Making and Knowing Project](http://www.makingandknowing.org/). Consultant.
@@ -60,24 +76,17 @@ Collaborations and Projects
 - [The Library Project](http://spatialinformationdesignlab.org/library/). Ideation and data coordination.
 - [Legacies of Césaire](http://cesairelegacies.cdrs.columbia.edu/). Organizer and contributor. 
 - [The Open Syllabus Project](http://opensyllabusproject.org/). Co-PI.
-- [Piracy Lab](http://piracylab.org/ "Piracy Lab"). Collaborator.
 - [Prism](http://praxis.scholarslab.org/ "Prism"). Development team.
-- [Libraries Without Borders](https://www.librarieswithoutborders.org/). Advisory Board.
-- Aimé Césaire. *Poésie, théâtre, essais et discours*. Ed. Albert-James Arnold. Paris: CNRS, 2014. Associate Editor.
-- KSHIP. Editorial Board.
-- Digital Scholarship in the Humanities. Editorial Board 
-- CUBA Counterpoints. Editorial Board.
-- Chair and Co-Chair, Digital Advisory Board, Caribbean Studies Association (2010-2016)
-- Vice-Chair, Multi Lingual Multicultural Committee, ADHO (2014-2017)
 - [Critical Code Studies Working Group](http://haccslab.com/?page_id=174). (2012)
-- UVACSE Tiger Team, work on Approximate String Matching across literary corpora.
-- THATCamp Diversity initiative. (2011-2012)
 - Initiative to bring Digital Humanities instruction to the undergraduate curriculum at the University of Virginia, 2011.
-- [Project Tango](http://uvatango.wordpress.com). (An initiative to bridge the gap between digital humanities training and out-of-print digital archiving). Project Lead (2010-2011).
 - Editor of the e-text edition of Alexander Exquemelin's Bucaneers of America. University of Virginia e-text center (2005)
+
+#### Service
+
+- Diversity & Inclusion Committee, Columbia University Libraries (2017-2019)
+- Digital Centers Committee, Columbia University Libraries (2012-2016)
 - Translator for the Student Interpreter Service Initiative at the University of Virginia Hospital (2004).
-- Translator for *Callaloo's* “Cuban Issue.” December 2000
-- Founder and President of the Florida International University Poetry Club (1998)
+
 
 Grants, Honors and Awards
 -------------------------
@@ -91,6 +100,7 @@ Grants, Honors and Awards
 -   [HASTAC](http://hastac.org/) fellow, 2011-2012
 -   Scholars' Lab [Praxis Program](http://praxis.scholarslab.org/ "Praxis Program") Cohort, 2011-2012
 -   University of Virginia Library [Scholars' Lab Fellow](http://www2.lib.virginia.edu/scholarslab/about/fellows.html "Scholars Lab Fellow"), 2010-2012
+- UVACSE Tiger Team, work on Approximate String Matching across literary corpor. 2011
 -   [NINES](http://www.nines.org/) (Networked Infrastructure for Nineteenth-Century Electronic Scholarship) Fellow, summer-fall 2010; fall 2011-spring 2012
 -   [SHANTI](http://shanti.virginia.edu/) (Sciences, Humanities & Arts Network of Technological Initiatives) Cohorts Fellowship Program to provide programming assistance for the *Et les chiens se taisaient* digital archive, 2009-2010.
 -   University of Virginia ENS Fellowship to cover a year of study at the *Ecole Normale Supérieure* in Paris. 2006-2007.
@@ -120,6 +130,7 @@ Publications
 -   "[Bridging the Middle Passage: The textual (r)evolution of Césaire's *Cahier d'un retour au pays natal*.](http://hdl.handle.net/10022/AC:P:14787)" Canadian Review of Comparative Literature. 38.1 (March 2011): 40-56
 -   "[La découverte d'un tapuscrit d'*Et les chiens se taisaient*.](http://hdl.handle.net/10022/AC:P:14792)" *Aimé Césaire à l'œuvre: Actes du colloque international*, sous la direction de Marc Cheymol et Philippe Ollé-Laprune. Paris: Editions des archives contemporaines, 2010.
 -   "Man, Woman, Hunger: A Translation of Daina Chaviano's *El Hombre, la Hembra y el Hambre." The Yalobusha Review*. University of Mississippi Press (May 2003): 63-67.
+- Translator for *Callaloo,* “Cuban Issue.” December 2000.
 
 #### Book Reviews
 
