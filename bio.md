@@ -55,6 +55,7 @@ Collaborations and Projects
 
 - [sx archipelagos](http://smallaxe.net/sxarchipelagos/). Founder and senior editor.
 - [...... et les chiens se taisaient](http://cesaire.elotroalex.com/chiens/). Digital Edition.
+- Frontline Nurses. Forthcoming. Producer, member.
 - [Bearing Witness](https://bearingwitness.github.io/). Producer.
 - [Covid Maker Response](http://covidmakerresponse.com/). Founder, communications, coordinator. 
 - [Ethnic Studies Rise](https://ethnicrise.github.io/)
