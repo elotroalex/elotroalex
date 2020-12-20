@@ -216,8 +216,11 @@ blockquote {
 hr {
     margin-top: 2rem;
     margin-bottom: 2rem;
-    color: gray;
-}
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #D3D3D3; /* old IE */
+    background-color: #D3D3D3; /* Modern Browsers */}
 
 
 /**
