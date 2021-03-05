@@ -3,7 +3,7 @@ desc 'Publishing the website via rsync'
 require 'colorize'
 
 task :prod do
-  puts 'First, let\'s build your site...'.green
+  puts 'First, let\'s build your site...'.red
   sh "jekyll build"
   puts "\n"
   puts 'Now let\'s publish it, hold on a sec...'.green
