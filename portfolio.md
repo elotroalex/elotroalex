@@ -5,14 +5,40 @@ author: Alex Gil
 permalink: /portfolio/
 ---
 
+## Redux
+
 I am the Digital Scholarship Librarian at Columbia University, where I collaborate with faculty, students and library colleagues in humanities research, pedagogy or knowledge production that involves the use of advanced computation, digital media design or network technologies. I am the lead coordinator for the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University Libraries, a tech-light, library innovation space focused on digital scholarship and pedagogy, and now a broadcast, [Studio Remote](https://www.twitch.tv/culstudio). I'm also co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a trans-disciplinary research cluster focused on experimental humanities; one of the creators and main editors of *[archipelagos journal: a journal of Caribbean digital praxis](http://archipelagosjournal.org/)*, and co-wrangler of its sister conference series, [The Caribbean Digital](http://caribbeandigitalnyc.net/). 
 
 My research interests include Caribbean culture and history, with a focus on twentieth century poetry; digital humanities and technology design for different infrastructural and socio-economic environments; and, the relations of power and material extent of the cultural and scholarly record. 
 
-Below is a selection of some of my work in digital humanities writ-large. For selected open access articles, visit [the Archive section]({{site.baseurl}}/archive/). For a complete professional profile you can download a copy of [my Curriculum Vitae]({{site.baseurl}}/docs/gil-cv.pdf){: target="blank"}. 
+Below is a copy of my curriculum vitae and a selection of some of my work. For selected open access articles, visit [the Notes section]({{site.baseurl}}/archive/). 
+
+---
+<h2>
+<a class="post-link" target="_blank" href="{{site.baseurl}}/docs/gil-cv.pdf">Curriculum Vitae</a>
+</h2>
 
 ---
 
+{% assign project_pages = site.projects | sort: "time" %}
+{% assign sorted_pages = project_pages | reverse %}
+
+<ul class="post-list">
+    {% for project in sorted_pages %}
+      <li>
+        <span class="post-meta">{{ project.time }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+        </h2>
+        <span>{{ project.blurb }}</span>
+      </li>
+    {% endfor %}
+</ul> 
+
+---
+
+<!-- 
 ### Public Initiatives
 
 Covid Maker Response (CMR). New York
@@ -108,3 +134,4 @@ Ed. 2016--2018
 Prism. 2011--2012
 \<[praxis.scholarslab.org](http://praxis.scholarslab.org/)\>
 
+ -->

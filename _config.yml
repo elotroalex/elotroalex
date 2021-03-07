@@ -16,6 +16,12 @@ url: "" # the base hostname & protocol for your site
 twitter_username: elotroalex
 github_username:  elotroalex
 
+# Collections
+
+collections:
+  projects:
+    output: true
+
 # Build settings
 markdown: kramdown
 
@@ -30,3 +36,6 @@ kramdown:
   enable_coderay: false
 
 exclude: [RAKEFILE]
+
+
+
