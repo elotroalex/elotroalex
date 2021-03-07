@@ -5,19 +5,24 @@ author: Alex Gil
 permalink: /profiles/
 ---
 
-## Redux
+
+
+<h2>Redux</h2>
 
 I am the Digital Scholarship Librarian at Columbia University, where I collaborate with faculty, students and library colleagues in humanities research, pedagogy or knowledge production that involves the use of advanced computation, digital media design or network technologies. I am the lead coordinator for the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University Libraries, a tech-light, library innovation space focused on digital scholarship and pedagogy, and now a broadcast, [Studio Remote](https://www.twitch.tv/culstudio). I'm also co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a trans-disciplinary research cluster focused on experimental humanities; one of the creators and main editors of *[archipelagos journal: a journal of Caribbean digital praxis](http://archipelagosjournal.org/)*, and co-wrangler of its sister conference series, [The Caribbean Digital](http://caribbeandigitalnyc.net/). 
 
 My research interests include Caribbean culture and history, with a focus on twentieth century poetry; digital humanities and technology design for different infrastructural and socio-economic environments; and, the relations of power and material extent of the cultural and scholarly record. 
 
 ---
-<h2><a class="post-link" target="_blank" href="{{site.baseurl}}/docs/gil-cv.pdf">Curriculum Vitae</a>
+<h2 id="cv"><a class="post-link" target="_blank" href="{{site.baseurl}}/docs/gil-cv.pdf">Curriculum Vitae</a>
 </h2>
 
 ---
 
 Below is a selection of my work organized by profiles---some of the different paths I walk on. Although these worlds often intersect with each other, they remain somewhat distinct to my ears, and I am often, or have been, an other Alex in each.
+
+* TOC
+{:toc}
 
 ---
 
