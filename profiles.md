@@ -11,13 +11,16 @@ I am the Digital Scholarship Librarian at Columbia University, where I collabora
 
 My research interests include Caribbean culture and history, with a focus on twentieth century poetry; digital humanities and technology design for different infrastructural and socio-economic environments; and, the relations of power and material extent of the cultural and scholarly record. 
 
-Below is a copy of my curriculum vitae and a selection of some of my work. For selected open access articles, visit [the Notes section]({{site.baseurl}}/archive/). 
-
 ---
 <h2><a class="post-link" target="_blank" href="{{site.baseurl}}/docs/gil-cv.pdf">Curriculum Vitae</a>
 </h2>
 
 ---
+
+Below is a selection of my work organized by profiles---some of the different paths I walk on. Although these worlds often intersect with each other, they remain somewhat distinct to my ears, and I am often, or have been, an other Alex in each.
+
+---
+
 
 
 ## The Caribbean Digital
@@ -30,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
@@ -49,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
@@ -68,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
@@ -87,7 +90,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
@@ -106,7 +109,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
@@ -125,7 +128,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
