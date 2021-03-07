@@ -3,28 +3,28 @@
   time: 2020
   link: covidmakerresponse.com
   url: http://covidmakerresponse.com/
-  category:
+  category: mobilized
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: Puerto Rico Mapathon for Hurricane Relief (\#prmapathon).
   time: 2017
   link: xpmethod.columbia.edu
   url: http://xpmethod.columbia.edu/events/2017-09-29-puerto-rico-mapathon.html
-  category:
+  category: mobilized
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: Rikers Story Bot. 
   time: 2016
   link: xpmethod.columbia.edu
   url: http://xpmethod.columbia.edu//epistemic-action/2015-06-01-rikersbot.html
-  category:
+  category: mobilized
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Cahier d'un retour au pays natal: le manuscrit de 1939. Aimé Césaire."
   time: 2021
   link: cahier1939ms.github.io
   url: https://cahier1939ms.github.io/
-  category:
+  category: cesaire
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "CariDischo2020: A Directory of Caribbean Digital Scholarship." 
@@ -46,152 +46,152 @@ Project."
   time: 2020
   link: bearingwitness.github.io
   url: https://bearingwitness.github.io/
-  category:
+  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "'..... et les chiens se taisaient.' A digital edition."
   time: 2019
   link: cesaire.elotroalex.com/chiens
   url: http://cesaire.elotroalex.com/chiens/
-  category:
+  category: cesaire
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Ethnic Studies Rise." 
   time: 2019
   link: ethnicrise.github.io
   url: https://ethnicrise.github.io/
-  category:
+  category: mobilized
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Singing the Nation." 
   time: 2019
   link: singingthenation.com
   url: http://singingthenation.com/
-  category:
+  category: babylon
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Torn Apart/Separados." 
   time: 2018
   link: xpmethod.plaintext.in/torn-apart
   url: http://xpmethod.plaintext.in/torn-apart/
-  category:
+  category: mobilized
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Liturgical Books." 
   time: 2018
   link: liturgical.columbia.edu
   url: https://liturgical.columbia.edu/
-  category:
+  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "The Making and Knowing Project: A minimal edition of BnF Ms Fr 640."
   time: 2017
   link: makingandknowing.org
   url: http://www.makingandknowing.org/
-  category:
+  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "The Nimble Tents Toolkit." 
   time: 2017
   link: nimbletents.github.io
   url: https://nimbletents.github.io/
-  category:
+  category: mobilized
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Style Revolution." 
   time: 2017
   link: stylerevolution.github.io
   url: https://stylerevolution.github.io/
-  category:
+  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Columbia University Digital Humanities." 
   time: 2016
   link: digitalhumanities.columbia.edu
   url: https://digitalhumanities.columbia.edu/
-  category:
+  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Sudan Historical Photo Archive." 
   time: 2016
   link: sudanphoto.uofk.edu
   url: http://sudanphoto.uofk.edu/
-  category:
+  category: babylon
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Minimal Computing." 
   time: 2015
   link: go-dh.github.io/mincomp
   url: http://go-dh.github.io/mincomp/
-  category:
+  category: minimal
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Foucault 13/13." 
   time: 2015
   link: blogs.law.columbia.edu/foucault1313
   url: http://blogs.law.columbia.edu/foucault1313/
-  category:
+  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Around DH in 80 Days." 
   time: 2014
   link: arounddh.org
   url: https://arounddh.elotroalex.com/
-  category:
+  category: babylon
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "The Translation Toolkit." 
   time: 2014
   link: go-dh.github.io/translation-toolkit
   url: http://go-dh.github.io/translation-toolkit
-  category:
+  category: babylon
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "The Library Project." 
   time: 2014
   link: spatialinformationdesignlab.org/library
   url: http://spatialinformationdesignlab.org/library/
-  category:
+  category: babylon
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "The Open Syllabus Project." 
   time: 2013--2014
   link: opensyllabusproject.org
   url: http://opensyllabusproject.org/
-  category:
+  category: babylon
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Morningside Heights Digital History." 
   time: 2013
   link: mhdh.library.columbia.edu
   url: https://mhdh.library.columbia.edu/
-  category:
+  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: "Breaking the Code: The Developing Librarian Project." 
   time: 2013-2014 
   link: devlib.library.columbia.edu
   url: https://devlib.library.columbia.edu
-  category:
+  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: Wax. 
   time: 2018--2020
   link: minicomp.github.io/wax
   url: https://minicomp.github.io/wax/
-  category:
+  category: minimal
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: Ed. 
   time: 2016--2018
   link: minicomp.github.io/ed
   url: http://minicomp.github.io/ed/
-  category:
+  category: minimal
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 - title: Prism. 
   time: 2011--2012
   link: praxis.scholarslab.org
   url: http://praxis.scholarslab.org/ 
-  category:
+  category: babylon
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
