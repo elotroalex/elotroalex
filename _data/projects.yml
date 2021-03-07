@@ -34,24 +34,45 @@
 # Aimé Césaire #
 ################
 
-- title: "Cahier d'un retour au pays natal: le manuscrit de 1939"
+- title: "<em>..... and The Dogs Were Silent</em>"
+  time: "Forthcoming 2022"
+  link:
+  url:
+  category: cesaire
+  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+
+- title: "Our Collective Notebook"
   time: "2021"
   link: cahier1939ms.github.io
   url: https://cahier1939ms.github.io/
   category: cesaire
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
-- title: "'..... et les chiens se taisaient.' A digital edition"
+- title: "'..... et les chiens se taisaient': A Digital Edition"
   time: "2019"
   link: cesaire.elotroalex.com/chiens
   url: http://cesaire.elotroalex.com/chiens/
   category: cesaire
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
+- title: "Legacies of Césaire"
+  time: "2013"
+  link: cesairelegacies.cdrs.columbia.edu
+  url: https://cesairelegacies.cdrs.columbia.edu/
+  category: cesaire
+  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
-############
-# Columbia #
-############
+- title: "<em>Aimé Césaire: Poésie, théâtre, essais et discours</em>"
+  time: "2013"
+  link: 
+  url: 
+  category: cesaire
+  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+
+
+#######################
+# Columbia University #
+#######################
 
 - title: "Bearing Witness: The Covid-19 & Inequality History Documentation
 Project" 

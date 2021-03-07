@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
 
 ---
 
-## For Columbia
+## Columbia University
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus mauris. Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur. Ut sagittis elit a nibh sodales, vitae scelerisque odio porttitor. Nullam dignissim tempor ante a dapibus. Aliquam erat volutpat. Aliquam laoreet, sem at aliquet tempor, augue mi sollicitudin urna, id feugiat ligula magna nec leo. Mauris egestas nulla egestas, commodo est vitae, porta elit. Aliquam mi mi, tincidunt quis bibendum vel, convallis aliquam metus. Fusce a sodales nisl. Aliquam bibendum ac leo a varius. In convallis mi non elit pharetra tempor. Morbi consectetur vulputate lectus non dignissim. Quisque egestas ullamcorper nisl, bibendum malesuada odio condimentum sit amet. 
 
@@ -71,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          {% if project.link %}<a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>{% else %}<span class="post-link">{{ project.title }}</span>{% endif %}
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
