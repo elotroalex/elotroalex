@@ -9,7 +9,7 @@ permalink: /profiles/
 
 <h2>Redux</h2>
 
-I am the Digital Scholarship Librarian at Columbia University, where I collaborate with faculty, students and library colleagues in humanities research, pedagogy or knowledge production that involves the use of advanced computation, digital media design or network technologies. I am the lead coordinator for the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University Libraries, a tech-light, library innovation space focused on digital scholarship and pedagogy, and now a broadcast, [Studio Remote](https://www.twitch.tv/culstudio). I'm also co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a trans-disciplinary research cluster focused on experimental humanities; one of the creators and main editors of *[archipelagos journal: a journal of Caribbean digital praxis](http://archipelagosjournal.org/)*, and co-wrangler of its sister conference series, [The Caribbean Digital](http://caribbeandigitalnyc.net/). 
+I am the Digital Scholarship Librarian at Columbia University, where I collaborate with faculty, students and library colleagues in humanities research, pedagogy or knowledge production that involves the use of advanced computation, digital media design or network technologies. I am the lead coordinator for the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University Libraries, a tech-light library space focused on digital scholarship and pedagogy, and now a broadcast, [Studio Remote](https://www.twitch.tv/culstudio). I'm also co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a trans-disciplinary research cluster focused on experimental humanities; one of the creators and main editors of *[archipelagos journal: a journal of Caribbean digital praxis](http://archipelagosjournal.org/)*, and co-wrangler of its sister conference series, [The Caribbean Digital](http://caribbeandigitalnyc.net/). 
 
 My research interests include Caribbean culture and history, with a focus on twentieth century poetry; digital humanities and technology design for different infrastructural and socio-economic environments; and, the relations of power and material extent of the cultural and scholarly record. 
 
@@ -19,7 +19,7 @@ My research interests include Caribbean culture and history, with a focus on twe
 
 ---
 
-Below is a selection of my work organized by profiles---some of the different paths I walk on. Although these worlds often intersect with each other, they remain somewhat distinct to my ears, and I am often, or have been, an other Alex in each. Much of the work listed below is also team work where I play an important role, but by no means the only important role. The dates mark my involvement in the project, not necessarily the life of the project itself.
+Below is *a selection* of my work organized by profiles---some of the different paths I walk on. Although these worlds often intersect with each other, they remain somewhat distinct to my ears, and I am often, or have been, an other Alex in each. Much of the work listed below is also team work where I play an important role, but by no means the only important role. The dates mark my involvement in a project, not necessarily the lifespan of the project or its publication date.
 
 * TOC
 {:toc}
@@ -38,7 +38,7 @@ We did not have access to all the Caribbean literature and culture we needed to 
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          {% if project.link %}<a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>{% else %}<span class="post-link">{{ project.title }}</span>{% endif %}
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
@@ -49,7 +49,7 @@ We did not have access to all the Caribbean literature and culture we needed to 
 
 ## Columbia University
 
-I was hired at Columbia University to "coordinate," to un-silo the many wonderful  
+I was hired at Columbia University to "coordinate," to un-silo much of what was already being recognized as digital humanities activities across campus. The hire was a shard of light, bringing me into a subject specialist team, Humanities & History, rather than a digital scholarship center. If my main job was to help build community and bridges with faculty and students, I was meant to do it side by side with my librarian colleagues. Although I did move on to other parts of the organization, that initial setup provided the foundation for what grew later---the Studio, the xpmethods group, and many of the projects you see listed below come from the understanding that subject matter and intellectual community, not functional expertise, should be our guiding light. After almost a decade, we have been able to place our work at Columbia University on the national and international map. We have developed our own unique reconciliation between the three branches of digital humanities as I see them: architectures of knowledge, algorithmic approaches to corpora and  socio-technical mobibilization. At the library, the experimental work we have fostered has quietly and beneficially filtered to other parts of the organization... and yes, we are much less siloed today.
 
 <ul class="post-list">
 {% assign cu_projects = site.data.projects | where: "category","columbia" %}
@@ -57,7 +57,7 @@ I was hired at Columbia University to "coordinate," to un-silo the many wonderfu
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          {% if project.link %}<a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>{% else %}<span class="post-link">{{ project.title }}</span>{% endif %}
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
@@ -95,7 +95,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          {% if project.link %}<a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>{% else %}<span class="post-link">{{ project.title }}</span>{% endif %}
         </h3>
         <span>{{ project.blurb }}</span>
     </li>

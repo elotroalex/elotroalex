@@ -31,6 +31,99 @@
   blurb: "Held the first week of December every year, the Caribbean Digital conference brings together practitioners and scholars in Caribbean Digital Studies from all over the world."
 
 
+
+#######################
+# Columbia University #
+#######################
+
+
+- title: "Frontline Nurses" 
+  time: "2020–present"
+  link: frontlinenurses.columbia.edu
+  url: https://frontlinenurses.columbia.edu/
+  category: columbia
+  blurb: "Oral histories of frontline nurses in the fight against Ebola in Liberia and Sierra Leone, and the fight against COVID-19 in the United States."
+
+- title: "Bearing Witness: The Covid-19 & Inequality History Documentation
+Project" 
+  time: "2020-2021"
+  link: bearingwitness.github.io
+  url: https://bearingwitness.github.io/
+  category: columbia
+  blurb: "An effort to document and interpret the events associated with the novel coronavirus epidemic in the United States as it pertains especially to racialized minorities and issues of structural inequality and racism."
+
+- title: "Studio Remote" 
+  time: "2020-present"
+  link: www.twitch.tv/culstudio
+  url: https://www.twitch.tv/culstudio
+  category: columbia
+  blurb: "One of our answers to the lockdown, our Twitch channel features original programming in digital scholarship, workshop series, guest talks, and more."
+
+- title: "The Butler Studio" 
+  time: "2013-2020"
+  link: studio.cul.columbia.edu
+  url: https://studio.cul.columbia.edu/
+  category: columbia
+  blurb: "A tech-light space for ethical, sustainable, collaborative, and FAIR digital, data-driven research and pedagogy at Butler Library."
+
+- title: "Group for Experimental Methods in Humanistic Research" 
+  time: "2014-present"
+  link: xpmethod.columbia.edu
+  url: http://xpmethod.columbia.edu/
+  category: columbia
+  blurb: "A research cluster dedicated to the rapid prototyping of speculative ideas."
+
+- title: "Liturgical Books" 
+  time: "2018"
+  link: liturgical.columbia.edu
+  url: https://liturgical.columbia.edu/
+  category: columbia
+  blurb: "Examples from the RBML of the various types of books used in the Middle Ages for the celebration of the Latin liturgy."
+
+# - title: "The Making and Knowing Project: A minimal edition of BnF Ms Fr 640"
+#   time: "2017"
+#   link: makingandknowing.org
+#   url: http://www.makingandknowing.org/
+#   category: columbia
+#   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+
+- title: "Style Revolution" 
+  time: "2017"
+  link: stylerevolution.github.io
+  url: https://stylerevolution.github.io/
+  category: columbia
+  blurb: "An art history course and an online exhibit built around the first fashion magazine: the <em>Journal des dames et des modes</em>."
+
+- title: "Columbia University Digital Humanities" 
+  time: "2016–present"
+  link: digitalhumanities.columbia.edu
+  url: https://digitalhumanities.columbia.edu/
+  category: columbia
+  blurb: "A bird's eye view of digital humanities projects and the people behind them at Columbia University"
+
+# - title: "Foucault 13/13" 
+#   time: "2015"
+#   link: blogs.law.columbia.edu/foucault1313
+#   url: http://blogs.law.columbia.edu/foucault1313/
+#   category: columbia
+#   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+
+# - title: "Morningside Heights Digital History" 
+#   time: "2013"
+#   link: mhdh.library.columbia.edu
+#   url: https://mhdh.library.columbia.edu/
+#   category: columbia
+#   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+
+- title: "The Developing Librarian Project" 
+  time: "2013-2014"
+  link: devlib.library.columbia.edu
+  url: https://devlib.library.columbia.edu
+  category: columbia
+  blurb: "For one year the Humanities and History division at the library worked together to learn and build together a Digital History of our neighborhood, Morningside Heights."
+
+
+
 ################
 # Aimé Césaire #
 ################
@@ -63,73 +156,18 @@
   category: cesaire
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
+- title: Articles and Chapters
+  time: "2010–present"
+  link: elotroalex.com
+  url: https://elotroalex.com/docs/gil-cv.pdf#page=2
+  category: cesaire
+  blurb: "Research focused on Césaire's early period."
+
 - title: "<em>Aimé Césaire: Poésie, théâtre, essais et discours</em>"
   time: "2013"
-  link: 
-  url: 
+  link: www.cnrseditions.fr
+  url: https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/poesie-theatre-essais-et-discours/
   category: cesaire
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
-
-
-#######################
-# Columbia University #
-#######################
-
-- title: "Bearing Witness: The Covid-19 & Inequality History Documentation
-Project" 
-  time: "2020"
-  link: bearingwitness.github.io
-  url: https://bearingwitness.github.io/
-  category: columbia
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
-
-- title: "Liturgical Books" 
-  time: "2018"
-  link: liturgical.columbia.edu
-  url: https://liturgical.columbia.edu/
-  category: columbia
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
-
-# - title: "The Making and Knowing Project: A minimal edition of BnF Ms Fr 640"
-#   time: "2017"
-#   link: makingandknowing.org
-#   url: http://www.makingandknowing.org/
-#   category: columbia
-#   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
-
-- title: "Style Revolution" 
-  time: "2017"
-  link: stylerevolution.github.io
-  url: https://stylerevolution.github.io/
-  category: columbia
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
-
-- title: "Columbia University Digital Humanities" 
-  time: "2016"
-  link: digitalhumanities.columbia.edu
-  url: https://digitalhumanities.columbia.edu/
-  category: columbia
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
-
-# - title: "Foucault 13/13" 
-#   time: "2015"
-#   link: blogs.law.columbia.edu/foucault1313
-#   url: http://blogs.law.columbia.edu/foucault1313/
-#   category: columbia
-#   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
-
-# - title: "Morningside Heights Digital History" 
-#   time: "2013"
-#   link: mhdh.library.columbia.edu
-#   url: https://mhdh.library.columbia.edu/
-#   category: columbia
-#   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
-
-- title: "The Developing Librarian Project" 
-  time: "2013-2014"
-  link: devlib.library.columbia.edu
-  url: https://devlib.library.columbia.edu
-  category: columbia
   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
 
