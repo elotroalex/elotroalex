@@ -2,12 +2,26 @@
 # The Caribbean Digital #
 #########################
 
+- title: "CariDischo2020" 
+  time: "2020"
+  link: caribbeandigitalnyc.net/caridischo
+  url: http://caribbeandigitalnyc.net/caridischo/
+  category: tcd
+  blurb: "A comprehensive directory of contemporary Caribbean Digital Scholarship collectively logged in 2020."
+
 - title: "archipelagos: a journal of Caribbean digital praxis" 
   time: "2016–present"
   link: archipelagosjournal.org
   url: http://archipelagosjournal.org/
   category: tcd
   blurb: "A born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean."
+
+- title: "In the Same Boats" 
+  time: "2016–present"
+  link: sameboats.org
+  url: http://sameboats.org
+  category: tcd
+  blurb: "A work of collaborative scholarship that aims to trace the life trajectories and intersections of selected 20th Century historical figures in the Black Atlantic."
 
 - title: "The Caribbean Digital" 
   time: "2015–present"
@@ -16,19 +30,6 @@
   category: tcd
   blurb: "Held the first week of December every year, the Caribbean Digital conference brings together practitioners and scholars in Caribbean Digital Studies from all over the world."
 
-- title: "In the Same Boats" 
-  time: "2020"
-  link: sameboats.org
-  url: http://sameboats.org
-  category: tcd
-  blurb: "A work of collaborative scholarship that aims to trace the life trajectories of selected 20th Century historical figures in the Black Atlantic."
-
-- title: "CariDischo2020" 
-  time: "2020"
-  link: caribbeandigitalnyc.net/caridischo
-  url: http://caribbeandigitalnyc.net/caridischo/
-  category: tcd
-  blurb: "An comprehensive directory of contemporary Caribbean Digital Scholarship collectively logged in 2020."
 
 ################
 # Aimé Césaire #

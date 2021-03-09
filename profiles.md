@@ -19,7 +19,7 @@ My research interests include Caribbean culture and history, with a focus on twe
 
 ---
 
-Below is a selection of my work organized by profiles---some of the different paths I walk on. Although these worlds often intersect with each other, they remain somewhat distinct to my ears, and I am often, or have been, an other Alex in each.
+Below is a selection of my work organized by profiles---some of the different paths I walk on. Although these worlds often intersect with each other, they remain somewhat distinct to my ears, and I am often, or have been, an other Alex in each. Much of the work listed below is also team work where I play an important role, but by no means the only important role. The dates mark my involvement in the project, not necessarily the life of the project itself.
 
 * TOC
 {:toc}
@@ -30,7 +30,7 @@ Below is a selection of my work organized by profiles---some of the different pa
 
 ## The Caribbean Digital
 
-We did not have access to all the Caribbean literature and culture we needed to carry our studies at the University of Virginia at the beginning of the century. Maybe I could rally enough people to help build a digital library of Caribbean literature, and then... This is one of my origin stories in digital humanities: The wisdom and naivety of one day being independent and useful enough to build a digital library drove me to learn computational methods. I never did build it---thankfully others built a fine [Digital Library of the Caribbean](https://www.dloc.com/)---but I did meet enough kin spirits to help build and maintain something just as a wonderful: a support structure for a community of dialogue and practice around Caribbean digital scholarship. With Kaiama Glover and Kelly Josephs, I helped create a town hall for that community, The Caribbean Digital; with Kaiama Glover, a vehicle for it, *archipelagos*, and several wonderous examples in the genre, including "In the Same Boats." Harder to list on a profile page is the work without a project that is the community itself, shared with so many colleagues and friends. I am proud of all that we have done. Onward.
+We did not have access to all the Caribbean literature and culture we needed to carry our studies at the University of Virginia at the beginning of the century. Maybe I could rally enough people to help build a digital library of Caribbean literature, and then... This is one of my origin stories in digital humanities: The wisdom and naivety of one day being independent and useful enough to build a digital library drove me to learn computational methods. I never did build it---thankfully others built a fine [Digital Library of the Caribbean](https://www.dloc.com/)---but I did meet enough kin spirits to help build and maintain something just as a wonderful: a support structure for a community of dialogue and practice around Caribbean digital scholarship. With Kaiama Glover and Kelly Josephs, I helped create a town hall for that community, The Caribbean Digital; with Kaiama Glover, a vehicle for it, *archipelagos*, and several wonderous examples in the genre, including "In the Same Boats" below. Harder to list on a profile page is the work without a project that is the community itself, shared with so many colleagues and friends. I am proud of all that we have done. Onward.
 
 <ul class="post-list">
 {% assign tcd_projects = site.data.projects | where: "category","tcd" %}
@@ -49,7 +49,7 @@ We did not have access to all the Caribbean literature and culture we needed to 
 
 ## Columbia University
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus mauris. Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur. Ut sagittis elit a nibh sodales, vitae scelerisque odio porttitor. Nullam dignissim tempor ante a dapibus. Aliquam erat volutpat. Aliquam laoreet, sem at aliquet tempor, augue mi sollicitudin urna, id feugiat ligula magna nec leo. Mauris egestas nulla egestas, commodo est vitae, porta elit. Aliquam mi mi, tincidunt quis bibendum vel, convallis aliquam metus. Fusce a sodales nisl. Aliquam bibendum ac leo a varius. In convallis mi non elit pharetra tempor. Morbi consectetur vulputate lectus non dignissim. Quisque egestas ullamcorper nisl, bibendum malesuada odio condimentum sit amet. 
+I was hired at Columbia University to "coordinate," to un-silo the many wonderful  
 
 <ul class="post-list">
 {% assign cu_projects = site.data.projects | where: "category","columbia" %}
