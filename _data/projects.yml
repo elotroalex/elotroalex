@@ -59,20 +59,6 @@ Project"
   category: columbia
   blurb: "One of our answers to the lockdown, our Twitch channel features original programming in digital scholarship, workshop series, guest talks, and more."
 
-- title: "The Butler Studio" 
-  time: "2013-2020"
-  link: studio.cul.columbia.edu
-  url: https://studio.cul.columbia.edu/
-  category: columbia
-  blurb: "A tech-light space for ethical, sustainable, collaborative, and FAIR digital, data-driven research and pedagogy at Butler Library."
-
-- title: "Group for Experimental Methods in Humanistic Research" 
-  time: "2014-present"
-  link: xpmethod.columbia.edu
-  url: http://xpmethod.columbia.edu/
-  category: columbia
-  blurb: "A research cluster dedicated to the rapid prototyping of speculative ideas."
-
 - title: "Liturgical Books" 
   time: "2018"
   link: liturgical.columbia.edu
@@ -115,6 +101,20 @@ Project"
 #   category: columbia
 #   blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
 
+- title: "Group for Experimental Methods in Humanistic Research" 
+  time: "2014-present"
+  link: xpmethod.columbia.edu
+  url: http://xpmethod.columbia.edu/
+  category: columbia
+  blurb: "A research cluster dedicated to the rapid prototyping of speculative ideas."
+
+- title: "The Butler Studio" 
+  time: "2013-2020"
+  link: studio.cul.columbia.edu
+  url: https://studio.cul.columbia.edu/
+  category: columbia
+  blurb: "Formerly Studio@Butler, a tech-light space for ethical, sustainable, collaborative, and FAIR digital, data-driven research and pedagogy at Butler Library."
+
 - title: "The Developing Librarian Project" 
   time: "2013-2014"
   link: devlib.library.columbia.edu
@@ -156,19 +156,20 @@ Project"
   category: cesaire
   blurb: "A conference, online forum and marathon of research celebrating the poet's centenary year."
 
-- title: Articles and Chapters
-  time: "2010–present"
-  link: elotroalex.com
-  url: https://elotroalex.com/docs/gil-cv.pdf#page=2
-  category: cesaire
-  blurb: "Research focused on Césaire's early period."
-
 - title: "<em>Aimé Césaire: Poésie, théâtre, essais et discours</em>"
   time: "2013"
   link: www.cnrseditions.fr
   url: https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/poesie-theatre-essais-et-discours/
   category: cesaire
   blurb: "Research and editorial work, in front and behind the cameras, for this critical and genetic edition."
+
+- title: Articles and chapters
+  time: "2010–present"
+  link: elotroalex.com
+  url: https://elotroalex.com/docs/gil-cv.pdf#page=2
+  category: cesaire
+  blurb: "Original research focused on Césaire's early period."
+
 
 
 #############
