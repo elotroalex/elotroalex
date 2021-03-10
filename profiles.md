@@ -106,7 +106,11 @@ We can do so much with the skills and knowledge we possess already---in addition
 
 ## Minimal Computing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus mauris. Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur. Ut sagittis elit a nibh sodales, vitae scelerisque odio porttitor. Nullam dignissim tempor ante a dapibus. Aliquam erat volutpat. Aliquam laoreet, sem at aliquet tempor, augue mi sollicitudin urna, id feugiat ligula magna nec leo. Mauris egestas nulla egestas, commodo est vitae, porta elit. Aliquam mi mi, tincidunt quis bibendum vel, convallis aliquam metus. Fusce a sodales nisl. Aliquam bibendum ac leo a varius. In convallis mi non elit pharetra tempor. Morbi consectetur vulputate lectus non dignissim. Quisque egestas ullamcorper nisl, bibendum malesuada odio condimentum sit amet. 
+> "In general we can say that minimal computing is the application of minimalist principles to computing. In reality, though, minimal computing is in the eye of the beholder. [...] I prefer to approach minimal computing around the question “What do we need?” If we do so, our orientations vis-a-vis ease of use, ease of creation, increased access and reductions in computing—and by extension electricity---become clearer."\\
+> <span style="font-style: normal; float: right">— from "<a href="http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/">The User, the Learner and the Machines We Make</a>."</span> 
+
+The digital divide works less like a two-sided coin, and more like different ecologies. This is what I have observed around the world, from New York City's Rikers Island jail where only the prison guards have direct access to machines, but our young remember them; to the sneakernets in Havana for LGBTQ or critical race scholarship and the strange Tlön, Uqbar, Orbis Tertius of their intranet; to the afternoons at the University of Khartoum, when the internet is faster and the lights are on, but the government is still... How do we build and maintain our scholarly edifices for a world with these differences? This is the main driver behind "minimal computing," as I see it: to lower the overall costs of scholarly digital production, sharing and stewardship across as many registers as we can perceive and describe... to meet our most basic needs as scholars and teachers: to understand and tweak the past for those who come after us. 
+
 
 <ul class="post-list">
 {% assign minimal_projects = site.data.projects | where: "category","minimal" %}
@@ -114,7 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          {% if project.link %}<a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>{% else %}<span class="post-link">{{ project.title }}</span>{% endif %}
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
@@ -125,7 +129,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus maur
 
 ## The Library of Babylon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec tellus mauris. Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur. Ut sagittis elit a nibh sodales, vitae scelerisque odio porttitor. Nullam dignissim tempor ante a dapibus. Aliquam erat volutpat. Aliquam laoreet, sem at aliquet tempor, augue mi sollicitudin urna, id feugiat ligula magna nec leo. Mauris egestas nulla egestas, commodo est vitae, porta elit. Aliquam mi mi, tincidunt quis bibendum vel, convallis aliquam metus. Fusce a sodales nisl. Aliquam bibendum ac leo a varius. In convallis mi non elit pharetra tempor. Morbi consectetur vulputate lectus non dignissim. Quisque egestas ullamcorper nisl, bibendum malesuada odio condimentum sit amet.
+... might as well, since I overdetermined the site with Borges references already. I have a recurring daydream of all actual, existing texts in the world. That is always a finite number, no? Even if it's hard to count, like swallows flying by: still finite. This is the opposite of Borges' Library of Babel, which has randomly generated sequences of characters, most volumes are nonsense, and is definitely closer to infinity. Can we even begin to understand ours? With what macroscopes? What if we focus solely on the scholarly record? Maybe the task becomes easier. We know for example that a few monopolies have come to control most scholarly production in the North Atlantic, that pirate libraries do their care in freeing that production, in many cases for the benefit of a grateful Global South, whose own mom-and-pop, or government subsidized production, still remains mostly invisible to that North Atlantic. What of the myriad other ways in which our record is broken because of our post-1492 world: the produced silences of the imperial past, or the accidental ones? The stolen volumes? The piles of useless ones? I still see the desire to make that record whole again, and with that desire much grief.  I daydream instead of studying the past and present---and fighting for the future---of our de facto Library of Babylon---a library ultimately made for immigrants and exiles, in imperfectly translatable tongues, rife with gaps for us to hide in, and impossible to control by Sameness.
 
 <ul class="post-list">
 {% assign babylon_projects = site.data.projects | where: "category","babylon" %}

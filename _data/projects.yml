@@ -222,75 +222,82 @@ Project"
 # Minimal Computing #
 #####################
 
+- title: "DHQ Special Issue: Minimal Computing."
+  time: "Forthcoming"
+  link:
+  url:
+  category: minimal
+  blurb: "A special issue gathering recent work in minimal computing from around the world"
+
 - title: Wax. 
-  time: "2018--2020"
+  time: "2017–2020"
   link: minicomp.github.io/wax
   url: https://minicomp.github.io/wax/
   category: minimal
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A set of minimal computing tools for producing digital exhibitions, focused on longevity, low costs, and flexibility."
 
 - title: "Singing the Nation" 
   time: "2019"
   link: singingthenation.com
   url: http://singingthenation.com/
-  category: babylon
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  category: minimal
+  blurb: "An ephemeral archive of renditions of the Black anthem, 'Lift Every Voice and Sing' and one of my favorite exercises in minimal computing so far."
 
 - title: Ed. 
-  time: "2016--2018"
+  time: "2016–2018"
   link: minicomp.github.io/ed
   url: http://minicomp.github.io/ed/
   category: minimal
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility. "
 
 - title: "Sudan Historical Photo Archive" 
-  time: "2016"
+  time: "2016–2017"
   link: sudanphoto.uofk.edu
   url: http://sudanphoto.uofk.edu/
   category: minimal
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "One of our earliest prototypes for Wax in collaboration with colleagues in Sudan"
 
 - title: "Minimal Computing" 
   time: "2015"
   link: go-dh.github.io/mincomp
   url: http://go-dh.github.io/mincomp/
   category: minimal
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A community resource gathering early thought pieces on the minimal computing movement."
 
-####################
-# Library of Babel #
-####################
+######################
+# Library of Babylon #
+######################
 
 - title: "Around DH in 80 Days" 
   time: "2014"
   link: arounddh.org
   url: https://arounddh.elotroalex.com/
   category: babylon
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A journey around the world in 80 digital humanities projects."
 
 - title: "The Translation Toolkit" 
   time: "2014"
   link: go-dh.github.io/translation-toolkit
   url: http://go-dh.github.io/translation-toolkit
   category: babylon
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A set of approaches for allowing multiple languages to thrive at conferences."
 
 - title: "The Library Project" 
   time: "2014"
   link: spatialinformationdesignlab.org/library
   url: http://spatialinformationdesignlab.org/library/
   category: babylon
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A series of visualizations of the collection and circulation of Columbia University library holdings."
 
 - title: "The Open Syllabus Project" 
-  time: "2013--2014"
+  time: "2013–2014"
   link: opensyllabusproject.org
   url: http://opensyllabusproject.org/
   category: babylon
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "[While I was a part of it in its inception,] a project to collect syllabi, and extract from them and analyze the texts used in anglophone classrooms around the world."
 
 - title: Prism 
-  time: "2011--2012"
+  time: "2011–2012"
   link: praxis.scholarslab.org
   url: http://praxis.scholarslab.org/ 
   category: babylon
