@@ -129,32 +129,32 @@ Project"
 ################
 
 - title: "<em>..... and The Dogs Were Silent</em>"
-  time: "Forthcoming 2022"
+  time: "2022"
   link:
   url:
   category: cesaire
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "Introduction, edition and translation of the lost typescript of Aimé Césaire's 'Et les chiens se taisaient,' a historical play based on the Haitian Revolution. (Forthcoming from Duke Press)"
 
 - title: "Our Collective Notebook"
   time: "2021"
   link: cahier1939ms.github.io
-  url: https://cahier1939ms.github.io/
+  url: https://via.hypothes.is/https://cahier1939ms.github.io/texts/translation/
   category: cesaire
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A collective annotation of a joint translation of the 1939 typescript of Césaire's 'Cahier d'un retour au pays natal.'"
 
-- title: "'..... et les chiens se taisaient': A Digital Edition"
+- title: "'..... et les chiens se taisaient'"
   time: "2019"
   link: cesaire.elotroalex.com/chiens
   url: http://cesaire.elotroalex.com/chiens/
   category: cesaire
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "Diplomatic edition and facsimile of the typescript of Césaire's lost play."
 
 - title: "Legacies of Césaire"
   time: "2013"
   link: cesairelegacies.cdrs.columbia.edu
   url: https://cesairelegacies.cdrs.columbia.edu/
   category: cesaire
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A conference, online forum and marathon of research celebrating the poet's centenary year."
 
 - title: Articles and Chapters
   time: "2010–present"
@@ -168,7 +168,7 @@ Project"
   link: www.cnrseditions.fr
   url: https://www.cnrseditions.fr/catalogue/arts-et-essais-litteraires/poesie-theatre-essais-et-discours/
   category: cesaire
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "Research and editorial work, in front and behind the cameras, for this critical and genetic edition."
 
 
 #############
