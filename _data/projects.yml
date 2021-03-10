@@ -268,6 +268,28 @@ Project"
 # Library of Babylon #
 ######################
 
+- title: "How To Find Sh*t" 
+  time: "Coming soon"
+  link: 
+  url: 
+  category: babylon
+  blurb: "A web series on search techniques and technologies, and that researcher life."
+
+# - title: "Alianza Bibliotecaria Dominicana" 
+#   time: "2020–present"
+#   link: 
+#   url: 
+#   category: babylon
+#   blurb: "A coallition of Dominican diaspora and resident librarians."
+
+# - title: "DHQ Internationalization" 
+#   time: "2017–present"
+#   link: digitalhumanities.org/dhq/
+#   url: http://digitalhumanities.org/dhq/submissions/specialIssuesGuidelines.html
+#   category: babylon
+#   blurb: "Editorial work to open up Digital Humanities Quarterly to languages other than English."
+
+
 - title: "Around DH in 80 Days" 
   time: "2014"
   link: arounddh.org

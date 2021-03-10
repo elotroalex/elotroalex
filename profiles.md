@@ -137,7 +137,7 @@ I have a recurring daydream of all actual, existing texts in the world. That is 
     <li>
         <span class="post-meta">{{ project.time }}</span>
         <h3>
-          <a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          {% if project.link %}<a class="post-link" target="_blank" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>{% else %}<span class="post-link">{{ project.title }}</span>{% endif %}
         </h3>
         <span>{{ project.blurb }}</span>
     </li>
