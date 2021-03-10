@@ -163,7 +163,7 @@ Project"
   category: cesaire
   blurb: "Research and editorial work, in front and behind the cameras, for this critical and genetic edition."
 
-- title: Articles and chapters
+- title: Peer-reviewed articles and chapters
   time: "2010–present"
   link: elotroalex.com
   url: https://elotroalex.com/docs/gil-cv.pdf#page=2
@@ -181,42 +181,42 @@ Project"
   link: covidmakerresponse.com
   url: http://covidmakerresponse.com/
   category: mobilized
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A coalition of makers that responded to the COVID-19 pandemic by manufacturing, assembling, and distributing 3D printed PPE to healthcare workers on the front lines."
 
 - title: "Ethnic Studies Rise" 
   time: "2019"
   link: ethnicrise.github.io
   url: https://ethnicrise.github.io/
   category: mobilized
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A public humanities effort to honor the extraordinary contributions of scholar Dr. Lorgia García Peña through an online forum and a Twitter book festival in the wake of Harvard's unjust denial of tenure."
 
 - title: "Torn Apart/Separados" 
   time: "2018"
   link: xpmethod.plaintext.in/torn-apart
   url: http://xpmethod.plaintext.in/torn-apart/
   category: mobilized
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A rapidly deployed critical data & visualization intervention in the USA’s 2018 “Zero Tolerance Policy” and the humanitarian crisis that followed."
 
 - title: "The Nimble Tents Toolkit" 
   time: "2017"
   link: nimbletents.github.io
   url: https://nimbletents.github.io/
   category: mobilized
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "Tutorials, workflows and sample materials to help your team and organization be as prepared as you can to address urgent challenges, both individually and as collectives."
 
-- title: Puerto Rico Mapathon for Hurricane Relief (\#prmapathon)
+- title: Puerto Rico Mapathon for Hurricane Relief (#prmapathon)
   time: "2017"
   link: xpmethod.columbia.edu
   url: http://xpmethod.columbia.edu/events/2017-09-29-puerto-rico-mapathon.html
   category: mobilized
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A chain of mapathons across the United States and Mexico that in essence rebuilt the Open Streets Map of Puerto Rico after Hurricane Maria for use by the Red Cross."
 
 - title: Rikers Story Bot 
   time: "2016"
   link: xpmethod.columbia.edu
   url: http://xpmethod.columbia.edu//epistemic-action/2015-06-01-rikersbot.html
   category: mobilized
-  blurb: "Pellentesque placerat leo a laoreet consequat. Vivamus faucibus sit amet purus sagittis consectetur."
+  blurb: "A coding workshop and an algorithmic storytelling project set in and about Rikers Island correctional facility, New York city’s main jail complex."
 
 #####################
 # Minimal Computing #
