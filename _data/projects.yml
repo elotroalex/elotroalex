@@ -93,7 +93,7 @@ Project"
   link: digitalhumanities.columbia.edu
   url: https://digitalhumanities.columbia.edu/
   category: columbia
-  blurb: "A bird's eye view of digital humanities projects and the people behind them at Columbia University"
+  blurb: "A bird's eye view of digital humanities projects and the people behind them at Columbia University."
 
 # - title: "Foucault 13/13" 
 #   time: "2015"
@@ -137,11 +137,11 @@ Project"
 ################
 
 - title: "<em>..... and The Dogs Were Silent</em>"
-  time: "2022"
+  time: "Forthcoming"
   link:
   url:
   category: cesaire
-  blurb: "Introduction, edition and translation of the lost typescript of Aimé Césaire's 'Et les chiens se taisaient,' a historical play based on the Haitian Revolution. (Forthcoming from Duke Press)"
+  blurb: "Introduction, edition and translation of the lost typescript of Aimé Césaire's 'Et les chiens se taisaient,' a historical play based on the Haitian Revolution. (Duke Press)"
 
 - title: "Our Collective Notebook"
   time: "2021"
@@ -235,9 +235,9 @@ Project"
   link:
   url:
   category: minimal
-  blurb: "A special issue gathering recent work in minimal computing from around the world"
+  blurb: "A special issue gathering recent work in minimal computing from around the world."
 
-- title: Wax. 
+- title: Wax 
   time: "2017–2020"
   link: minicomp.github.io/wax
   url: https://minicomp.github.io/wax/
@@ -256,14 +256,14 @@ Project"
   link: minicomp.github.io/ed
   url: http://minicomp.github.io/ed/
   category: minimal
-  blurb: "A Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility. "
+  blurb: "A Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility."
 
 - title: "Sudan Historical Photo Archive" 
   time: "2016–2017"
   link: sudanphoto.uofk.edu
   url: http://sudanphoto.uofk.edu/
   category: minimal
-  blurb: "One of the earliest prototypes for Wax, working in collaboration with colleagues in Sudan"
+  blurb: "One of the earliest prototypes for Wax, working in collaboration with colleagues in Sudan."
 
 - title: "Minimal Computing" 
   time: "2015"
@@ -341,4 +341,4 @@ Project"
   link: praxis.scholarslab.org
   url: http://praxis.scholarslab.org/ 
   category: babylon
-  blurb: "A tool for collaborative interpretation of texts"
+  blurb: "A tool for collaborative interpretation of texts."
