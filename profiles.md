@@ -14,10 +14,12 @@ I am the Digital Scholarship Librarian at Columbia University, where I collabora
 My research interests include Caribbean culture and history, with a focus on twentieth century poetry; digital humanities and technology design for different infrastructural and socio-economic environments; and, the relations of power and material extent of the cultural and scholarly record. 
 
 ---
-<h2 id="cv"><a class="post-link" target="_blank" href="{{site.baseurl}}/docs/gil-cv.pdf">Curriculum Vitae</a>
-</h2>
+<p id="cv">Download a copy of the <a class="post-link" target="_blank" href="{{site.baseurl}}/docs/gil-cv.pdf">Curriculum Vitae</a>
+</p>
 
 ---
+
+<h2>The Six Profiles</h2>
 
 Below is a selection of my work organized by profiles---some of the different paths I walk on. Although these worlds often intersect with each other, they remain somewhat distinct to my ears, and I am often, or have been, an other Alex in each. Much of the work listed below is also team work where I play an important role, but by no means the only important role. The dates mark my involvement in a project, not necessarily the lifespan of the project or its publication date.
 
