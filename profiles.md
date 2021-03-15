@@ -70,7 +70,7 @@ I was hired at Columbia University Libraries to "coordinate," to un-silo much of
 
 ## Aimé Césaire
 
-I went to graduate school to study James Joyce and Samuel Beckett, and I ended up writing a dissertation on Aimé Césaire. I really can't pinpoint the moment or specific reasons that started drawing me to Césaire. When I was able to identify and bring attention to Césaire's lost play about the Haitian Revolution, though, I knew my fate was sealed. In a sense, Césaire picked me, not the other way around. Delving into the broken record, asking and answering new research questions about the great poet and statesman provides the connecting tissue to what I do---where form and content crystallize for me: the fight for dignity in entanglement, but against assimilation---the restitution of poetic knowledge over a mechanical universe. Still glad he found me.
+I went to graduate school to study James Joyce and Samuel Beckett, and I ended up writing a dissertation on Aimé Césaire. I really can't pinpoint the moment or specific reasons that started drawing me to Césaire. When I was able to identify and bring attention to Césaire's lost play about the Haitian Revolution, though, I knew my fate was sealed. In a sense, Césaire picked me, not the other way around. Delving into the broken record, asking and answering new research questions about the great poet and statesman provides the connecting tissue to what I do---where form and content crystallize for me---the fight for dignity in entanglement, but against assimilation---the restitution of poetic knowledge over a mechanistic universe. Still glad he found me.
 
 <ul class="post-list">
 {% assign cesaire_projects = site.data.projects | where: "category","cesaire" %}
