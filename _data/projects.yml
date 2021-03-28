@@ -244,13 +244,6 @@ Project"
   category: minimal
   blurb: "A set of minimal computing tools for producing digital exhibitions, focused on longevity, low costs, and flexibility."
 
-- title: "Singing the Nation" 
-  time: "2019"
-  link: singingthenation.com
-  url: http://singingthenation.com/
-  category: minimal
-  blurb: "An ephemeral archive of renditions of the Black anthem, 'Lift Every Voice and Sing,' and an example of Wax used with video."
-
 - title: Ed. 
   time: "2016–2018"
   link: minicomp.github.io/ed
@@ -300,12 +293,20 @@ Project"
   blurb: "A virtual seminar to discuss newly published books on slavery and the Afro-Atlantic world with their authors."
 
 
-# - title: "DHQ Internationalization" 
-#   time: "2017–present"
-#   link: digitalhumanities.org/dhq/
-#   url: http://digitalhumanities.org/dhq/submissions/specialIssuesGuidelines.html
-#   category: babylon
-#   blurb: "Editorial work to open up Digital Humanities Quarterly to languages other than English."
+- title: "Singing the Nation" 
+  time: "2019"
+  link: singingthenation.com
+  url: http://singingthenation.com/
+  category: minimal
+  blurb: "An ephemeral archive of renditions of the Black anthem, 'Lift Every Voice and Sing,' and an example of Wax used with video."
+
+
+- title: "DHQ Internationalization" 
+  time: "2017–present"
+  link: digitalhumanities.org/dhq/
+  url: http://digitalhumanities.org/dhq/submissions/specialIssuesGuidelines.html
+  category: babylon
+  blurb: "Editorial work to open up Digital Humanities Quarterly to languages other than English."
 
 
 - title: "Around DH in 80 Days" 
