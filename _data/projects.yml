@@ -2,12 +2,22 @@
 # The Caribbean Digital #
 #########################
 
+
+
 - title: "The Rose Hall Project" 
   time: "Coming soon"
   link: 
   url: 
   category: tcd
   blurb: "An expressive visualization centering the lives of the enslaved at Rose Hall plantation in Jamaica."
+
+- title: "Caribbean Digital Scholarship Collective" 
+  time: "2022–2025"
+  link: mellon.org/grants/
+  url: https://mellon.org/grants/grants-database/grants/barnard-college/2106-10809/
+  category: tcd
+  blurb: "A team working to bolster Digital Humanities in and for the Caribbean, with a generous grant from the Andrew W. Melllon foundation."
+
 
 
 - title: "CariDischo2020" 
@@ -43,6 +53,14 @@
 #######################
 # Columbia University #
 #######################
+
+- title: "Las Buscadoras" 
+  time: "2021–2022"
+  link: 
+  url: 
+  category: columbia
+  blurb: "A project documenting and analyzing the Mexican collectives and individuals looking for their kidnapped loved ones."
+
 
 
 - title: "Frontline Nurses" 
