@@ -12,7 +12,7 @@
   blurb: "An expressive visualization centering the lives of the enslaved at Rose Hall plantation in Jamaica."
 
 - title: "Caribbean Digital Scholarship Collective" 
-  time: "2022--2025"
+  time: "2022–2025"
   link: mellon.org/grants/
   url: https://mellon.org/grants/grants-database/grants/barnard-college/2106-10809/
   category: tcd
@@ -21,28 +21,28 @@
 
 
 - title: "CariDischo" 
-  time: "2020--2022"
+  time: "2020–2022"
   link: caribbeandigitalnyc.net/caridischo
   url: http://caribbeandigitalnyc.net/caridischo/
   category: tcd
   blurb: "A comprehensive directory of contemporary Caribbean Digital Scholarship collectively seeded in 2020."
 
 - title: "<em>archipelagos: a journal of Caribbean digital praxis</em>" 
-  time: "2016--present"
+  time: "2016–present"
   link: archipelagosjournal.org
   url: http://archipelagosjournal.org/
   category: tcd
   blurb: "A born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean."
 
 - title: "In the Same Boats" 
-  time: "2016--present"
+  time: "2016–present"
   link: sameboats.org
   url: http://sameboats.org
   category: tcd
   blurb: "A work of collaborative scholarship that aims to trace the life trajectories and intersections of selected 20th Century historical figures in the Black Atlantic."
 
 - title: "The Caribbean Digital" 
-  time: "2015--present"
+  time: "2015–present"
   link: caribbeandigitalnyc.net
   url: http://caribbeandigitalnyc.net/
   category: tcd
@@ -62,7 +62,7 @@
   blurb: "An online exhibit exploring the long, shared history of literature and computation through Columbia Library's holdings."
 
 - title: "Las Buscadoras" 
-  time: "2021--2022"
+  time: "2021–2022"
   link: 
   url: 
   category: columbia
@@ -70,7 +70,7 @@
 
 
 - title: "Frontline Nurses" 
-  time: "2020--2022"
+  time: "2020–2022"
   link: frontlinenurses.columbia.edu
   url: https://frontlinenurses.columbia.edu/
   category: columbia
@@ -113,7 +113,7 @@ Project"
   blurb: "An art history course and an online exhibit built around the first fashion magazine: the <em>Journal des dames et des modes</em>."
 
 - title: "Columbia University Digital Humanities" 
-  time: "2016--present"
+  time: "2016–present"
   link: digitalhumanities.columbia.edu
   url: https://digitalhumanities.columbia.edu/
   category: columbia
@@ -196,7 +196,7 @@ Project"
   blurb: "Research and editorial work, in front and behind the cameras, for this critical and genetic edition."
 
 - title: Peer-reviewed articles and chapters
-  time: "2010--present"
+  time: "2010–present"
   link: elotroalex.com
   url: https://elotroalex.com/docs/gil-cv.pdf#page=2
   category: cesaire
@@ -269,21 +269,21 @@ Project"
   blurb: "A special issue gathering recent work in minimal computing from around the world."
 
 - title: Wax 
-  time: "2017--2020"
+  time: "2017–2020"
   link: minicomp.github.io/wax
   url: https://minicomp.github.io/wax/
   category: minimal
   blurb: "A set of minimal computing tools for producing digital exhibitions, focused on longevity, low costs, and flexibility."
 
 - title: Ed. 
-  time: "2016--2018"
+  time: "2016–2018"
   link: minicomp.github.io/ed
   url: http://minicomp.github.io/ed/
   category: minimal
   blurb: "A Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility."
 
 - title: "Sudan Historical Photo Archive" 
-  time: "2016--2017"
+  time: "2016–2017"
   link: sudanphoto.uofk.edu
   url: http://sudanphoto.uofk.edu/
   category: minimal
@@ -310,14 +310,14 @@ Project"
   blurb: "A web series on research techniques, research technologies, and that researcher life."
 
 # - title: "Alianza Bibliotecaria Dominicana" 
-#   time: "2020--present"
+#   time: "2020–present"
 #   link: 
 #   url: 
 #   category: babylon
 #   blurb: "A coallition of Dominican diaspora and resident librarians."
 
 - title: "#slaveryarchive Book Club" 
-  time: "2020--present"
+  time: "2020–present"
   link: slaveryarchive.wordpress.com
   url: https://slaveryarchive.wordpress.com/
   category: babylon
@@ -333,7 +333,7 @@ Project"
 
 
 - title: "DHQ Internationalization" 
-  time: "2017--present"
+  time: "2017–present"
   link: digitalhumanities.org/dhq/
   url: http://digitalhumanities.org/dhq/submissions/specialIssuesGuidelines.html
   category: babylon
@@ -362,14 +362,14 @@ Project"
   blurb: "A series of visualizations of the collection and circulation of Columbia University library holdings."
 
 - title: "The Open Syllabus Project" 
-  time: "2013--2014"
+  time: "2013–2014"
   link: opensyllabusproject.org
   url: http://opensyllabusproject.org/
   category: babylon
   blurb: "An attempt to collect massive amounts of syllabi from the internet, and to extract and analyze the readings used in anglophone classrooms around the world."
 
 - title: Prism 
-  time: "2011--2012"
+  time: "2011–2012"
   link: praxis.scholarslab.org
   url: http://praxis.scholarslab.org/ 
   category: babylon
