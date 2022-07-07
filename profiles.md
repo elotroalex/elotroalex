@@ -9,11 +9,7 @@ permalink: /profiles/
 
 <h2>In brief</h2>
 
-I am the Digital Scholarship Librarian at Columbia University, where I collaborate with faculty, students and library colleagues in humanities research, pedagogy and knowledge production that involves the use of advanced computation, digital media design, and network technologies. I am the lead coordinator for the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University Libraries, a tech-light library space focused on digital scholarship and pedagogy, and now a broadcast, [Studio Remote](https://www.twitch.tv/culstudio). I'm also co-founder and moderator of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), a trans-disciplinary research cluster focused on experimental humanities; one of the creators and main editors of *[archipelagos journal: a journal of Caribbean digital praxis](http://archipelagosjournal.org/)*, and co-wrangler of its sister conference series, [The Caribbean Digital](http://caribbeandigitalnyc.net/). 
-
-Starting in the Fall of 2022, I will be joining the Spanish and Portuguese Department at Yale University as Senior Lecturer and Associate Research Faculty in Digital Humanities.
-
-My research interests include Caribbean culture and history, with a focus on twentieth century poetry; digital humanities and technology design for different infrastructural and socio-economic environments; and, the relations of power and material extent of the cultural and scholarly record. 
+Alex is Senior Lecturer II and Associate Research Faculty in Digital Humanities in the Department of Spanish and Portuguese at Yale University. He teaches introductory and advanced courses in digital humanities. His research interests include Caribbean culture and history, digital humanities and technology design for different infrastructural and socio-economic environments, and the ownership and material extent of the cultural and scholarly record. He is joint senior editor of *[archipelagos journal](http://archipelagosjournal.org/)*.   
 
 ---
 <p id="cv">Download a copy of the <a class="post-link" target="_blank" href="{{site.baseurl}}/docs/gil-cv.pdf">Curriculum Vitae</a>
@@ -51,7 +47,9 @@ We did not have access to all the Caribbean literature and culture we needed to 
 
 ---
 
-## Columbia University
+## The University 
+
+Before joining Yale as faculty, I worked at Columbia University as a digital scholarship librarian for 10 years. This profile will soon evolve to reflect my contributions to Yale University. 
 
 I was hired at Columbia University Libraries to "coordinate," to un-silo much of what was already being recognized as digital humanities activities across campus. The hire was a shard of light, bringing me into a subject specialist team, Humanities & History, rather than a digital scholarship center. If my main job was to help build community and bridges with faculty and students, I was meant to do it side-by-side with my librarian colleagues. Although I did move on to other parts of the organization, that initial setup provided the foundation for what grew later. The Studio, the xpmethods group, and many of the projects you see listed below come from the understanding that subject matter and intellectual community, not functional expertise, should be our guiding light. After almost a decade, we have been able to place our work at Columbia University on the national and international map. We have developed our own unique reconciliation between the three branches of digital humanities as I see them: architectures of knowledge, algorithmic approaches to corpora and  socio-technical mobilization. At the library, the experimental work we have fostered has quietly and beneficially filtered to other parts of the organization... and yes, we are much less siloed today.
 
