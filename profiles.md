@@ -9,7 +9,7 @@ permalink: /profiles/
 
 <h2>In brief</h2>
 
-Alex is Senior Lecturer II and Associate Research Faculty in Digital Humanities in the Department of Spanish and Portuguese at Yale University. He teaches introductory and advanced courses in digital humanities. His research interests include Caribbean culture and history, digital humanities and technology design for different infrastructural and socio-economic environments, and the ownership and material extent of the cultural and scholarly record. He is joint senior editor of *[archipelagos journal](http://archipelagosjournal.org/)*.   
+Alex is Senior Lecturer II and Associate Research Faculty in Digital Humanities in the Department of Spanish and Portuguese at Yale University. He teaches introductory and advanced courses in digital humanities. His research interests include Caribbean culture and history, digital humanities and technology design for different infrastructural and socio-economic environments, and the ownership and material extent of the cultural and scholarly record. He is the joint senior editor of *[archipelagos journal](http://archipelagosjournal.org/)*.   
 
 ---
 <p id="cv">Download a copy of the <a class="post-link" target="_blank" href="{{site.baseurl}}/docs/gil-cv.pdf">Curriculum Vitae</a>
