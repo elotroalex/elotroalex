@@ -4,8 +4,8 @@
 
 
 
-- title: "The Rose Hall Project" 
-  time: "Coming soon"
+- title: "(Un)Silencing Slavery" 
+  time: "2022"
   link: unsilencing-slavery.org
   url: https://unsilencing-slavery.org/
   category: tcd
@@ -55,7 +55,7 @@
 #######################
 
 - title: "Literary A.I."
-  time: "2021--2022"
+  time: "2021–2022"
   link: literaryai.library.columbia.edu
   url: https://literaryai.library.columbia.edu/
   category: columbia
@@ -208,6 +208,13 @@ Project"
 # Mobilized #
 #############
 
+- title: No están solas
+  time: "2022"
+  link: noestansolas.mx
+  url: https://noestansolas.mx/
+  category: mobilized
+  blurb: "A group of volunteer cultural heritage professionals working to identify and secure digital cultural heritage in Ukraine while the country was under attack—organized by Quinn Dombrowski, Anna Kijas and Sebastian Majstorovic."
+
 - title: SUCHO
   time: "2022"
   link: sucho.org
@@ -262,9 +269,9 @@ Project"
 #####################
 
 - title: "DHQ Special Issue: Minimal Computing."
-  time: "Forthcoming"
-  link:
-  url:
+  time: "2022"
+  link: www.digitalhumanities.org/dhq/vol/16/2/index.html
+  url: http://www.digitalhumanities.org/dhq/vol/16/2/index.html
   category: minimal
   blurb: "A special issue gathering recent work in minimal computing from around the world."
 
@@ -302,12 +309,12 @@ Project"
 
 
 
-- title: "How To Find Sh*t" 
-  time: "Coming soon"
-  link: 
-  url: 
-  category: babylon
-  blurb: "A web series on research techniques, research technologies, and that researcher life."
+# - title: "How To Find Sh*t" 
+#   time: "Coming soon"
+#   link: 
+#   url: 
+#   category: babylon
+#   blurb: "A web series on research techniques, research technologies, and that researcher life."
 
 # - title: "Alianza Bibliotecaria Dominicana" 
 #   time: "2020–present"
