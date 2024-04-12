@@ -2,6 +2,19 @@
 # The Caribbean Digital #
 #########################
 
+- title: "Caribbean Digital Scholarship Collective" 
+  time: "2022–2025"
+  link: mellon.org/grants
+  url: https://mellon.org/grants/grants-database/grants/barnard-college/2106-10809/
+  category: tcd
+  blurb: "A team working to bolster Digital Humanities in and for the Caribbean, with a generous grant from the Andrew W. Melllon foundation."
+
+- title: "In the Same Boats" 
+  time: "2016–present"
+  link: sameboats.org
+  url: http://sameboats.org
+  category: tcd
+  blurb: "A work of collaborative scholarship that aims to trace the life trajectories and intersections of selected 20th Century historical figures in the Black Atlantic."
 
 
 - title: "(Un)Silencing Slavery" 
@@ -10,14 +23,6 @@
   url: https://unsilencing-slavery.org/
   category: tcd
   blurb: "An expressive visualization centering the lives of the enslaved at Rose Hall plantation in Jamaica."
-
-- title: "Caribbean Digital Scholarship Collective" 
-  time: "2022–2025"
-  link: mellon.org/grants
-  url: https://mellon.org/grants/grants-database/grants/barnard-college/2106-10809/
-  category: tcd
-  blurb: "A team working to bolster Digital Humanities in and for the Caribbean, with a generous grant from the Andrew W. Melllon foundation."
-
 
 
 - title: "CariDischo" 
@@ -34,12 +39,6 @@
   category: tcd
   blurb: "A born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean."
 
-- title: "In the Same Boats" 
-  time: "2016–present"
-  link: sameboats.org
-  url: http://sameboats.org
-  category: tcd
-  blurb: "A work of collaborative scholarship that aims to trace the life trajectories and intersections of selected 20th Century historical figures in the Black Atlantic."
 
 - title: "The Caribbean Digital" 
   time: "2015–present"
@@ -51,8 +50,23 @@
 
 
 #######################
-# Columbia University #
+# THe University #
 #######################
+
+- title: "The Critical Computing Initiative" 
+  time: "2024–present"
+  link: 
+  url: 
+  category: yale
+  blurb: "A trans-disciplinary effort to prepare Yale students to better understand the social and political contexts surrounding computation, data and digital media."
+
+- title: "The Creative Forum"
+  time: "2022–present"
+  link: creativeforum.yale.edu
+  url: https://creativeforum.yale.edu/
+  category: yale
+  blurb: "An unlocated space at Yale for the exploration of the creative arts, scholarship, and their interstices."
+
 
 - title: "Literary A.I."
   time: "2021–2022"
@@ -154,9 +168,9 @@ Project"
 ################
 
 - title: "<em>..... and The Dogs Were Silent</em>"
-  time: "Forthcoming"
-  link:
-  url:
+  time: "August 2024"
+  link: dukeupress.edu
+  url: https://www.dukeupress.edu/and-the-dogs-were-silent-et-les-chiens-se-taisaient
   category: cesaire
   blurb: "Introduction, edition and translation of the lost typescript of Aimé Césaire's 'Et les chiens se taisaient,' a historical play based on the Haitian Revolution. (Duke Press)"
 
@@ -200,6 +214,13 @@ Project"
 #############
 # Mobilized #
 #############
+
+- title: "SXCHO: Gaza" 
+  time: "2023–2024"
+  link: 
+  url: 
+  category: mobilized
+  blurb: "A group of volunteer cultural heritage professionals working to identify and secure digital cultural heritage in Gaza."
 
 - title: No están solas
   time: "2022"
