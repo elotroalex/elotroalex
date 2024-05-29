@@ -22,9 +22,6 @@ Over the past decade, he has been a prolific producer and contributing team memb
 
 Below is a selection of my work organized by profiles---some of the different paths I walk on. Although these worlds often intersect with each other, they remain distinct enough to my ears, and I am often, or have been, an other Alex in each. Much of the work listed below is also teamwork, where I play an important role, but by no means the only important role. The dates mark my involvement in a project, not necessarily the lifespan of the project or its publication date.
 
-- TOC
-  {:toc}
-
 ---
 
 ## The Caribbean Digital
